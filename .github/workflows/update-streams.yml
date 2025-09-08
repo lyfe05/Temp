@@ -10,7 +10,9 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-    
+      with:
+        persist-credentials: false
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -19,16 +21,13 @@ jobs:
     - name: Install dependencies
       run: pip install requests
     
-    - name: Run IPTV channel fetcher
-      run: python iptv_fetcher.py  # Your original script
-    
     - name: Generate M3U8 files
-      run: python generate_m3u8.py  # This new script
+      run: python generate_m3u8.py
     
     - name: Commit and push M3U8 files
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add streams/*.m3u8
-        git commit -m "Update stream links $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+        git commit -m "🤖 Auto-update: Refresh stream links [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes to commit"
         git push
