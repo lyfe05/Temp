@@ -1,0 +1,34 @@
+name: Update Stream Links
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Every 4 hours
+  workflow_dispatch:
+
+jobs:
+  update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: pip install requests
+    
+    - name: Run IPTV channel fetcher
+      run: python iptv_fetcher.py  # Your original script
+    
+    - name: Generate M3U8 files
+      run: python generate_m3u8.py  # This new script
+    
+    - name: Commit and push M3U8 files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add streams/*.m3u8
+        git commit -m "Update stream links $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+        git push
