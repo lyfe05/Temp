@@ -1,20 +1,20 @@
 name: Update Stream Links
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours
+    - cron: '0 1 * * *'  # 1:00 AM UTC = 4:00 AM GMT+3
   workflow_dispatch:
 
 jobs:
   update-streams:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # This is crucial!
+      contents: write
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # Add this line
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
