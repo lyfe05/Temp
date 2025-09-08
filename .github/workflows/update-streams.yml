@@ -7,12 +7,15 @@ on:
 jobs:
   update-streams:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This is crucial!
+    
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        persist-credentials: false
-        
+        token: ${{ secrets.GITHUB_TOKEN }}  # Add this line
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
