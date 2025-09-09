@@ -1,41 +1,39 @@
-import glob
+name: Update Stream Links
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 1:00 AM UTC = 4:00 AM GMT+3
+  workflow_dispatch:
 
-def generate_m3u8_files(matches_with_channels):
-    """Generate M3U8 files for each match - clean up old files first"""
-    os.makedirs('streams', exist_ok=True)
+jobs:
+  update-streams:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
-    # Delete all existing .m3u8 files in streams directory
-    existing_files = glob.glob('streams/*.m3u8')
-    for file_path in existing_files:
-        try:
-            os.remove(file_path)
-            print(f"🗑️  Deleted: {file_path}")
-        except Exception as e:
-            print(f"⚠️  Could not delete {file_path}: {e}")
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
-    files_created = 0
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
     
-    for match in matches_with_channels:
-        match_name = match['name']
-        channels = match['channels']
-        safe_name = create_safe_filename(match_name)
-        
-        if len(channels) == 1:
-            # Single channel - create one file
-            filename = f"streams/{safe_name}.m3u8"
-            create_m3u8_file(filename, channels[0]['cmd'])
-            print(f"   📄 Created: {filename}")
-            files_created += 1
-        else:
-            # Multiple channels - create multiple files
-            for i, channel in enumerate(channels, 1):
-                if i == 1:
-                    filename = f"streams/{safe_name}.m3u8"
-                else:
-                    filename = f"streams/{safe_name}_{i}.m3u8"
-                
-                create_m3u8_file(filename, channel['cmd'])
-                print(f"   📄 Created: {filename}")
-                files_created += 1
+    - name: Clean up old streams
+      run: rm -rf streams/*.m3u8 || true
     
-    return files_created
+    - name: Install dependencies
+      run: pip install requests
+    
+    - name: Generate M3U8 files
+      run: python generate_m3u8.py
+    
+    - name: Commit and push M3U8 files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add streams/*.m3u8
+        git commit -m "🤖 Auto-update: Refresh stream links [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes to commit"
+        git push
