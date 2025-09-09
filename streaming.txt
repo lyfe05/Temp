@@ -1,6 +1,6 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-08 20:57:53 GMT+3
-# Total streams: 28
+# Generated: 2025-09-09 02:48:32 GMT+3
+# Total streams: 31
 
 name: Belarus Vs Scotland
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/belarus_vs_scotland.m3u8
@@ -13,6 +13,9 @@ url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/croat
 
 name: Croatia Vs Montenegro
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/croatia_vs_montenegro_2.m3u8
+
+name: El Salvador Vs Suriname
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/el_salvador_vs_suriname.m3u8
 
 name: Equatorial Guinea Vs Tunisia
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/equatorial_guinea_vs_tunisia.m3u8
@@ -73,6 +76,12 @@ url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/mozam
 
 name: Mozambique Vs Botswana
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/mozambique_vs_botswana_2.m3u8
+
+name: Panama Vs Guatemala
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/panama_vs_guatemala.m3u8
+
+name: Panama Vs Guatemala
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/panama_vs_guatemala_2.m3u8
 
 name: Switzerland Vs Slovenia
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/switzerland_vs_slovenia.m3u8
