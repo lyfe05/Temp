@@ -1,6 +1,7 @@
 import requests
 import os
 import re
+import shutil
 
 def fetch_matches():
     """Fetch matches from GitHub"""
@@ -130,8 +131,14 @@ def create_m3u8_file(filename, stream_url):
         f.write(m3u8_content)
 
 def generate_m3u8_files(matches_with_channels):
-    """Generate M3U8 files for each match"""
-    os.makedirs('streams', exist_ok=True)
+    """Generate M3U8 files for each match - clean up old files first"""
+    # Clean up existing streams directory
+    streams_dir = 'streams'
+    if os.path.exists(streams_dir):
+        shutil.rmtree(streams_dir)
+        print(f"🗑️  Cleared existing streams directory")
+    
+    os.makedirs(streams_dir, exist_ok=True)
     files_created = 0
     
     for match in matches_with_channels:
