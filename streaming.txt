@@ -1,6 +1,6 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-09 10:15:35 GMT+3
-# Total streams: 26
+# Generated: 2025-09-10 02:42:26 GMT+3
+# Total streams: 34
 
 name: Albania Vs Latvia
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/albania_vs_latvia.m3u8
@@ -26,8 +26,20 @@ url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/burki
 name: Cabo Verde Vs Cameroon
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cabo_verde_vs_cameroon.m3u8
 
+name: Costa Rica Vs Haiti
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/costa_rica_vs_haiti.m3u8
+
+name: Costa Rica Vs Haiti
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/costa_rica_vs_haiti_2.m3u8
+
 name: Cyprus Vs Romania
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cyprus_vs_romania.m3u8
+
+name: Ecuador Vs Argentina
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ecuador_vs_argentina.m3u8
+
+name: Ecuador Vs Argentina
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ecuador_vs_argentina_2.m3u8
 
 name: France Vs Iceland
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/france_vs_iceland.m3u8
@@ -35,8 +47,20 @@ url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/franc
 name: Gambia Vs Burundi
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/gambia_vs_burundi.m3u8
 
+name: Honduras Vs Nicaragua
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/honduras_vs_nicaragua.m3u8
+
+name: Honduras Vs Nicaragua
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/honduras_vs_nicaragua_2.m3u8
+
+name: Honduras Vs Nicaragua
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/honduras_vs_nicaragua_3.m3u8
+
 name: Hungary Vs Portugal
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hungary_vs_portugal.m3u8
+
+name: Jamaica Vs Trinidad And Tobago
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/jamaica_vs_trinidad_and_tobago.m3u8
 
 name: Kenya Vs Seychelles
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/kenya_vs_seychelles.m3u8
