@@ -1,4 +1,67 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-13 02:34:40 GMT+3
-# Total streams: 0
+# Generated: 2025-09-13 06:07:00 GMT+3
+# Total streams: 21
+
+name: Al Jazira Vs Al Nasr
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_jazira_vs_al_nasr.m3u8
+
+name: Al Jazira Vs Al Nasr
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_jazira_vs_al_nasr_2.m3u8
+
+name: Al Wasl Vs Al Ain
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_wasl_vs_al_ain.m3u8
+
+name: Al Wasl Vs Al Ain
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_wasl_vs_al_ain_2.m3u8
+
+name: Arsenal Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arsenal_vs_nottingham_forest.m3u8
+
+name: Arsenal Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arsenal_vs_nottingham_forest_2.m3u8
+
+name: Arsenal Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arsenal_vs_nottingham_forest_3.m3u8
+
+name: Brentford Vs Chelsea
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/brentford_vs_chelsea.m3u8
+
+name: Cagliari Vs Parma
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cagliari_vs_parma.m3u8
+
+name: Charlton Athletic Vs Millwall
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/charlton_athletic_vs_millwall.m3u8
+
+name: Crawley Town Vs Cheltenham Town
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crawley_town_vs_cheltenham_town.m3u8
+
+name: Crystal Palace Vs Sunderland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_sunderland.m3u8
+
+name: Crystal Palace Vs Sunderland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_sunderland_2.m3u8
+
+name: Everton Vs Aston Villa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/everton_vs_aston_villa.m3u8
+
+name: Everton Vs Aston Villa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/everton_vs_aston_villa_2.m3u8
+
+name: Fiorentina Vs Napoli
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fiorentina_vs_napoli.m3u8
+
+name: Fulham Vs Leeds United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fulham_vs_leeds_united.m3u8
+
+name: Fulham Vs Leeds United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fulham_vs_leeds_united_2.m3u8
+
+name: Juventus Vs Inter
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/juventus_vs_inter.m3u8
+
+name: Newcastle United Vs Wolverhampton Wanderers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/newcastle_united_vs_wolverhampton_wanderers.m3u8
+
+name: Oxford United Vs Leicester City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/oxford_united_vs_leicester_city.m3u8
 
