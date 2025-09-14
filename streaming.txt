@@ -1,4 +1,25 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-14 07:15:15 GMT+3
-# Total streams: 0
+# Generated: 2025-09-14 07:16:40 GMT+3
+# Total streams: 7
+
+name: Atalanta Vs Lecce
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atalanta_vs_lecce.m3u8
+
+name: Manchester City Vs Manchester United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_manchester_united.m3u8
+
+name: Milan Vs Bologna
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/milan_vs_bologna.m3u8
+
+name: Pisa Vs Udinese
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/pisa_vs_udinese.m3u8
+
+name: Roma Vs Torino
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/roma_vs_torino.m3u8
+
+name: Sassuolo Vs Lazio
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sassuolo_vs_lazio.m3u8
+
+name: Southampton Vs Portsmouth
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/southampton_vs_portsmouth.m3u8
 
