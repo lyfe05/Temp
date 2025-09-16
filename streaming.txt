@@ -1,31 +1,37 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-16 02:43:10 GMT+3
-# Total streams: 9
+# Generated: 2025-09-16 20:35:42 GMT+3
+# Total streams: 11
 
-name: Atalanta Vs Lecce
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atalanta_vs_lecce.m3u8
+name: Athletic Bilbao Vs Arsenal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/athletic_bilbao_vs_arsenal.m3u8
 
-name: Como Vs Genoa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/como_vs_genoa.m3u8
+name: Benfica Vs Qaraba
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba_.m3u8
 
-name: Hellas Verona Vs Cremonese
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hellas_verona_vs_cremonese.m3u8
+name: Benfica Vs Qaraba  2
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba__2_1.m3u8
 
-name: Manchester City Vs Manchester United
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_manchester_united.m3u8
+name: Brentford Vs Aston Villa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/brentford_vs_aston_villa.m3u8
 
-name: Milan Vs Bologna
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/milan_vs_bologna.m3u8
+name: Crystal Palace Vs Millwall
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_millwall.m3u8
 
-name: Pisa Vs Udinese
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/pisa_vs_udinese.m3u8
+name: Juventus Vs Borussia Dortmund
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/juventus_vs_borussia_dortmund.m3u8
 
-name: Roma Vs Torino
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/roma_vs_torino.m3u8
+name: Psv Vs Union Saint Gilloise
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psv_vs_union_saint_gilloise.m3u8
 
-name: Sassuolo Vs Lazio
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sassuolo_vs_lazio.m3u8
+name: Psv Vs Union Saint Gilloise 2
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psv_vs_union_saint_gilloise_2_1.m3u8
 
-name: Southampton Vs Portsmouth
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/southampton_vs_portsmouth.m3u8
+name: Real Madrid Vs Marseille
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_madrid_vs_marseille.m3u8
+
+name: Sheffield Wednesday Vs Grimsby Town
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sheffield_wednesday_vs_grimsby_town.m3u8
+
+name: Tottenham Hotspur Vs Villarreal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/tottenham_hotspur_vs_villarreal.m3u8
 
