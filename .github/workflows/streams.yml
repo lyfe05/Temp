@@ -1,36 +1,32 @@
-name: Generate M3U8 Files
+name: Generate M3U8 per Match
 
 on:
   schedule:
-    # Run every hour
-    - cron: "0 * * * *"
-  workflow_dispatch: # allow manual run
+    - cron: "0 * * * *"   # every 1 hour
+  workflow_dispatch:       # manual trigger
 
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install requests rapidfuzz
 
-      - name: Run M3U8 generator
+      - name: Run script
         run: python merge.py
 
-      - name: Commit and push updated streams
+      - name: Commit and push results
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add streams/
-          git commit -m "Auto-update M3U8 streams" || echo "No changes to commit"
+          git commit -m "Update streams folder [skip ci]" || echo "No changes to commit"
           git push
