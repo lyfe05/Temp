@@ -1,9 +1,15 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-15 02:53:31 GMT+3
-# Total streams: 7
+# Generated: 2025-09-16 02:43:10 GMT+3
+# Total streams: 9
 
 name: Atalanta Vs Lecce
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atalanta_vs_lecce.m3u8
+
+name: Como Vs Genoa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/como_vs_genoa.m3u8
+
+name: Hellas Verona Vs Cremonese
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hellas_verona_vs_cremonese.m3u8
 
 name: Manchester City Vs Manchester United
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_manchester_united.m3u8
