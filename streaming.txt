@@ -1,11 +1,11 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-16 21:24:06 GMT+3
+# Generated: 2025-09-16 21:25:58 GMT+3
 # Total streams: 7
 
-name: Benfica Vs Qaraba 
+name: Benfica Vs Qaraba
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba_.m3u8
 
-name: Benfica Vs Qaraba  2 1
+name: Benfica Vs Qaraba  2
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba__2_1.m3u8
 
 name: Brentford Vs Aston Villa
