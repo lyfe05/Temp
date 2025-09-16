@@ -8,7 +8,7 @@ from typing import List
 
 # --- Config: GitHub sources ---
 URL_LYFE = "https://raw.githubusercontent.com/lyfe05/lyfe05/refs/heads/main/matches.txt"
-URL_TEMP = "https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/matches.txt"
+URL_TRIAL = "https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/matches.txt"
 
 # --- Headers for vividmosaica ---
 HEADERS = {
