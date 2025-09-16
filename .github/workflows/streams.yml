@@ -1,4 +1,4 @@
-name: Merge Matches
+name: Generate M3U8 Files
 
 on:
   schedule:
@@ -24,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests rapidfuzz
 
-      - name: Run merge script
+      - name: Run M3U8 generator
         run: python merge.py
 
-      - name: Commit and push results
+      - name: Commit and push updated streams
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add streams/merged.txt
-          git commit -m "Update merged matches (auto)" || echo "No changes to commit"
+          git add streams/
+          git commit -m "Auto-update M3U8 streams" || echo "No changes to commit"
           git push
