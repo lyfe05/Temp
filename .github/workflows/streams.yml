@@ -1,36 +1,36 @@
-name: Update Stream Links
+name: Merge Matches
+
 on:
   schedule:
-    - cron: '00 6 * * *'  # 1:00 AM UTC = 4:00 AM GMT+3
-  workflow_dispatch:
+    # Run every hour
+    - cron: "0 * * * *"
+  workflow_dispatch: # allow manual run
 
 jobs:
-  update-streams:
+  run-script:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-    
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-    
-    - name: Install dependencies
-      run: pip install requests rapidfuzz
-    
-    - name: Generate M3U8 files
-      run: python generate_m3u8.py
-    
-    - name: Commit and push M3U8 files
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add streams/*.m3u8
-        git commit -m "🤖 Auto-update: Refresh stream links [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes to commit"
-        git push
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install requests rapidfuzz
+
+      - name: Run merge script
+        run: python merge.py
+
+      - name: Commit and push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streams/merged.txt
+          git commit -m "Update merged matches (auto)" || echo "No changes to commit"
+          git push
