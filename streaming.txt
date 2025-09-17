@@ -1,25 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-16 21:25:58 GMT+3
-# Total streams: 7
-
-name: Benfica Vs Qaraba
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba_.m3u8
-
-name: Benfica Vs Qaraba  2
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_qaraba__2_1.m3u8
-
-name: Brentford Vs Aston Villa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/brentford_vs_aston_villa.m3u8
-
-name: Crystal Palace Vs Millwall
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_millwall.m3u8
-
-name: Juventus Vs Borussia Dortmund
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/juventus_vs_borussia_dortmund.m3u8
-
-name: Real Madrid Vs Marseille
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_madrid_vs_marseille.m3u8
-
-name: Tottenham Hotspur Vs Villarreal
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/tottenham_hotspur_vs_villarreal.m3u8
+# Generated: 2025-09-17 05:37:54 GMT+3
+# Total streams: 0
 
