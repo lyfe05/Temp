@@ -1,4 +1,22 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-17 05:37:54 GMT+3
-# Total streams: 0
+# Generated: 2025-09-17 07:00:43 GMT+3
+# Total streams: 6
+
+name: Bayern Munich Vs Chelsea
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/bayern_munich_vs_chelsea.m3u8
+
+name: Feyenoord Vs Fortuna Sittard
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/feyenoord_vs_fortuna_sittard.m3u8
+
+name: Liverpool Fc Vs Atl Tico De Madrid
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/liverpool_fc_vs_atl_tico_de_madrid.m3u8
+
+name: Psg Vs Atalanta
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psg_vs_atalanta.m3u8
+
+name: Slavia Prague Vs Bod Glimt
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/slavia_prague_vs_bod_glimt.m3u8
+
+name: Swansea City Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/swansea_city_vs_nottingham_forest.m3u8
 
