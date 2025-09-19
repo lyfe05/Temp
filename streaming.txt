@@ -1,4 +1,28 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-18 05:37:07 GMT+3
-# Total streams: 0
+# Generated: 2025-09-19 05:37:16 GMT+3
+# Total streams: 8
+
+name: Al Ahli Vs Al Hilal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_ahli_vs_al_hilal.m3u8
+
+name: Arminia Bielefeld Vs Greuther F Rth
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arminia_bielefeld_vs_greuther_f_rth.m3u8
+
+name: Kaiserslautern Vs Preussen M Nster
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/kaiserslautern_vs_preussen_m_nster.m3u8
+
+name: Lecce Vs Cagliari
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lecce_vs_cagliari.m3u8
+
+name: Middlesbrough Vs West Bromwich Albion
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/middlesbrough_vs_west_bromwich_albion.m3u8
+
+name: Real Betis Vs Real Sociedad
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_betis_vs_real_sociedad.m3u8
+
+name: Rio Ave Vs Porto
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rio_ave_vs_porto.m3u8
+
+name: Sparta Rotterdam Vs Fc Twente
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sparta_rotterdam_vs_fc_twente.m3u8
 
