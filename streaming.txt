@@ -1,49 +1,16 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-21 05:37:08 GMT+3
-# Total streams: 15
+# Generated: 2025-09-22 05:38:34 GMT+3
+# Total streams: 4
 
-name: Afc Bournemouth Vs Newcastle United
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/afc_bournemouth_vs_newcastle_united.m3u8
+name: Millwall Vs Watford
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/millwall_vs_watford.m3u8
 
-name: Arsenal Vs Manchester City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arsenal_vs_manchester_city.m3u8
+name: Millwall Vs Watford 2
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/millwall_vs_watford_2_1.m3u8
 
-name: Auxerre Vs Toulouse
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/auxerre_vs_toulouse.m3u8
+name: Napoli Vs Pisa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/napoli_vs_pisa.m3u8
 
-name: Az Vs Feyenoord
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/az_vs_feyenoord.m3u8
-
-name: Barcelona Vs Getafe
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/barcelona_vs_getafe.m3u8
-
-name: Bristol City Vs Oxford United
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/bristol_city_vs_oxford_united.m3u8
-
-name: Elche Vs Real Oviedo
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/elche_vs_real_oviedo.m3u8
-
-name: Lazio Vs Roma
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lazio_vs_roma.m3u8
-
-name: Le Havre Vs Lorient
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/le_havre_vs_lorient.m3u8
-
-name: Mallorca Vs Atl Tico De Madrid
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/mallorca_vs_atl_tico_de_madrid.m3u8
-
-name: Monaco Vs Metz
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/monaco_vs_metz.m3u8
-
-name: Paris Vs Strasbourg
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/paris_vs_strasbourg.m3u8
-
-name: Psv Vs Ajax
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psv_vs_ajax.m3u8
-
-name: Rayo Vallecano Vs Celta De Vigo
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rayo_vallecano_vs_celta_de_vigo.m3u8
-
-name: Sunderland Vs Aston Villa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sunderland_vs_aston_villa.m3u8
+name: Sporting Cp Vs Moreirense
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sporting_cp_vs_moreirense.m3u8
 
