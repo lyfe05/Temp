@@ -1,6 +1,6 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-23 05:38:48 GMT+3
-# Total streams: 16
+# Generated: 2025-09-23 19:08:23 GMT+3
+# Total streams: 17
 
 name: Athletic Bilbao Vs Girona
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/athletic_bilbao_vs_girona.m3u8
@@ -31,6 +31,9 @@ url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/linco
 
 name: Liverpool Fc Vs Southampton
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/liverpool_fc_vs_southampton.m3u8
+
+name: Liverpool Fc Vs Southampton 2
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/liverpool_fc_vs_southampton_2_1.m3u8
 
 name: Milan Vs Lecce
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/milan_vs_lecce.m3u8
