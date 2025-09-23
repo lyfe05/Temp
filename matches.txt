@@ -1,121 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Los Angeles FC Vs Real Salt Lake
-🕒 Start: 2025-09-22 04:00 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | Fox Sports 1: https://vuen.link/ch?id=81 | https://glisco.link/ch?id=81
-
-==================================================
-
-🏟️ Match: Arda Vs Cherno More
-🕒 Start: 2025-09-22 18:00 GMT+3
-📍 Tournament: Bulgaria Parva Liga
-📺 Channels:
-BG | Diema Sport: https://vuen.link/ch?id=48 | https://glisco.link/ch?id=48
-
-==================================================
-
-🏟️ Match: Vukovar Vs Rijeka
-🕒 Start: 2025-09-22 19:00 GMT+3
-📍 Tournament: Croatia 1. HNL
-📺 Channels:
-HR | Max Sport 1: https://vuen.link/ch?id=70 | https://glisco.link/ch?id=70
-
-==================================================
-
-🏟️ Match: Galatasaray Vs Konyaspor
-🕒 Start: 2025-09-22 20:00 GMT+3
-📍 Tournament: Turkey Super Lig
-📺 Channels:
-US | beIN Sports: https://vuen.link/ch?id=39 | https://glisco.link/ch?id=39
-TR | beIN Sports 1: https://vuen.link/ch?id=91 | https://glisco.link/ch?id=91
-
-==================================================
-
-🏟️ Match: Randers Vs Nordsjælland
-🕒 Start: 2025-09-22 20:00 GMT+3
-📍 Tournament: Denmark Super Liga
-📺 Channels:
-DK | TV2 Sport X: https://vuen.link/ch?id=42 | https://glisco.link/ch?id=42
-
-==================================================
-
-🏟️ Match: Värnamo Vs Halmstad
-🕒 Start: 2025-09-22 20:00 GMT+3
-📍 Tournament: Sweden Allsvenskan
-📺 Channels:
-SE | HBO MAX: https://vuen.link/ch?id=68 | https://glisco.link/ch?id=68
-
-==================================================
-
-🏟️ Match: Norrköping Vs AIK
-🕒 Start: 2025-09-22 20:10 GMT+3
-📍 Tournament: Sweden Allsvenskan
-📺 Channels:
-SE | HBO MAX: https://vuen.link/ch?id=69 | https://glisco.link/ch?id=69
-
-==================================================
-
-🏟️ Match: Botev Vratsa Vs CSKA Sofia
-🕒 Start: 2025-09-22 20:30 GMT+3
-📍 Tournament: Bulgaria Parva Liga
-📺 Channels:
-BG | Diema Sport: https://vuen.link/ch?id=48 | https://glisco.link/ch?id=48
-
-==================================================
-
-🏟️ Match: Burgos Vs Granada
-🕒 Start: 2025-09-22 21:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LaLiga Hypermotion: https://vuen.link/ch?id=94 | https://glisco.link/ch?id=94
-
-==================================================
-
-🏟️ Match: Napoli Vs Pisa
-🕒 Start: 2025-09-22 21:45 GMT+3
-📍 Tournament: Italy Serie A
-📺 Channels:
-GB | Astro Football: https://vuen.link/ch?id=9 | https://glisco.link/ch?id=9
-IT | Sky Sport Calcio: https://vuen.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: Millwall Vs Watford
-🕒 Start: 2025-09-22 22:00 GMT+3
-📍 Tournament: Great Britain Championship
-📺 Channels:
-GB | Sky Sports Football: https://vuen.link/ch?id=5 | https://glisco.link/ch?id=5
-US | CBS Sports Network: https://vuen.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: Sporting CP Vs Moreirense
-🕒 Start: 2025-09-22 22:15 GMT+3
-📍 Tournament: Portugal Primeira Liga
-📺 Channels:
-PT | Sport TV1: https://vuen.link/ch?id=21 | https://glisco.link/ch?id=21
-US | GOLTV: https://vuen.link/ch?id=96 | https://glisco.link/ch?id=96
-
-==================================================
-
-🏟️ Match: Estudiantes Vs Defensa y Justicia
-🕒 Start: 2025-09-23 01:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | ESPN Premium: https://vuen.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Belgrano Vs Newell's Old Boys
-🕒 Start: 2025-09-23 03:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | TNT Sports: https://vuen.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
 🏟️ Match: Sokol Brozany Vs Slavia Praha
 🕒 Start: 2025-09-23 17:00 GMT+3
 📍 Tournament: Czech Republic Czech Cup
@@ -141,14 +25,6 @@ US | Paramount+: https://vuen.link/ch?id=3 | https://glisco.link/ch?id=3
 ==================================================
 
 🏟️ Match: Bayern Vs Freiburg
-🕒 Start: 2025-09-23 19:00 GMT+3
-📍 Tournament: Frauen Bundesliga
-📺 Channels:
-DE | DAZN1: https://vuen.link/ch?id=17 | https://glisco.link/ch?id=17
-
-==================================================
-
-🏟️ Match: Levante Vs Real Madrid
 🕒 Start: 2025-09-23 19:00 GMT+3
 📍 Tournament: Frauen Bundesliga
 📺 Channels:
@@ -367,6 +243,7 @@ PT | Benfica TV: https://vuen.link/ch?id=21 | https://glisco.link/ch?id=21
 📺 Channels:
 US | ESPN2: https://vuen.link/ch?id=5 | https://glisco.link/ch?id=5
 GB | Now Sports 2: https://vuen.link/ch?id=6 | https://glisco.link/ch?id=6
+DE | DAZN1: https://vuen.link/ch?id=17 | https://glisco.link/ch?id=17
 FR | beIN Sports 3: https://vuen.link/ch?id=53 | https://glisco.link/ch?id=53
 ES | ESPN Deportes: https://vuen.link/ch?id=86 | https://glisco.link/ch?id=86
 
@@ -374,6 +251,284 @@ ES | ESPN Deportes: https://vuen.link/ch?id=86 | https://glisco.link/ch?id=86
 
 🏟️ Match: Sevilla Vs Villarreal
 🕒 Start: 2025-09-23 22:30 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | Now Sports 3: https://vuen.link/ch?id=7 | https://glisco.link/ch?id=7
+ES | LaLiga TV Bar: https://vuen.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: Racing Club Vs Vélez Sarsfield
+🕒 Start: 2025-09-24 01:00 GMT+3
+📍 Tournament: South America Copa Libertadores
+📺 Channels:
+US | beIN Sports: https://vuen.link/ch?id=39 | https://glisco.link/ch?id=39
+
+==================================================
+
+🏟️ Match: Fluminense Vs Lanús
+🕒 Start: 2025-09-24 03:30 GMT+3
+📍 Tournament: South America Copa Sudamericana
+📺 Channels:
+US | beIN Sports: https://vuen.link/ch?id=39 | https://glisco.link/ch?id=39
+
+==================================================
+
+🏟️ Match: Guadalajara Vs Necaxa
+🕒 Start: 2025-09-24 04:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | Universo: https://vuen.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: Puebla Vs Pachuca
+🕒 Start: 2025-09-24 04:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | TUDN: https://vuen.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Juárez Vs Pumas UNAM
+🕒 Start: 2025-09-24 06:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | Universo: https://vuen.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: Volos NFC Vs Atromitos
+🕒 Start: 2025-09-24 15:00 GMT+3
+📍 Tournament: Greece Greek Cup
+📺 Channels:
+GR | Cosmote Sport 3: https://vuen.link/ch?id=23 | https://glisco.link/ch?id=23
+
+==================================================
+
+🏟️ Match: Karlovy Vary Vs Sparta Praha
+🕒 Start: 2025-09-24 17:00 GMT+3
+📍 Tournament: Czech Republic Czech Cup
+📺 Channels:
+CZ | Oneplay Sport 1: https://vuen.link/ch?id=41 | https://glisco.link/ch?id=41
+
+==================================================
+
+🏟️ Match: Parma Vs Spezia
+🕒 Start: 2025-09-24 18:00 GMT+3
+📍 Tournament: Italy Coppa Italia
+📺 Channels:
+GB | Premier Sports 2: https://vuen.link/ch?id=34 | https://glisco.link/ch?id=34
+
+==================================================
+
+🏟️ Match: AEK Athens Vs Panaitolikos
+🕒 Start: 2025-09-24 19:00 GMT+3
+📍 Tournament: Greece Greek Cup
+📺 Channels:
+GR | Cosmote Sport 3: https://vuen.link/ch?id=23 | https://glisco.link/ch?id=23
+
+==================================================
+
+🏟️ Match: Larissa Vs Levadiakos
+🕒 Start: 2025-09-24 19:00 GMT+3
+📍 Tournament: Greece Greek Cup
+📺 Channels:
+GR | Cosmote Sport 5: https://vuen.link/ch?id=25 | https://glisco.link/ch?id=25
+
+==================================================
+
+🏟️ Match: Hellas Verona Vs Venezia
+🕒 Start: 2025-09-24 19:30 GMT+3
+📍 Tournament: Italy Coppa Italia
+📺 Channels:
+GB | Premier Sports 1: https://vuen.link/ch?id=35 | https://glisco.link/ch?id=35
+
+==================================================
+
+🏟️ Match: Zbrojovka Brno Vs Teplice
+🕒 Start: 2025-09-24 19:30 GMT+3
+📍 Tournament: Czech Republic Czech Cup
+📺 Channels:
+CZ | Oneplay Sport 1: https://vuen.link/ch?id=41 | https://glisco.link/ch?id=41
+
+==================================================
+
+🏟️ Match: Midtjylland Vs Sturm Graz
+🕒 Start: 2025-09-24 19:45 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+GB | TNT Sports 3: https://vuen.link/ch?id=3 | https://glisco.link/ch?id=3
+US | CBS Sports Network: https://vuen.link/ch?id=8 | https://glisco.link/ch?id=8
+ES | TUDN: https://vuen.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: PAOK Vs Maccabi Tel Aviv
+🕒 Start: 2025-09-24 19:45 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+GR | Cosmote Sport 2: https://vuen.link/ch?id=24 | https://glisco.link/ch?id=24
+ES | M. Liga de Campeones 2: https://vuen.link/ch?id=28 | https://glisco.link/ch?id=28
+
+==================================================
+
+🏟️ Match: Raków Częstochowa Vs Lech Poznań
+🕒 Start: 2025-09-24 19:45 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport 3: https://vuen.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Getafe Vs Deportivo Alavés
+🕒 Start: 2025-09-24 20:00 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | Now Sports 2: https://vuen.link/ch?id=6 | https://glisco.link/ch?id=6
+ES | ESPN Deportes: https://vuen.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Kayserispor Vs Beşiktaş
+🕒 Start: 2025-09-24 20:00 GMT+3
+📍 Tournament: Turkey Super Lig
+📺 Channels:
+US | beIN Sports: https://vuen.link/ch?id=39 | https://glisco.link/ch?id=39
+TR | beIN Sports 1: https://vuen.link/ch?id=91 | https://glisco.link/ch?id=91
+
+==================================================
+
+🏟️ Match: Tottenham Hotspur Vs Doncaster Rovers
+🕒 Start: 2025-09-24 21:45 GMT+3
+📍 Tournament: England League Cup
+📺 Channels:
+GB | Sky Sports+: https://vuen.link/ch?id=31 | https://glisco.link/ch?id=31
+
+==================================================
+
+🏟️ Match: Newcastle United Vs Bradford City
+🕒 Start: 2025-09-24 21:45 GMT+3
+📍 Tournament: England League Cup
+📺 Channels:
+GB | Sky Sports+: https://vuen.link/ch?id=32 | https://glisco.link/ch?id=32
+
+==================================================
+
+🏟️ Match: Huddersfield Town Vs Manchester City
+🕒 Start: 2025-09-24 21:45 GMT+3
+📍 Tournament: England League Cup
+📺 Channels:
+GB | Sky Sports+: https://vuen.link/ch?id=33 | https://glisco.link/ch?id=33
+FR | beIN Sports 2: https://vuen.link/ch?id=52 | https://glisco.link/ch?id=52
+
+==================================================
+
+🏟️ Match: Real Betis Vs Nottingham Forest
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+GB | TNT Sports 1: https://vuen.link/ch?id=1 | https://glisco.link/ch?id=1
+US | CBS Sports Network: https://vuen.link/ch?id=8 | https://glisco.link/ch?id=8
+ES | M. Liga de Campeones: https://vuen.link/ch?id=27 | https://glisco.link/ch?id=27
+FR | Canal+ Sport: https://vuen.link/ch?id=50 | https://glisco.link/ch?id=50
+
+==================================================
+
+🏟️ Match: Crvena Zvezda Vs Celtic
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+GB | TNT Sports 2: https://vuen.link/ch?id=2 | https://glisco.link/ch?id=2
+IT | Sky Sport 254: https://vuen.link/ch?id=46 | https://glisco.link/ch?id=46
+ES | M. Liga de Campeones 5: https://vuen.link/ch?id=94 | https://glisco.link/ch?id=94
+
+==================================================
+
+🏟️ Match: Nice Vs Roma
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+GB | TNT Sports 3: https://vuen.link/ch?id=3 | https://glisco.link/ch?id=3
+ES | TUDN: https://vuen.link/ch?id=30 | https://glisco.link/ch?id=30
+IT | Sky Sport Uno: https://vuen.link/ch?id=47 | https://glisco.link/ch?id=47
+FR | Canal+ Foot: https://vuen.link/ch?id=51 | https://glisco.link/ch?id=51
+
+==================================================
+
+🏟️ Match: Port Vale Vs Arsenal
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: England League Cup
+📺 Channels:
+GB | Sky Sports Football: https://vuen.link/ch?id=5 | https://glisco.link/ch?id=5
+
+==================================================
+
+🏟️ Match: Freiburg Vs Basel
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+DE | Nitro: https://vuen.link/ch?id=11 | https://glisco.link/ch?id=11
+ES | M. Liga de Campeones 6: https://vuen.link/ch?id=28 | https://glisco.link/ch?id=28
+
+==================================================
+
+🏟️ Match: Como Vs Sassuolo
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Italy Coppa Italia
+📺 Channels:
+DE | DAZN2: https://vuen.link/ch?id=18 | https://glisco.link/ch?id=18
+ES | DAZN1: https://vuen.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Dinamo Zagreb Vs Fenerbahçe
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+ES | M. Liga de Campeones 7: https://vuen.link/ch?id=40 | https://glisco.link/ch?id=40
+FR | Canal+ Live 4: https://vuen.link/ch?id=54 | https://glisco.link/ch?id=54
+
+==================================================
+
+🏟️ Match: Sporting Braga Vs Feyenoord
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+ES | M. Liga de Campeones 4: https://vuen.link/ch?id=48 | https://glisco.link/ch?id=48
+FR | Canal+ Live 3: https://vuen.link/ch?id=53 | https://glisco.link/ch?id=53
+NL | Ziggo Sport: https://vuen.link/ch?id=88 | https://glisco.link/ch?id=88
+
+==================================================
+
+🏟️ Match: Malmö FF Vs Ludogorets
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Europe UEFA Europa League
+📺 Channels:
+BG | MAX Sport 3: https://vuen.link/ch?id=49 | https://glisco.link/ch?id=49
+FR | Canal+ Live 7: https://vuen.link/ch?id=57 | https://glisco.link/ch?id=57
+
+==================================================
+
+🏟️ Match: Legia Warszawa Vs Jagiellonia Białystok
+🕒 Start: 2025-09-24 22:00 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport 3: https://vuen.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Atlético Madrid Vs Rayo Vallecano
+🕒 Start: 2025-09-24 22:30 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | Now Sports 2: https://vuen.link/ch?id=6 | https://glisco.link/ch?id=6
+ES | ESPN Deportes: https://vuen.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Real Sociedad Vs Mallorca
+🕒 Start: 2025-09-24 22:30 GMT+3
 📍 Tournament: Spain La Liga
 📺 Channels:
 GB | Now Sports 3: https://vuen.link/ch?id=7 | https://glisco.link/ch?id=7
