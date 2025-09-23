@@ -2,3 +2,4 @@ GB
 CA
 US
 AU
+MZ
