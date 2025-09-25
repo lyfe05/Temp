@@ -1,43 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-24 09:22:00 GMT+3
-# Total streams: 13
-
-name: Atl Tico De Madrid Vs Rayo Vallecano
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atl_tico_de_madrid_vs_rayo_vallecano.m3u8
-
-name: Hellas Verona Vs Venezia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hellas_verona_vs_venezia.m3u8
-
-name: Huddersfield Town Vs Manchester City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/huddersfield_town_vs_manchester_city.m3u8
-
-name: Midtjylland Vs Sturm Graz
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/midtjylland_vs_sturm_graz.m3u8
-
-name: Midtjylland Vs Sturm Graz 2
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/midtjylland_vs_sturm_graz_2_1.m3u8
-
-name: Newcastle United Vs Bradford City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/newcastle_united_vs_bradford_city.m3u8
-
-name: Nice Vs Roma
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/nice_vs_roma.m3u8
-
-name: Parma Vs Spezia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/parma_vs_spezia.m3u8
-
-name: Port Vale Vs Arsenal
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/port_vale_vs_arsenal.m3u8
-
-name: Real Betis Vs Nottingham Forest
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_betis_vs_nottingham_forest.m3u8
-
-name: Real Betis Vs Nottingham Forest 2
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_betis_vs_nottingham_forest_2_1.m3u8
-
-name: Real Sociedad Vs Mallorca
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_sociedad_vs_mallorca.m3u8
-
-name: Tottenham Hotspur Vs Doncaster Rovers
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/tottenham_hotspur_vs_doncaster_rovers.m3u8
+# Generated: 2025-09-25 05:38:44 GMT+3
+# Total streams: 0
 
