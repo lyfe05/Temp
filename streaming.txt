@@ -1,31 +1,16 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-25 07:30:21 GMT+3
-# Total streams: 9
+# Generated: 2025-09-26 05:38:15 GMT+3
+# Total streams: 4
 
-name: Al Hilal Vs Al Okhdood
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_hilal_vs_al_okhdood.m3u8
+name: Bayern Munich Vs Werder Bremen
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/bayern_munich_vs_werder_bremen.m3u8
 
-name: Aston Villa Vs Bologna
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aston_villa_vs_bologna.m3u8
+name: Girona Vs Espanyol
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/girona_vs_espanyol.m3u8
 
-name: Aston Villa Vs Bologna 2
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aston_villa_vs_bologna_2_1.m3u8
+name: Strasbourg Vs Marseille
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/strasbourg_vs_marseille.m3u8
 
-name: Genoa Vs Empoli
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/genoa_vs_empoli.m3u8
-
-name: Lille Vs Brann
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lille_vs_brann.m3u8
-
-name: Lille Vs Brann 2
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lille_vs_brann_2_1.m3u8
-
-name: Osasuna Vs Elche
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/osasuna_vs_elche.m3u8
-
-name: Rangers Vs Krc Genk
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rangers_vs_krc_genk.m3u8
-
-name: Real Oviedo Vs Barcelona
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_oviedo_vs_barcelona.m3u8
+name: West Bromwich Albion Vs Leicester City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/west_bromwich_albion_vs_leicester_city.m3u8
 
