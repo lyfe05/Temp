@@ -1,4 +1,133 @@
 # 🎯 Available Live Streams
-# Generated: 2025-09-27 07:29:18 GMT+3
-# Total streams: 0
+# Generated: 2025-09-27 11:07:03 GMT+3
+# Total streams: 43
+
+name: Ajax Vs Nac Breda
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ajax_vs_nac_breda.m3u8
+
+name: Ajax Vs Nac Breda
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ajax_vs_nac_breda_2.m3u8
+
+name: Al Fateh Vs Al Qadsiah
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_fateh_vs_al_qadsiah.m3u8
+
+name: Atl Tico De Madrid Vs Real Madrid
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atl_tico_de_madrid_vs_real_madrid.m3u8
+
+name: Atl Tico De Madrid Vs Real Madrid
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/atl_tico_de_madrid_vs_real_madrid_2.m3u8
+
+name: Borussia M Nchengladbach Vs Eintracht Frankfurt
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/borussia_m_nchengladbach_vs_eintracht_frankfurt.m3u8
+
+name: Brentford Vs Manchester United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/brentford_vs_manchester_united.m3u8
+
+name: Charlton Athletic Vs Blackburn Rovers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/charlton_athletic_vs_blackburn_rovers.m3u8
+
+name: Chelsea Vs Brighton Hove Albion
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/chelsea_vs_brighton_hove_albion.m3u8
+
+name: Como Vs Cremonese
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/como_vs_cremonese.m3u8
+
+name: Coventry City Vs Birmingham City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/coventry_city_vs_birmingham_city.m3u8
+
+name: Crystal Palace Vs Liverpool Fc
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_liverpool_fc.m3u8
+
+name: Elversberg Vs Holstein Kiel
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/elversberg_vs_holstein_kiel.m3u8
+
+name: Estoril Vs Sporting Cp
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/estoril_vs_sporting_cp.m3u8
+
+name: Excelsior Vs Psv
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/excelsior_vs_psv.m3u8
+
+name: Getafe Vs Levante
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/getafe_vs_levante.m3u8
+
+name: Getafe Vs Levante
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/getafe_vs_levante_2.m3u8
+
+name: Heidenheim Vs Augsburg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/heidenheim_vs_augsburg.m3u8
+
+name: Ipswich Town Vs Portsmouth
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ipswich_town_vs_portsmouth.m3u8
+
+name: Juventus Vs Atalanta
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/juventus_vs_atalanta.m3u8
+
+name: Karlsruher Sc Vs Magdeburg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/karlsruher_sc_vs_magdeburg.m3u8
+
+name: Leeds United Vs Afc Bournemouth
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/leeds_united_vs_afc_bournemouth.m3u8
+
+name: Lorient Vs Monaco
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lorient_vs_monaco.m3u8
+
+name: Mainz 05 Vs Borussia Dortmund
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/mainz_05_vs_borussia_dortmund.m3u8
+
+name: Manchester City Vs Burnley
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_burnley.m3u8
+
+name: Nottingham Forest Vs Sunderland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/nottingham_forest_vs_sunderland.m3u8
+
+name: Oxford United Vs Sheffield United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/oxford_united_vs_sheffield_united.m3u8
+
+name: Paderborn Vs Kaiserslautern
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/paderborn_vs_kaiserslautern.m3u8
+
+name: Preston North End Vs Bristol City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/preston_north_end_vs_bristol_city.m3u8
+
+name: Psg Vs Auxerre
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psg_vs_auxerre.m3u8
+
+name: Santa Clara Vs Tondela
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/santa_clara_vs_tondela.m3u8
+
+name: Sheffield Wednesday Vs Queens Park Rangers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sheffield_wednesday_vs_queens_park_rangers.m3u8
+
+name: Southampton Vs Middlesbrough
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/southampton_vs_middlesbrough.m3u8
+
+name: St Pauli Vs Bayer Leverkusen
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/st_pauli_vs_bayer_leverkusen.m3u8
+
+name: Stoke City Vs Norwich City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/stoke_city_vs_norwich_city.m3u8
+
+name: Swansea City Vs Millwall
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/swansea_city_vs_millwall.m3u8
+
+name: Tottenham Hotspur Vs Wolverhampton Wanderers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/tottenham_hotspur_vs_wolverhampton_wanderers.m3u8
+
+name: Toulouse Vs Nantes
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/toulouse_vs_nantes.m3u8
+
+name: Vfl Bochum Vs Fortuna D Sseldorf
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/vfl_bochum_vs_fortuna_d_sseldorf.m3u8
+
+name: Vfl Wolfsburg Vs Rb Leipzig
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/vfl_wolfsburg_vs_rb_leipzig.m3u8
+
+name: Villarreal Vs Athletic Bilbao
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/villarreal_vs_athletic_bilbao.m3u8
+
+name: Watford Vs Hull City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/watford_vs_hull_city.m3u8
+
+name: Wrexham Vs Derby County
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/wrexham_vs_derby_county.m3u8
 
