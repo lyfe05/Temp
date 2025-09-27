@@ -29,7 +29,7 @@ def collapse_protocol_slashes(s: str) -> str:
 
 def extract_arrays_from_text(js_text: str) -> List[str]:
     results = []
-    # Find patterns like ["h","t","t","p",...]
+    # Match JavaScript arrays like ["h","t","t","p",...]
     for m in re.finditer(r'\[\s*(?:"[a-zA-Z0-9\/:\.\?\=\&_-]+"\s*,\s*)+"[a-zA-Z0-9\/:\.\?\=\&_-]+"\s*\]', js_text):
         results.append(m.group(0))
     return results
@@ -47,14 +47,14 @@ def extract_direct_stream_url(embed_url: str) -> str:
         r.raise_for_status()
         text = r.text
 
-        # Try to extract obfuscated JS arrays
+        # Try to decode obfuscated JS array URL
         arrays = extract_arrays_from_text(text)
         for arr in arrays:
             url = join_array_chars(arr)
             if url.startswith(("http://", "https://")) and ".m3u8" in url:
                 return url
 
-        # If nothing found, fallback: try any direct URLs
+        # Fallback: find any .m3u8 link directly in HTML
         urls = re.findall(r'https?://[^\s"\'>]+\.m3u8[^\s"\'>]*', text)
         return urls[0] if urls else embed_url
 
@@ -123,7 +123,8 @@ def filter_channels(channels, whitelist):
         valid_links = []
         for lnk in links.split("|"):
             lnk = lnk.strip()
-            if "https://vuen.link/ch?id=" in lnk:
+            # ✅ Now matches ANY domain with /ch?id=
+            if re.search(r"https?://[^/]+/ch\?id=", lnk):
                 direct_url = convert_url(lnk)
                 valid_links.append(direct_url)
         if valid_links:
@@ -162,6 +163,7 @@ def process_and_generate():
         if not title:
             continue
 
+        # Fuzzy match
         best_title, best_score = None, 0
         for tb_title in trial_map.keys():
             score = fuzz.ratio(title.lower(), tb_title.lower())
