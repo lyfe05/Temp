@@ -23,49 +23,78 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
+
 # --- Utility ---
 def collapse_protocol_slashes(s: str) -> str:
     return re.sub(r'^(https?:)/*', r'\1//', s)
 
+
 def extract_arrays_from_text(js_text: str) -> List[str]:
     results = []
-    # Match JavaScript arrays like ["h","t","t","p",...]
-    for m in re.finditer(r'\[\s*(?:"[a-zA-Z0-9\/:\.\?\=\&_-]+"\s*,\s*)+"[a-zA-Z0-9\/:\.\?\=\&_-]+"\s*\]', js_text):
-        results.append(m.group(0))
+    for m in re.finditer(r"return\s*\(\s*\[", js_text):
+        start = m.end() - 1
+        depth = 0
+        end = None
+        for i in range(start, len(js_text)):
+            ch = js_text[i]
+            if ch == '[':
+                depth += 1
+            elif ch == ']':
+                depth -= 1
+                if depth == 0:
+                    end = i
+                    break
+        if end:
+            results.append(js_text[start:end + 1])
     return results
 
+
 def join_array_chars(array_text: str) -> str:
-    chars = re.findall(r'"([^"]+)"', array_text)
-    joined = "".join(chars)
+    items = re.findall(r'"([^"]*)"|\'([^\']*)\'', array_text)
+    elems = [d if d != "" else s for d, s in items]
+    joined = "".join(elems)
     joined = joined.replace('\\/', '/').replace('\\\\', '\\')
     return collapse_protocol_slashes(joined)
 
+
+def find_urls_in_text(text: str) -> List[str]:
+    return re.findall(r'https?://[^\s"\'>]+', text)
+
+
 def extract_direct_stream_url(embed_url: str) -> str:
-    """Extract direct .m3u8 stream URL from obfuscated vividmosaica JS arrays"""
+    """Extract the actual .m3u8 stream URL from vividmosaica embed."""
     try:
         r = requests.get(embed_url, headers=HEADERS, timeout=15)
         r.raise_for_status()
         text = r.text
 
-        # Try to decode obfuscated JS array URL
+        found_urls = []
         arrays = extract_arrays_from_text(text)
         for arr in arrays:
             url = join_array_chars(arr)
-            if url.startswith(("http://", "https://")) and ".m3u8" in url:
-                return url
+            if url.startswith(("http://", "https://")):
+                found_urls.append(url)
 
-        # Fallback: find any .m3u8 link directly in HTML
-        urls = re.findall(r'https?://[^\s"\'>]+\.m3u8[^\s"\'>]*', text)
-        return urls[0] if urls else embed_url
+        if not found_urls:
+            found_urls = find_urls_in_text(text)
+
+        # ✅ Prefer real .m3u8 URLs
+        m3u8_urls = [u for u in found_urls if ".m3u8" in u]
+        if m3u8_urls:
+            return m3u8_urls[0]
+
+        return found_urls[0] if found_urls else embed_url
 
     except Exception as e:
         print(f"❌ Error extracting from {embed_url}: {e}")
         return embed_url
 
+
 def fetch_matches(url: str) -> str:
     resp = requests.get(url, timeout=15)
     resp.raise_for_status()
     return resp.text
+
 
 def split_matches(text: str):
     blocks, current = [], []
@@ -80,9 +109,11 @@ def split_matches(text: str):
         blocks.append("\n".join(current))
     return blocks
 
+
 def extract_title(block: str) -> str:
     m = re.search(r"🏟️ Match:\s*(.+)", block)
     return m.group(1).strip() if m else ""
+
 
 def extract_channels(block: str):
     channels = []
@@ -97,6 +128,7 @@ def extract_channels(block: str):
             channels.append(line.strip())
     return channels
 
+
 def convert_url(url: str) -> str:
     m = re.search(r"id=(\d+)", url)
     if m:
@@ -105,11 +137,13 @@ def convert_url(url: str) -> str:
         return extract_direct_stream_url(embed_url)
     return url
 
+
 def load_whitelist(filename="whitelist.txt"):
     if not os.path.exists(filename):
         raise FileNotFoundError("❌ whitelist.txt is missing. Please add it to the repo.")
     with open(filename, "r", encoding="utf-8") as f:
         return {line.strip() for line in f if line.strip()}
+
 
 def filter_channels(channels, whitelist):
     filtered = []
@@ -123,24 +157,27 @@ def filter_channels(channels, whitelist):
         valid_links = []
         for lnk in links.split("|"):
             lnk = lnk.strip()
-            # ✅ Now matches ANY domain with /ch?id=
-            if re.search(r"https?://[^/]+/ch\?id=", lnk):
+            if "ch?id=" in lnk:  # ✅ supports dabac.link or others
                 direct_url = convert_url(lnk)
                 valid_links.append(direct_url)
         if valid_links:
             filtered.append((lang, name, valid_links))
     return filtered
 
+
 def safe_filename(name: str) -> str:
     return re.sub(r'[^a-zA-Z0-9_]+', "_", name).lower()
 
+
 def create_m3u8_file(filename, stream_url):
+    # ✅ keep M3U8 headers but write the real .m3u8 URL
     m3u8_content = f"""#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
-{stream_url}"""
+{stream_url.strip()}"""
     with open(filename, "w", encoding="utf-8") as f:
         f.write(m3u8_content)
+
 
 def process_and_generate():
     whitelist = load_whitelist()
@@ -163,7 +200,7 @@ def process_and_generate():
         if not title:
             continue
 
-        # Fuzzy match
+        # fuzzy match title
         best_title, best_score = None, 0
         for tb_title in trial_map.keys():
             score = fuzz.ratio(title.lower(), tb_title.lower())
@@ -191,6 +228,7 @@ def process_and_generate():
             time.sleep(1)
 
     print(f"\n✅ Done! Created {total_files} .m3u8 files in streams/")
+
 
 if __name__ == "__main__":
     process_and_generate()
