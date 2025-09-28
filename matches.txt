@@ -1,1002 +1,10 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Juárez Vs León
-🕒 Start: 2025-09-27 04:00 GMT+3
-📍 Tournament: Mexico Liga MX
-📺 Channels:
-ES | Universo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-US | Fox Sports 2: https://dabac.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Puebla Vs Guadalajara
-🕒 Start: 2025-09-27 06:00 GMT+3
-📍 Tournament: Mexico Liga MX
-📺 Channels:
-ES | TUDN: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Penafiel Vs Felgueiras 1932
-🕒 Start: 2025-09-27 13:00 GMT+3
-📍 Tournament: Portugal Segunda liga
-📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
-
-==================================================
-
-🏟️ Match: Benfica II Vs Torreense
-🕒 Start: 2025-09-27 13:00 GMT+3
-📍 Tournament: Portugal Segunda liga
-📺 Channels:
-PT | Benfica TV: https://dabac.link/ch?id=22 | https://glisco.link/ch?id=22
-
-==================================================
-
-🏟️ Match: Karlsruher SC Vs Magdeburg
-🕒 Start: 2025-09-27 14:00 GMT+3
-📍 Tournament: Germany Bundesliga 2
-📺 Channels:
-DE | Sky Sport Bundesliga 3: https://dabac.link/ch?id=13 | https://glisco.link/ch?id=13
-
-==================================================
-
-🏟️ Match: Paderborn Vs Kaiserslautern
-🕒 Start: 2025-09-27 14:00 GMT+3
-📍 Tournament: Germany Bundesliga 2
-📺 Channels:
-DE | Sky Sport Bundesliga 4: https://dabac.link/ch?id=14 | https://glisco.link/ch?id=14
-
-==================================================
-
-🏟️ Match: Elversberg Vs Holstein Kiel
-🕒 Start: 2025-09-27 14:00 GMT+3
-📍 Tournament: Germany Bundesliga 2
-📺 Channels:
-DE | Sky Sport Bundesliga 5: https://dabac.link/ch?id=15 | https://glisco.link/ch?id=15
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-09-27 14:00 GMT+3
-📍 Tournament: Germany Bundesliga 2
-📺 Channels:
-DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
-
-==================================================
-
-🏟️ Match: Brentford Vs Manchester United
-🕒 Start: 2025-09-27 14:30 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-US | USA Network: https://dabac.link/ch?id=9 | https://glisco.link/ch?id=9
-ES | Universo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-FR | Canal+ Foot: https://dabac.link/ch?id=55 | https://glisco.link/ch?id=55
-
-==================================================
-
-🏟️ Match: Wrexham Vs Derby County
-🕒 Start: 2025-09-27 14:30 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=31 | https://glisco.link/ch?id=31
-
-==================================================
-
-🏟️ Match: Swansea City Vs Millwall
-🕒 Start: 2025-09-27 14:30 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=32 | https://glisco.link/ch?id=32
-
-==================================================
-
-🏟️ Match: Coventry City Vs Birmingham City
-🕒 Start: 2025-09-27 14:30 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=33 | https://glisco.link/ch?id=33
-
-==================================================
-
-🏟️ Match: Getafe Vs Levante
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Spain La Liga
-📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
-
-==================================================
-
-🏟️ Match: Laval Vs Montpellier
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: France Ligue 2
-📺 Channels:
-FR | beIN Sports 2: https://dabac.link/ch?id=52 | https://glisco.link/ch?id=52
-
-==================================================
-
-🏟️ Match: Dunkerque Vs Amiens SC
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: France Ligue 2
-📺 Channels:
-FR | beIN Sports MAX 4: https://dabac.link/ch?id=54 | https://glisco.link/ch?id=54
-
-==================================================
-
-🏟️ Match: Hansa Rostock Vs Havelse
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=94 | https://glisco.link/ch?id=94
-
-==================================================
-
-🏟️ Match: Erzgebirge Aue Vs 1860 München
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=95 | https://glisco.link/ch?id=95
-
-==================================================
-
-🏟️ Match: Wehen Wiesbaden Vs Saarbrücken
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=96 | https://glisco.link/ch?id=96
-
-==================================================
-
-🏟️ Match: MSV Duisburg Vs Ingolstadt
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=97 | https://glisco.link/ch?id=97
-
-==================================================
-
-🏟️ Match: Schweinfurt Vs Alemannia Aachen
-🕒 Start: 2025-09-27 15:00 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=98 | https://glisco.link/ch?id=98
-
-==================================================
-
-🏟️ Match: Korona Kielce Vs Lechia Gdańsk
-🕒 Start: 2025-09-27 15:45 GMT+3
-📍 Tournament: Poland Ekstraklasa
-📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
-
-==================================================
-
-🏟️ Match: Como Vs Cremonese
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Italy Serie A
-📺 Channels:
-MZ | Astro Arena 2: https://dabac.link/ch?id=5 | https://glisco.link/ch?id=5
-IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: Baník Ostrava Vs Sparta Praha
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Czech Republic 1. liga
-📺 Channels:
-CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
-
-==================================================
-
-🏟️ Match: Bohemians 1905 Vs Sigma Olomouc
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Czech Republic 1. liga
-📺 Channels:
-CZ | Oneplay Sport 2: https://dabac.link/ch?id=42 | https://glisco.link/ch?id=42
-
-==================================================
-
-🏟️ Match: Slovácko Vs Karviná
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Czech Republic 1. liga
-📺 Channels:
-CZ | Oneplay Sport 3: https://dabac.link/ch?id=43 | https://glisco.link/ch?id=43
-
-==================================================
-
-🏟️ Match: Elfsborg Vs Degerfors
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Sweden Allsvenskan
-📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
-
-==================================================
-
-🏟️ Match: Spezia Vs Venezia
-🕒 Start: 2025-09-27 16:00 GMT+3
-📍 Tournament: Italy Serie B
-📺 Channels:
-US | Fox Soccer Plus: https://dabac.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Mainz 05 Vs Borussia Dortmund
-🕒 Start: 2025-09-27 16:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | Sky Sport Bundesliga 1: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
-
-==================================================
-
-🏟️ Match: St. Pauli Vs Bayer Leverkusen
-🕒 Start: 2025-09-27 16:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | Sky Sport Bundesliga 2: https://dabac.link/ch?id=12 | https://glisco.link/ch?id=12
-
-==================================================
-
-🏟️ Match: Wolfsburg Vs RB Leipzig
-🕒 Start: 2025-09-27 16:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | Sky Sport Bundesliga 3: https://dabac.link/ch?id=13 | https://glisco.link/ch?id=13
-
-==================================================
-
-🏟️ Match: Heidenheim Vs Augsburg
-🕒 Start: 2025-09-27 16:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | Sky Sport Bundesliga 4: https://dabac.link/ch?id=14 | https://glisco.link/ch?id=14
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-09-27 16:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
-
-==================================================
-
-🏟️ Match: Chelsea Vs Brighton & Hove Albion
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-GB | Astro Premier League 2: https://dabac.link/ch?id=2 | https://glisco.link/ch?id=2
-IT | Sky Sport 257: https://dabac.link/ch?id=45 | https://glisco.link/ch?id=45
-FR | Canal+ Live 9: https://dabac.link/ch?id=59 | https://glisco.link/ch?id=59
-
-==================================================
-
-🏟️ Match: Crystal Palace Vs Liverpool
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-GB | Astro Premier League: https://dabac.link/ch?id=3 | https://glisco.link/ch?id=3
-ES | DAZN1: https://dabac.link/ch?id=29 | https://glisco.link/ch?id=29
-FR | Canal+ Live 7: https://dabac.link/ch?id=57 | https://glisco.link/ch?id=57
-
-==================================================
-
-🏟️ Match: Leeds United Vs AFC Bournemouth
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-GB | Astro Premier League 4: https://dabac.link/ch?id=4 | https://glisco.link/ch?id=4
-FR | Canal+ Live 10: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
-
-==================================================
-
-🏟️ Match: Stoke City Vs Norwich City
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-US | CBS Sports Network: https://dabac.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: Manchester City Vs Burnley
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-US | USA Network: https://dabac.link/ch?id=9 | https://glisco.link/ch?id=9
-ES | Universo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-FR | Canal+ Live 8: https://dabac.link/ch?id=58 | https://glisco.link/ch?id=58
-
-==================================================
-
-🏟️ Match: Charlton Athletic Vs Blackburn Rovers
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=31 | https://glisco.link/ch?id=31
-
-==================================================
-
-🏟️ Match: Oxford United Vs Sheffield United
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=32 | https://glisco.link/ch?id=32
-
-==================================================
-
-🏟️ Match: Watford Vs Hull City
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=33 | https://glisco.link/ch?id=33
-
-==================================================
-
-🏟️ Match: Sheffield Wednesday Vs Queens Park Rangers
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=34 | https://glisco.link/ch?id=34
-
-==================================================
-
-🏟️ Match: Preston North End Vs Bristol City
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=35 | https://glisco.link/ch?id=35
-
-==================================================
-
-🏟️ Match: Southampton Vs Middlesbrough
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=36 | https://glisco.link/ch?id=36
-
-==================================================
-
-🏟️ Match: Ipswich Town Vs Portsmouth
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Championship
-📺 Channels:
-GB | Sky Sports+: https://dabac.link/ch?id=37 | https://glisco.link/ch?id=37
-
-==================================================
-
-🏟️ Match: Zulte-Waregem Vs Antwerp
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: Belgium Pro League
-📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
-
-==================================================
-
-🏟️ Match: Rijeka Vs Istra 1961
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: Croatia 1. HNL
-📺 Channels:
-HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-HK | HUB Premier League 1: https://dabac.link/ch?id=84 | https://glisco.link/ch?id=84
-
-==================================================
-
-🏟️ Match: Gaziantep FK Vs Samsunspor
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: Turkey Super Lig
-📺 Channels:
-TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
-
-==================================================
-
-🏟️ Match: Eyüpspor Vs Göztepe
-🕒 Start: 2025-09-27 17:00 GMT+3
-📍 Tournament: Turkey Super Lig
-📺 Channels:
-TR | beIN Sports 2: https://dabac.link/ch?id=92 | https://glisco.link/ch?id=92
-
-==================================================
-
-🏟️ Match: Atlético Madrid Vs Real Madrid
-🕒 Start: 2025-09-27 17:15 GMT+3
-📍 Tournament: Spain La Liga
-📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
-FR | beIN Sports 1: https://dabac.link/ch?id=51 | https://glisco.link/ch?id=51
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
-
-==================================================
-
-🏟️ Match: Ajax Vs NAC Breda
-🕒 Start: 2025-09-27 17:30 GMT+3
-📍 Tournament: Netherlands Eredivisie
-📺 Channels:
-US | ESPN+: https://dabac.link/ch?id=7 | https://glisco.link/ch?id=7
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
-
-==================================================
-
-🏟️ Match: Santa Clara Vs Tondela
-🕒 Start: 2025-09-27 17:30 GMT+3
-📍 Tournament: Portugal Primeira Liga
-📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
-US | GOLTV: https://dabac.link/ch?id=44 | https://glisco.link/ch?id=44
-
-==================================================
-
-🏟️ Match: Moreirense Vs Casa Pia
-🕒 Start: 2025-09-27 17:30 GMT+3
-📍 Tournament: Portugal Primeira Liga
-📺 Channels:
-PT | V+ TVI: https://dabac.link/ch?id=22 | https://glisco.link/ch?id=22
-
-==================================================
-
-🏟️ Match: Cherno More Vs Septemvri Sofia
-🕒 Start: 2025-09-27 17:30 GMT+3
-📍 Tournament: Bulgaria Parva Liga
-📺 Channels:
-BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
-
-==================================================
-
-🏟️ Match: Waldhof Mannheim Vs Rot-Weiss Essen
-🕒 Start: 2025-09-27 17:30 GMT+3
-📍 Tournament: Germany 3. Liga
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=98 | https://glisco.link/ch?id=98
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: Austria Bundesliga
-📺 Channels:
-AT | Sky Sport Austria 1: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
-
-==================================================
-
-🏟️ Match: Olympiakos Piraeus Vs Levadiakos
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: Greece Super League
-📺 Channels:
-GR | Cosmote Sport 1: https://dabac.link/ch?id=23 | https://glisco.link/ch?id=23
-
-==================================================
-
-🏟️ Match: Lorient Vs Monaco
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: France Ligue 1
-📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
-
-==================================================
-
-🏟️ Match: Wolfsberger AC Vs LASK Linz
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: Austria Bundesliga
-📺 Channels:
-AT | Sky Sport Austria 2: https://dabac.link/ch?id=62 | https://glisco.link/ch?id=62
-
-==================================================
-
-🏟️ Match: Ried Vs Grazer AK
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: Austria Bundesliga
-📺 Channels:
-AT | Sky Sport Austria 3: https://dabac.link/ch?id=63 | https://glisco.link/ch?id=63
-
-==================================================
-
-🏟️ Match: Blau-Weiß Linz Vs Rheindorf Altach
-🕒 Start: 2025-09-27 18:00 GMT+3
-📍 Tournament: Austria Bundesliga
-📺 Channels:
-AT | Sky Sport Austria 4: https://dabac.link/ch?id=64 | https://glisco.link/ch?id=64
-
-==================================================
-
-🏟️ Match: Piast Gliwice Vs Nieciecza
-🕒 Start: 2025-09-27 18:30 GMT+3
-📍 Tournament: Poland Ekstraklasa
-📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
-
-==================================================
-
-🏟️ Match: Häcken Vs Norrköping
-🕒 Start: 2025-09-27 18:30 GMT+3
-📍 Tournament: Sweden Allsvenskan
-📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
-
-==================================================
-
-🏟️ Match: Diósgyőr Vs Debrecen
-🕒 Start: 2025-09-27 18:30 GMT+3
-📍 Tournament: Hungary NB1
-📺 Channels:
-HU | M4 Sports: https://dabac.link/ch?id=99 | https://glisco.link/ch?id=99
-
-==================================================
-
-🏟️ Match: Juventus Vs Atalanta
-🕒 Start: 2025-09-27 19:00 GMT+3
-📍 Tournament: Italy Serie A
-📺 Channels:
-MZ | Astro Football: https://dabac.link/ch?id=5 | https://glisco.link/ch?id=5
-ES | CBS Sports Golazo: https://dabac.link/ch?id=28 | https://glisco.link/ch?id=28
-IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-ES | FOX Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
-
-==================================================
-
-🏟️ Match: Lugano Vs Grasshopper
-🕒 Start: 2025-09-27 19:00 GMT+3
-📍 Tournament: Switzerland Super League
-📺 Channels:
-CH | Blue Sport D 1: https://dabac.link/ch?id=15 | https://glisco.link/ch?id=15
-
-==================================================
-
-🏟️ Match: Hradec Králové Vs Slovan Liberec
-🕒 Start: 2025-09-27 19:00 GMT+3
-📍 Tournament: Czech Republic 1. liga
-📺 Channels:
-CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
-
-==================================================
-
-🏟️ Match: Sarpsborg 08 Vs Viking
-🕒 Start: 2025-09-27 19:00 GMT+3
-📍 Tournament: Norway Eliteserien
-📺 Channels:
-NO | TV 2 Play: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
-
-==================================================
-
-🏟️ Match: SønderjyskE Vs København
-🕒 Start: 2025-09-27 19:00 GMT+3
-📍 Tournament: Denmark Super Liga
-📺 Channels:
-DE | TV2 Sport X: https://dabac.link/ch?id=68 | https://glisco.link/ch?id=68
-
-==================================================
-
-🏟️ Match: Standard Liège Vs Club Brugge
-🕒 Start: 2025-09-27 19:15 GMT+3
-📍 Tournament: Belgium Pro League
-📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
-
-==================================================
-
-🏟️ Match: Mallorca Vs Deportivo Alavés
-🕒 Start: 2025-09-27 19:30 GMT+3
-📍 Tournament: Spain La Liga
-📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
-
-==================================================
-
-🏟️ Match: Nottingham Forest Vs Sunderland
-🕒 Start: 2025-09-27 19:30 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-US | USA Network: https://dabac.link/ch?id=9 | https://glisco.link/ch?id=9
-ES | Universo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-FR | Canal+ Foot: https://dabac.link/ch?id=55 | https://glisco.link/ch?id=55
-
-==================================================
-
-🏟️ Match: Borussia M'gladbach Vs Eintracht Frankfurt
-🕒 Start: 2025-09-27 19:30 GMT+3
-📍 Tournament: Germany Bundesliga
-📺 Channels:
-DE | Sky Sport Bundesliga 1: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
-
-==================================================
-
-🏟️ Match: Eibar Vs Deportivo La Coruña
-🕒 Start: 2025-09-27 19:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Racing Santander Vs FC Andorra
-🕒 Start: 2025-09-27 19:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LALIGA TV Hypermotion 2: https://dabac.link/ch?id=93 | https://glisco.link/ch?id=93
-
-==================================================
-
-🏟️ Match: Motherwell Vs Aberdeen
-🕒 Start: 2025-09-27 19:45 GMT+3
-📍 Tournament: Scotland Scottish Premiership
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: Hajduk Split Vs Lokomotiva Zagreb
-🕒 Start: 2025-09-27 19:45 GMT+3
-📍 Tournament: Croatia 1. HNL
-📺 Channels:
-HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
-
-==================================================
-
-🏟️ Match: Volendam Vs PEC Zwolle
-🕒 Start: 2025-09-27 19:45 GMT+3
-📍 Tournament: Netherlands Eredivisie
-📺 Channels:
-NL | ESPN3: https://dabac.link/ch?id=90 | https://glisco.link/ch?id=90
-
-==================================================
-
-🏟️ Match: Estrela Vs AVS
-🕒 Start: 2025-09-27 20:00 GMT+3
-📍 Tournament: Portugal Primeira Liga
-📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
-US | GOLTV: https://dabac.link/ch?id=44 | https://glisco.link/ch?id=44
-
-==================================================
-
-🏟️ Match: Toulouse Vs Nantes
-🕒 Start: 2025-09-27 20:00 GMT+3
-📍 Tournament: France Ligue 1
-📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
-
-==================================================
-
-🏟️ Match: Lokomotiv Sofia 1929 Vs CSKA Sofia
-🕒 Start: 2025-09-27 20:00 GMT+3
-📍 Tournament: Bulgaria Parva Liga
-📺 Channels:
-BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
-
-==================================================
-
-🏟️ Match: Atlético Ottawa Vs Cavalry
-🕒 Start: 2025-09-27 20:00 GMT+3
-📍 Tournament: Canada Canadian Premier League
-📺 Channels:
-CA | OneSoccer: https://dabac.link/ch?id=84 | https://glisco.link/ch?id=84
-
-==================================================
-
-🏟️ Match: Fatih Karagümrük Vs Trabzonspor
-🕒 Start: 2025-09-27 20:00 GMT+3
-📍 Tournament: Turkey Super Lig
-📺 Channels:
-TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
-
-==================================================
-
-🏟️ Match: Aris Vs Panserraikos
-🕒 Start: 2025-09-27 20:30 GMT+3
-📍 Tournament: Greece Super League
-📺 Channels:
-GR | Nova Sports Prime: https://dabac.link/ch?id=25 | https://glisco.link/ch?id=25
-
-==================================================
-
-🏟️ Match: Gimnasia La Plata Vs Rosario Central
-🕒 Start: 2025-09-27 20:30 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | TNT Sports Argentina: https://dabac.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Aldosivi Vs Argentinos Juniors
-🕒 Start: 2025-09-27 20:30 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | ESPN Premium Argentina: https://dabac.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Excelsior Vs PSV
-🕒 Start: 2025-09-27 21:00 GMT+3
-📍 Tournament: Netherlands Eredivisie
-📺 Channels:
-US | ESPN+: https://dabac.link/ch?id=7 | https://glisco.link/ch?id=7
-NL | ESPN: https://dabac.link/ch?id=88 | https://glisco.link/ch?id=88
-
-==================================================
-
-🏟️ Match: Saint-Étienne Vs Guingamp
-🕒 Start: 2025-09-27 21:00 GMT+3
-📍 Tournament: France Ligue 2
-📺 Channels:
-FR | beIN Sports 1: https://dabac.link/ch?id=51 | https://glisco.link/ch?id=51
-
-==================================================
-
-🏟️ Match: Al Fateh Vs Al Quadisiya
-🕒 Start: 2025-09-27 21:00 GMT+3
-📍 Tournament: Saudi Arabia Pro League
-📺 Channels:
-US | Fox Soccer Plus: https://dabac.link/ch?id=83 | https://glisco.link/ch?id=83
-ES | FOX Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
-
-==================================================
-
-🏟️ Match: Paksi SE Vs Puskás
-🕒 Start: 2025-09-27 21:00 GMT+3
-📍 Tournament: Hungary NB1
-📺 Channels:
-HU | M4 Sports: https://dabac.link/ch?id=99 | https://glisco.link/ch?id=99
-
-==================================================
-
-🏟️ Match: Cracovia Kraków Vs Górnik Zabrze
-🕒 Start: 2025-09-27 21:15 GMT+3
-📍 Tournament: Poland Ekstraklasa
-📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
-
-==================================================
-
-🏟️ Match: Bochum Vs Fortuna Düsseldorf
-🕒 Start: 2025-09-27 21:30 GMT+3
-📍 Tournament: Germany Bundesliga 2
-📺 Channels:
-DE | Sky Sport Bundesliga 2: https://dabac.link/ch?id=12 | https://glisco.link/ch?id=12
-
-==================================================
-
-🏟️ Match: Zürich Vs St. Gallen
-🕒 Start: 2025-09-27 21:30 GMT+3
-📍 Tournament: Switzerland Super League
-📺 Channels:
-CH | Blue Sport D 1: https://dabac.link/ch?id=15 | https://glisco.link/ch?id=15
-
-==================================================
-
-🏟️ Match: Cagliari Vs Internazionale
-🕒 Start: 2025-09-27 21:45 GMT+3
-📍 Tournament: Italy Serie A
-📺 Channels:
-MZ | Astro Football: https://dabac.link/ch?id=5 | https://glisco.link/ch?id=5
-DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
-IT | Sky Sport Calcio: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: Union Saint-Gilloise Vs Westerlo
-🕒 Start: 2025-09-27 21:45 GMT+3
-📍 Tournament: Belgium Pro League
-📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
-
-==================================================
-
-🏟️ Match: Villarreal Vs Athletic Club
-🕒 Start: 2025-09-27 22:00 GMT+3
-📍 Tournament: Spain La Liga
-📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
-
-==================================================
-
-🏟️ Match: Tottenham Hotspur Vs Wolverhampton Wanderers
-🕒 Start: 2025-09-27 22:00 GMT+3
-📍 Tournament: England Premier League
-📺 Channels:
-US | USA Network: https://dabac.link/ch?id=9 | https://glisco.link/ch?id=9
-ES | Universo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-FR | Canal+ Foot: https://dabac.link/ch?id=55 | https://glisco.link/ch?id=55
-
-==================================================
-
-🏟️ Match: Las Palmas Vs Almería
-🕒 Start: 2025-09-27 22:00 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Heracles Vs Sparta Rotterdam
-🕒 Start: 2025-09-27 22:00 GMT+3
-📍 Tournament: Netherlands Eredivisie
-📺 Channels:
-NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
-
-==================================================
-
-🏟️ Match: PSG Vs Auxerre
-🕒 Start: 2025-09-27 22:05 GMT+3
-📍 Tournament: France Ligue 1
-📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
-
-==================================================
-
-🏟️ Match: Estoril Vs Sporting CP
-🕒 Start: 2025-09-27 22:30 GMT+3
-📍 Tournament: Portugal Primeira Liga
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
-
-==================================================
-
-🏟️ Match: San Lorenzo Vs Godoy Cruz
-🕒 Start: 2025-09-27 22:45 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | ESPN Premium Argentina: https://dabac.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Korea Republic U20 Vs Ukraine U20
-🕒 Start: 2025-09-27 23:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
-
-==================================================
-
-🏟️ Match: Japan U20 Vs Egypt U20
-🕒 Start: 2025-09-27 23:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Soccer Sports: https://dabac.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Forge Vs Pacific
-🕒 Start: 2025-09-27 23:00 GMT+3
-📍 Tournament: Canada Canadian Premier League
-📺 Channels:
-CA | OneSoccer: https://dabac.link/ch?id=84 | https://glisco.link/ch?id=84
-
-==================================================
-
-🏟️ Match: Toronto FC Vs Inter Miami
-🕒 Start: 2025-09-27 23:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-CA | TSN4: https://dabac.link/ch?id=34 | https://glisco.link/ch?id=34
-
-==================================================
-
-🏟️ Match: Cerro Largo Vs Peñarol
-🕒 Start: 2025-09-28 00:30 GMT+3
-📍 Tournament: Uruguay Primera Division
-📺 Channels:
-US | GOLTV: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Defensa y Justicia Vs Boca Juniors
-🕒 Start: 2025-09-28 01:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-ES | TNT Sports Argentina: https://dabac.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Chile U20 Vs New Zealand U20
-🕒 Start: 2025-09-28 02:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-ES | Universo: https://dabac.link/ch?id=27 | https://glisco.link/ch?id=27
-US | Fox Sports 2: https://dabac.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Atlas Vs Necaxa
-🕒 Start: 2025-09-28 02:00 GMT+3
-📍 Tournament: Mexico Liga MX
-📺 Channels:
-ES | TUDN: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Paraguay U20 Vs Panama U20
-🕒 Start: 2025-09-28 02:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://dabac.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Charlotte Vs CF Montréal
-🕒 Start: 2025-09-28 02:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=31 | https://glisco.link/ch?id=31
-
-==================================================
-
-🏟️ Match: DC United Vs Philadelphia Union
-🕒 Start: 2025-09-28 02:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=32 | https://glisco.link/ch?id=32
-
-==================================================
-
-🏟️ Match: New England Vs Atlanta United
-🕒 Start: 2025-09-28 02:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=33 | https://glisco.link/ch?id=33
-
-==================================================
-
-🏟️ Match: New York RB Vs New York City
-🕒 Start: 2025-09-28 02:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=34 | https://glisco.link/ch?id=34
-
-==================================================
-
-🏟️ Match: Talleres Córdoba Vs Sarmiento
-🕒 Start: 2025-09-28 03:15 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | TNT Sports Argentina: https://dabac.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Chicago Fire Vs Columbus Crew
-🕒 Start: 2025-09-28 03:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=35 | https://glisco.link/ch?id=35
-
-==================================================
-
-🏟️ Match: St. Louis City Vs Los Angeles FC
-🕒 Start: 2025-09-28 03:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=36 | https://glisco.link/ch?id=36
-
-==================================================
-
-🏟️ Match: Nashville SC Vs Houston Dynamo
-🕒 Start: 2025-09-28 03:30 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=37 | https://glisco.link/ch?id=37
-
-==================================================
-
 🏟️ Match: Monterrey Vs Santos Laguna
 🕒 Start: 2025-09-28 04:00 GMT+3
 📍 Tournament: Mexico Liga MX
 📺 Channels:
-ES | TUDN: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
 
 ==================================================
 
@@ -1004,7 +12,7 @@ ES | TUDN: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
 🕒 Start: 2025-09-28 04:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=38 | https://glisco.link/ch?id=38
+US | MLS Season Pass: https://sansat.link/ch?id=38 | https://glisco.link/ch?id=38
 
 ==================================================
 
@@ -1012,7 +20,7 @@ US | MLS Season Pass: https://dabac.link/ch?id=38 | https://glisco.link/ch?id=38
 🕒 Start: 2025-09-28 04:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
+US | MLS Season Pass: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
 
 ==================================================
 
@@ -1020,7 +28,7 @@ US | MLS Season Pass: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
 🕒 Start: 2025-09-28 05:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-CA | TSN1: https://dabac.link/ch?id=31 | https://glisco.link/ch?id=31
+CA | TSN1: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
 
 ==================================================
 
@@ -1028,7 +36,7 @@ CA | TSN1: https://dabac.link/ch?id=31 | https://glisco.link/ch?id=31
 🕒 Start: 2025-09-28 05:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=32 | https://glisco.link/ch?id=32
+US | MLS Season Pass: https://sansat.link/ch?id=32 | https://glisco.link/ch?id=32
 
 ==================================================
 
@@ -1036,7 +44,7 @@ US | MLS Season Pass: https://dabac.link/ch?id=32 | https://glisco.link/ch?id=32
 🕒 Start: 2025-09-28 05:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=33 | https://glisco.link/ch?id=33
+US | MLS Season Pass: https://sansat.link/ch?id=33 | https://glisco.link/ch?id=33
 
 ==================================================
 
@@ -1044,7 +52,7 @@ US | MLS Season Pass: https://dabac.link/ch?id=33 | https://glisco.link/ch?id=33
 🕒 Start: 2025-09-28 05:30 GMT+3
 📍 Tournament: USA/Canada Major League Soccer
 📺 Channels:
-US | MLS Season Pass: https://dabac.link/ch?id=34 | https://glisco.link/ch?id=34
+US | MLS Season Pass: https://sansat.link/ch?id=34 | https://glisco.link/ch?id=34
 
 ==================================================
 
@@ -1052,8 +60,8 @@ US | MLS Season Pass: https://dabac.link/ch?id=34 | https://glisco.link/ch?id=34
 🕒 Start: 2025-09-28 06:05 GMT+3
 📍 Tournament: Mexico Liga MX
 📺 Channels:
-US | CBS Sports Network: https://dabac.link/ch?id=8 | https://glisco.link/ch?id=8
-ES | TUDN: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
 
 ==================================================
 
@@ -1061,7 +69,7 @@ ES | TUDN: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
 🕒 Start: 2025-09-28 13:00 GMT+3
 📍 Tournament: Portugal Segunda liga
 📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
 
 ==================================================
 
@@ -1069,8 +77,8 @@ PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
 🕒 Start: 2025-09-28 13:15 GMT+3
 📍 Tournament: Netherlands Eredivisie
 📺 Channels:
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+NL | ESPN2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
 
 ==================================================
 
@@ -1078,7 +86,7 @@ NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
 🕒 Start: 2025-09-28 13:15 GMT+3
 📍 Tournament: Poland Ekstraklasa
 📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
+PL | Canal+ Sport 3: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
 
 ==================================================
 
@@ -1086,9 +94,9 @@ PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
 🕒 Start: 2025-09-28 13:30 GMT+3
 📍 Tournament: Italy Serie A
 📺 Channels:
-DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
-ES | CBS Sports Golazo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+ES | CBS Sports Golazo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+IT | DAZN: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
 
 ==================================================
 
@@ -1096,7 +104,7 @@ IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
 🕒 Start: 2025-09-28 14:00 GMT+3
 📍 Tournament: Czech Republic 1. liga
 📺 Channels:
-CZ | Oneplay Sport 3: https://dabac.link/ch?id=43 | https://glisco.link/ch?id=43
+CZ | Oneplay Sport 3: https://sansat.link/ch?id=43 | https://glisco.link/ch?id=43
 
 ==================================================
 
@@ -1104,7 +112,7 @@ CZ | Oneplay Sport 3: https://dabac.link/ch?id=43 | https://glisco.link/ch?id=43
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Germany Bundesliga 2
 📺 Channels:
-DE | Sky Sport Bundesliga 1: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
+DE | Sky Sport Bundesliga 1: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
 
 ==================================================
 
@@ -1112,7 +120,7 @@ DE | Sky Sport Bundesliga 1: https://dabac.link/ch?id=11 | https://glisco.link/c
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Germany Bundesliga 2
 📺 Channels:
-DE | Sky Sport Bundesliga 2: https://dabac.link/ch?id=12 | https://glisco.link/ch?id=12
+DE | Sky Sport Bundesliga 2: https://sansat.link/ch?id=12 | https://glisco.link/ch?id=12
 
 ==================================================
 
@@ -1120,7 +128,7 @@ DE | Sky Sport Bundesliga 2: https://dabac.link/ch?id=12 | https://glisco.link/c
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Germany Bundesliga 2
 📺 Channels:
-DE | Sky Sport Bundesliga 3: https://dabac.link/ch?id=13 | https://glisco.link/ch?id=13
+DE | Sky Sport Bundesliga 3: https://sansat.link/ch?id=13 | https://glisco.link/ch?id=13
 
 ==================================================
 
@@ -1128,7 +136,7 @@ DE | Sky Sport Bundesliga 3: https://dabac.link/ch?id=13 | https://glisco.link/c
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Germany Bundesliga 2
 📺 Channels:
-DE | Sky Sport Bundesliga 4: https://dabac.link/ch?id=14 | https://glisco.link/ch?id=14
+DE | Sky Sport Bundesliga 4: https://sansat.link/ch?id=14 | https://glisco.link/ch?id=14
 
 ==================================================
 
@@ -1136,7 +144,7 @@ DE | Sky Sport Bundesliga 4: https://dabac.link/ch?id=14 | https://glisco.link/c
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Germany 3. Liga
 📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
+DE | Magenta Sport: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
 
 ==================================================
 
@@ -1144,7 +152,7 @@ DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
 🕒 Start: 2025-09-28 14:30 GMT+3
 📍 Tournament: Belgium Pro League
 📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
 
 ==================================================
 
@@ -1152,9 +160,9 @@ BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Spain La Liga
 📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-FR | beIN Sports 2: https://dabac.link/ch?id=52 | https://glisco.link/ch?id=52
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
+GB | Now Sports 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+FR | beIN Sports 2: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 
 ==================================================
 
@@ -1162,7 +170,7 @@ ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Bulgaria Parva Liga
 📺 Channels:
-BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
 
 ==================================================
 
@@ -1170,7 +178,7 @@ BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Denmark Super Liga
 📺 Channels:
-DK | TV3 Sport: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
+DK | TV3 Sport: https://sansat.link/ch?id=67 | https://glisco.link/ch?id=67
 
 ==================================================
 
@@ -1178,7 +186,7 @@ DK | TV3 Sport: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Sweden Allsvenskan
 📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=68 | https://glisco.link/ch?id=68
+SE | HBO MAX: https://sansat.link/ch?id=68 | https://glisco.link/ch?id=68
 
 ==================================================
 
@@ -1186,7 +194,7 @@ SE | HBO MAX: https://dabac.link/ch?id=68 | https://glisco.link/ch?id=68
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Sweden Allsvenskan
 📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
+SE | HBO MAX: https://sansat.link/ch?id=69 | https://glisco.link/ch?id=69
 
 ==================================================
 
@@ -1194,7 +202,7 @@ SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
 🕒 Start: 2025-09-28 15:00 GMT+3
 📍 Tournament: Spain Segunda Division
 📺 Channels:
-ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=94 | https://glisco.link/ch?id=94
+ES | LALIGA TV Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
 
 ==================================================
 
@@ -1202,8 +210,8 @@ ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=94 | https://glisco.link/ch
 🕒 Start: 2025-09-28 15:30 GMT+3
 📍 Tournament: Netherlands Eredivisie
 📺 Channels:
-CA | Sportsnet World: https://dabac.link/ch?id=4 | https://glisco.link/ch?id=4
-NL | ESPN3: https://dabac.link/ch?id=90 | https://glisco.link/ch?id=90
+CA | Sportsnet World: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
+NL | ESPN3: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
 
 ==================================================
 
@@ -1211,7 +219,7 @@ NL | ESPN3: https://dabac.link/ch?id=90 | https://glisco.link/ch?id=90
 🕒 Start: 2025-09-28 15:30 GMT+3
 📍 Tournament: Netherlands Eredivisie
 📺 Channels:
-NL | ESPN: https://dabac.link/ch?id=88 | https://glisco.link/ch?id=88
+NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
 
 ==================================================
 
@@ -1219,7 +227,7 @@ NL | ESPN: https://dabac.link/ch?id=88 | https://glisco.link/ch?id=88
 🕒 Start: 2025-09-28 15:45 GMT+3
 📍 Tournament: Poland Ekstraklasa
 📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
+PL | Canal+ Sport 3: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
 
 ==================================================
 
@@ -1227,8 +235,8 @@ PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
 🕒 Start: 2025-09-28 16:00 GMT+3
 📍 Tournament: Italy Serie A
 📺 Channels:
-MZ | Astro Arena Bola 2: https://dabac.link/ch?id=9 | https://glisco.link/ch?id=9
-IT | DAZN: https://dabac.link/ch?id=46 | https://glisco.link/ch?id=46
+MZ | Astro Arena Bola 2: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+IT | DAZN: https://sansat.link/ch?id=46 | https://glisco.link/ch?id=46
 
 ==================================================
 
@@ -1236,10 +244,10 @@ IT | DAZN: https://dabac.link/ch?id=46 | https://glisco.link/ch?id=46
 🕒 Start: 2025-09-28 16:00 GMT+3
 📍 Tournament: England Premier League
 📺 Channels:
-US | USA Network: https://dabac.link/ch?id=10 | https://glisco.link/ch?id=10
-ES | DAZN1: https://dabac.link/ch?id=29 | https://glisco.link/ch?id=29
-IT | Sky Sport Calcio: https://dabac.link/ch?id=46 | https://glisco.link/ch?id=46
-FR | Canal+ Foot: https://dabac.link/ch?id=59 | https://glisco.link/ch?id=59
+US | USA Network: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+ES | DAZN1: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+IT | Sky Sport Calcio: https://sansat.link/ch?id=46 | https://glisco.link/ch?id=46
+FR | Canal+ Foot: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
 
 ==================================================
 
@@ -1247,9 +255,9 @@ FR | Canal+ Foot: https://dabac.link/ch?id=59 | https://glisco.link/ch?id=59
 🕒 Start: 2025-09-28 16:00 GMT+3
 📍 Tournament: Italy Serie A
 📺 Channels:
-ES | CBS Sports Golazo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
+ES | CBS Sports Golazo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+IT | DAZN: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
 
 ==================================================
 
@@ -1257,8 +265,8 @@ ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
 🕒 Start: 2025-09-28 16:00 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | Ligue1+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
 
 ==================================================
 
@@ -1266,8 +274,8 @@ FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
 🕒 Start: 2025-09-28 16:30 GMT+3
 📍 Tournament: Germany Bundesliga
 📺 Channels:
-US | ESPN+: https://dabac.link/ch?id=7 | https://glisco.link/ch?id=7
-DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
+US | ESPN+: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
 
 ==================================================
 
@@ -1275,7 +283,7 @@ DE | DAZN2: https://dabac.link/ch?id=18 | https://glisco.link/ch?id=18
 🕒 Start: 2025-09-28 16:30 GMT+3
 📍 Tournament: Czech Republic 1. liga
 📺 Channels:
-CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
+CZ | Oneplay Sport 1: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
 
 ==================================================
 
@@ -1283,7 +291,7 @@ CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Scotland Scottish Premiership
 📺 Channels:
-US | CBS Sports Network: https://dabac.link/ch?id=8 | https://glisco.link/ch?id=8
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
 
 ==================================================
 
@@ -1291,7 +299,7 @@ US | CBS Sports Network: https://dabac.link/ch?id=8 | https://glisco.link/ch?id=
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Greece Super League
 📺 Channels:
-GR | Cosmote Sport 1: https://dabac.link/ch?id=23 | https://glisco.link/ch?id=23
+GR | Cosmote Sport 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
 
 ==================================================
 
@@ -1299,7 +307,7 @@ GR | Cosmote Sport 1: https://dabac.link/ch?id=23 | https://glisco.link/ch?id=23
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Uruguay Primera Division
 📺 Channels:
-US | GOLTV: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
+US | GOLTV: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
 
 ==================================================
 
@@ -1307,7 +315,7 @@ US | GOLTV: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Belgium Pro League
 📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
 
 ==================================================
 
@@ -1315,7 +323,7 @@ BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Denmark Super Liga
 📺 Channels:
-DK | TV2 Sport X: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
+DK | TV2 Sport X: https://sansat.link/ch?id=67 | https://glisco.link/ch?id=67
 
 ==================================================
 
@@ -1323,7 +331,7 @@ DK | TV2 Sport X: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Croatia 1. HNL
 📺 Channels:
-HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
 
 ==================================================
 
@@ -1331,7 +339,7 @@ HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Turkey Super Lig
 📺 Channels:
-TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
+TR | beIN Sports 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
 
 ==================================================
 
@@ -1339,7 +347,7 @@ TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
 🕒 Start: 2025-09-28 17:00 GMT+3
 📍 Tournament: Turkey Super Lig
 📺 Channels:
-TR | beIN Sports 2: https://dabac.link/ch?id=92 | https://glisco.link/ch?id=92
+TR | beIN Sports 2: https://sansat.link/ch?id=92 | https://glisco.link/ch?id=92
 
 ==================================================
 
@@ -1347,8 +355,8 @@ TR | beIN Sports 2: https://dabac.link/ch?id=92 | https://glisco.link/ch?id=92
 🕒 Start: 2025-09-28 17:15 GMT+3
 📍 Tournament: Spain La Liga
 📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
+GB | Now Sports 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 
 ==================================================
 
@@ -1356,7 +364,7 @@ ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Germany 3. Liga
 📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
+DE | Magenta Sport: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
 
 ==================================================
 
@@ -1364,7 +372,7 @@ DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Switzerland Super League
 📺 Channels:
-CH | Blue Sport D 1: https://dabac.link/ch?id=20 | https://glisco.link/ch?id=20
+CH | Blue Sport D 1: https://sansat.link/ch?id=20 | https://glisco.link/ch?id=20
 
 ==================================================
 
@@ -1372,7 +380,7 @@ CH | Blue Sport D 1: https://dabac.link/ch?id=20 | https://glisco.link/ch?id=20
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Portugal Primeira Liga
 📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
 
 ==================================================
 
@@ -1380,7 +388,7 @@ PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Bulgaria Parva Liga
 📺 Channels:
-BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
 
 ==================================================
 
@@ -1388,7 +396,7 @@ BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Sweden Allsvenskan
 📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=68 | https://glisco.link/ch?id=68
+SE | HBO MAX: https://sansat.link/ch?id=68 | https://glisco.link/ch?id=68
 
 ==================================================
 
@@ -1396,7 +404,7 @@ SE | HBO MAX: https://dabac.link/ch?id=68 | https://glisco.link/ch?id=68
 🕒 Start: 2025-09-28 17:30 GMT+3
 📍 Tournament: Sweden Allsvenskan
 📺 Channels:
-SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
+SE | HBO MAX: https://sansat.link/ch?id=69 | https://glisco.link/ch?id=69
 
 ==================================================
 
@@ -1404,7 +412,7 @@ SE | HBO MAX: https://dabac.link/ch?id=69 | https://glisco.link/ch?id=69
 🕒 Start: 2025-09-28 17:45 GMT+3
 📍 Tournament: Netherlands Eredivisie
 📺 Channels:
-NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
+NL | ESPN2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
 
 ==================================================
 
@@ -1412,7 +420,7 @@ NL | ESPN2: https://dabac.link/ch?id=89 | https://glisco.link/ch?id=89
 🕒 Start: 2025-09-28 18:00 GMT+3
 📍 Tournament: Norway Eliteserien
 📺 Channels:
-NO | TV2 Sport: https://dabac.link/ch?id=66 | https://glisco.link/ch?id=66
+NO | TV2 Sport: https://sansat.link/ch?id=66 | https://glisco.link/ch?id=66
 
 ==================================================
 
@@ -1420,8 +428,8 @@ NO | TV2 Sport: https://dabac.link/ch?id=66 | https://glisco.link/ch?id=66
 🕒 Start: 2025-09-28 18:15 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | beIN Sports 1: https://dabac.link/ch?id=51 | https://glisco.link/ch?id=51
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | beIN Sports 1: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
 
 ==================================================
 
@@ -1429,7 +437,7 @@ FR | beIN Sports 1: https://dabac.link/ch?id=51 | https://glisco.link/ch?id=51
 🕒 Start: 2025-09-28 18:15 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
+FR | Ligue1+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
 
 ==================================================
 
@@ -1437,8 +445,8 @@ FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
 🕒 Start: 2025-09-28 18:15 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-FR | Ligue1+ 4: https://dabac.link/ch?id=54 | https://glisco.link/ch?id=54
-US | beIN Sports 5: https://dabac.link/ch?id=85 | https://glisco.link/ch?id=85
+FR | Ligue1+ 4: https://sansat.link/ch?id=54 | https://glisco.link/ch?id=54
+US | beIN Sports 5: https://sansat.link/ch?id=85 | https://glisco.link/ch?id=85
 
 ==================================================
 
@@ -1446,8 +454,8 @@ US | beIN Sports 5: https://dabac.link/ch?id=85 | https://glisco.link/ch?id=85
 🕒 Start: 2025-09-28 18:15 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-FR | Ligue1+ 5: https://dabac.link/ch?id=55 | https://glisco.link/ch?id=55
-US | beIN Sports 4: https://dabac.link/ch?id=84 | https://glisco.link/ch?id=84
+FR | Ligue1+ 5: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
+US | beIN Sports 4: https://sansat.link/ch?id=84 | https://glisco.link/ch?id=84
 
 ==================================================
 
@@ -1455,8 +463,8 @@ US | beIN Sports 4: https://dabac.link/ch?id=84 | https://glisco.link/ch?id=84
 🕒 Start: 2025-09-28 18:30 GMT+3
 📍 Tournament: Germany Bundesliga
 📺 Channels:
-US | ESPN+: https://dabac.link/ch?id=7 | https://glisco.link/ch?id=7
-DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
+US | ESPN+: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
 
 ==================================================
 
@@ -1464,10 +472,10 @@ DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
 🕒 Start: 2025-09-28 18:30 GMT+3
 📍 Tournament: England Premier League
 📺 Channels:
-US | USA Network: https://dabac.link/ch?id=10 | https://glisco.link/ch?id=10
-DE | Sky Sport Premier League: https://dabac.link/ch?id=15 | https://glisco.link/ch?id=15
-ES | DAZN1: https://dabac.link/ch?id=29 | https://glisco.link/ch?id=29
-FR | Canal+ Foot: https://dabac.link/ch?id=59 | https://glisco.link/ch?id=59
+US | USA Network: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+DE | Sky Sport Premier League: https://sansat.link/ch?id=15 | https://glisco.link/ch?id=15
+ES | DAZN1: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+FR | Canal+ Foot: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
 
 ==================================================
 
@@ -1475,7 +483,7 @@ FR | Canal+ Foot: https://dabac.link/ch?id=59 | https://glisco.link/ch?id=59
 🕒 Start: 2025-09-28 18:30 GMT+3
 📍 Tournament: Poland Ekstraklasa
 📺 Channels:
-PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
+PL | Canal+ Sport 3: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
 
 ==================================================
 
@@ -1483,7 +491,7 @@ PL | Canal+ Sport 3: https://dabac.link/ch?id=60 | https://glisco.link/ch?id=60
 🕒 Start: 2025-09-28 19:00 GMT+3
 📍 Tournament: Greece Super League
 📺 Channels:
-GR | Cosmote Sport 2: https://dabac.link/ch?id=24 | https://glisco.link/ch?id=24
+GR | Cosmote Sport 2: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
 
 ==================================================
 
@@ -1491,9 +499,9 @@ GR | Cosmote Sport 2: https://dabac.link/ch?id=24 | https://glisco.link/ch?id=24
 🕒 Start: 2025-09-28 19:00 GMT+3
 📍 Tournament: Italy Serie A
 📺 Channels:
-ES | CBS Sports Golazo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-IT | Sky Sport Calcio: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
+ES | CBS Sports Golazo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+IT | Sky Sport Calcio: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
 
 ==================================================
 
@@ -1501,7 +509,7 @@ ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
 🕒 Start: 2025-09-28 19:00 GMT+3
 📍 Tournament: Denmark Super Liga
 📺 Channels:
-DK | TV3+: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
+DK | TV3+: https://sansat.link/ch?id=67 | https://glisco.link/ch?id=67
 
 ==================================================
 
@@ -1509,7 +517,7 @@ DK | TV3+: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
 🕒 Start: 2025-09-28 19:00 GMT+3
 📍 Tournament: Hungary NB1
 📺 Channels:
-HU | M4 Sports: https://dabac.link/ch?id=99 | https://glisco.link/ch?id=99
+HU | M4 Sports: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
 
 ==================================================
 
@@ -1517,7 +525,7 @@ HU | M4 Sports: https://dabac.link/ch?id=99 | https://glisco.link/ch?id=99
 🕒 Start: 2025-09-28 19:15 GMT+3
 📍 Tournament: Croatia 1. HNL
 📺 Channels:
-HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
 
 ==================================================
 
@@ -1525,9 +533,9 @@ HR | MAX Sport 1: https://dabac.link/ch?id=70 | https://glisco.link/ch?id=70
 🕒 Start: 2025-09-28 19:30 GMT+3
 📍 Tournament: Spain La Liga
 📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-FR | beIN Sports 2: https://dabac.link/ch?id=52 | https://glisco.link/ch?id=52
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
+GB | Now Sports 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+FR | beIN Sports 2: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 
 ==================================================
 
@@ -1535,7 +543,7 @@ ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
 🕒 Start: 2025-09-28 19:30 GMT+3
 📍 Tournament: Czech Republic 1. liga
 📺 Channels:
-CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
+CZ | Oneplay Sport 1: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
 
 ==================================================
 
@@ -1543,7 +551,7 @@ CZ | Oneplay Sport 1: https://dabac.link/ch?id=41 | https://glisco.link/ch?id=41
 🕒 Start: 2025-09-28 19:30 GMT+3
 📍 Tournament: Belgium Pro League
 📺 Channels:
-BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
 
 ==================================================
 
@@ -1551,8 +559,8 @@ BE | DAZN: https://dabac.link/ch?id=49 | https://glisco.link/ch?id=49
 🕒 Start: 2025-09-28 20:00 GMT+3
 📍 Tournament: Portugal Primeira Liga
 📺 Channels:
-DE | Sportdigital FUSSBALL: https://dabac.link/ch?id=19 | https://glisco.link/ch?id=19
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
 
 ==================================================
 
@@ -1560,7 +568,7 @@ PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
 🕒 Start: 2025-09-28 20:00 GMT+3
 📍 Tournament: Bulgaria Parva Liga
 📺 Channels:
-BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
 
 ==================================================
 
@@ -1568,7 +576,7 @@ BG | Diema Sport: https://dabac.link/ch?id=48 | https://glisco.link/ch?id=48
 🕒 Start: 2025-09-28 20:00 GMT+3
 📍 Tournament: Turkey Super Lig
 📺 Channels:
-TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
+TR | beIN Sports 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
 
 ==================================================
 
@@ -1576,7 +584,7 @@ TR | beIN Sports 1: https://dabac.link/ch?id=91 | https://glisco.link/ch?id=91
 🕒 Start: 2025-09-28 20:00 GMT+3
 📍 Tournament: Turkey Super Lig
 📺 Channels:
-TR | beIN Sports 2: https://dabac.link/ch?id=92 | https://glisco.link/ch?id=92
+TR | beIN Sports 2: https://sansat.link/ch?id=92 | https://glisco.link/ch?id=92
 
 ==================================================
 
@@ -1584,7 +592,7 @@ TR | beIN Sports 2: https://dabac.link/ch?id=92 | https://glisco.link/ch?id=92
 🕒 Start: 2025-09-28 20:15 GMT+3
 📍 Tournament: Norway Eliteserien
 📺 Channels:
-NO | TV2 Sport: https://dabac.link/ch?id=66 | https://glisco.link/ch?id=66
+NO | TV2 Sport: https://sansat.link/ch?id=66 | https://glisco.link/ch?id=66
 
 ==================================================
 
@@ -1592,8 +600,8 @@ NO | TV2 Sport: https://dabac.link/ch?id=66 | https://glisco.link/ch?id=66
 🕒 Start: 2025-09-28 20:30 GMT+3
 📍 Tournament: Germany Bundesliga
 📺 Channels:
-US | ESPN+: https://dabac.link/ch?id=7 | https://glisco.link/ch?id=7
-DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
+US | ESPN+: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
 
 ==================================================
 
@@ -1601,7 +609,7 @@ DE | DAZN1: https://dabac.link/ch?id=17 | https://glisco.link/ch?id=17
 🕒 Start: 2025-09-28 20:30 GMT+3
 📍 Tournament: Germany 3. Liga
 📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
+DE | Magenta Sport: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
 
 ==================================================
 
@@ -1609,7 +617,7 @@ DE | Magenta Sport: https://dabac.link/ch?id=16 | https://glisco.link/ch?id=16
 🕒 Start: 2025-09-28 20:30 GMT+3
 📍 Tournament: Greece Super League
 📺 Channels:
-GR | Nova Sports Prime: https://dabac.link/ch?id=25 | https://glisco.link/ch?id=25
+GR | Nova Sports Prime: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
 
 ==================================================
 
@@ -1617,7 +625,7 @@ GR | Nova Sports Prime: https://dabac.link/ch?id=25 | https://glisco.link/ch?id=
 🕒 Start: 2025-09-28 21:00 GMT+3
 📍 Tournament: Greece Super League
 📺 Channels:
-GR | Cosmote Sport 1: https://dabac.link/ch?id=23 | https://glisco.link/ch?id=23
+GR | Cosmote Sport 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
 
 ==================================================
 
@@ -1625,7 +633,7 @@ GR | Cosmote Sport 1: https://dabac.link/ch?id=23 | https://glisco.link/ch?id=23
 🕒 Start: 2025-09-28 21:00 GMT+3
 📍 Tournament: Denmark Super Liga
 📺 Channels:
-DK | TV3+: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
+DK | TV3+: https://sansat.link/ch?id=67 | https://glisco.link/ch?id=67
 
 ==================================================
 
@@ -1633,7 +641,7 @@ DK | TV3+: https://dabac.link/ch?id=67 | https://glisco.link/ch?id=67
 🕒 Start: 2025-09-28 21:15 GMT+3
 📍 Tournament: Argentina Primera División
 📺 Channels:
-ES | TNT Sports Argentina: https://dabac.link/ch?id=26 | https://glisco.link/ch?id=26
+ES | TNT Sports Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
 
 ==================================================
 
@@ -1641,10 +649,10 @@ ES | TNT Sports Argentina: https://dabac.link/ch?id=26 | https://glisco.link/ch?
 🕒 Start: 2025-09-28 21:45 GMT+3
 📍 Tournament: Italy Serie A
 📺 Channels:
-GB | TNT Sports 1: https://dabac.link/ch?id=1 | https://glisco.link/ch?id=1
-ES | CBS Sports Golazo: https://dabac.link/ch?id=30 | https://glisco.link/ch?id=30
-IT | DAZN: https://dabac.link/ch?id=47 | https://glisco.link/ch?id=47
-ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
+GB | TNT Sports 1: https://sansat.link/ch?id=1 | https://glisco.link/ch?id=1
+ES | CBS Sports Golazo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+IT | DAZN: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
 
 ==================================================
 
@@ -1652,8 +660,8 @@ ES | Fox Deportes: https://dabac.link/ch?id=87 | https://glisco.link/ch?id=87
 🕒 Start: 2025-09-28 21:45 GMT+3
 📍 Tournament: France Ligue 1
 📺 Channels:
-US | beIN Sports: https://dabac.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | Ligue1+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
 
 ==================================================
 
@@ -1661,7 +669,7 @@ FR | Ligue1+: https://dabac.link/ch?id=50 | https://glisco.link/ch?id=50
 🕒 Start: 2025-09-28 22:00 GMT+3
 📍 Tournament: Canada Canadian Premier League
 📺 Channels:
-CA | OneSoccer: https://dabac.link/ch?id=5 | https://glisco.link/ch?id=5
+CA | OneSoccer: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
 
 ==================================================
 
@@ -1669,8 +677,8 @@ CA | OneSoccer: https://dabac.link/ch?id=5 | https://glisco.link/ch?id=5
 🕒 Start: 2025-09-28 22:00 GMT+3
 📍 Tournament: Spain La Liga
 📺 Channels:
-GB | Now Sports 2: https://dabac.link/ch?id=6 | https://glisco.link/ch?id=6
-ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
+GB | Now Sports 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 
 ==================================================
 
@@ -1678,7 +686,7 @@ ES | ESPN Deportes: https://dabac.link/ch?id=86 | https://glisco.link/ch?id=86
 🕒 Start: 2025-09-28 22:00 GMT+3
 📍 Tournament: Uruguay Primera Division
 📺 Channels:
-US | GOLTV: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
+US | GOLTV: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
 
 ==================================================
 
@@ -1686,7 +694,7 @@ US | GOLTV: https://dabac.link/ch?id=40 | https://glisco.link/ch?id=40
 🕒 Start: 2025-09-28 22:00 GMT+3
 📍 Tournament: Spain Segunda Division
 📺 Channels:
-ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=94 | https://glisco.link/ch?id=94
+ES | LALIGA TV Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
 
 ==================================================
 
@@ -1694,7 +702,7 @@ ES | LALIGA TV Hypermotion: https://dabac.link/ch?id=94 | https://glisco.link/ch
 🕒 Start: 2025-09-28 22:30 GMT+3
 📍 Tournament: Portugal Primeira Liga
 📺 Channels:
-PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
 
 ==================================================
 
@@ -1702,7 +710,7 @@ PT | Sport TV1: https://dabac.link/ch?id=21 | https://glisco.link/ch?id=21
 🕒 Start: 2025-09-28 23:00 GMT+3
 📍 Tournament: FIFA U-20 World Cup
 📺 Channels:
-DE | Magenta Sport: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
+DE | Magenta Sport: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
 
 ==================================================
 
@@ -1710,7 +718,243 @@ DE | Magenta Sport: https://dabac.link/ch?id=11 | https://glisco.link/ch?id=11
 🕒 Start: 2025-09-28 23:00 GMT+3
 📍 Tournament: FIFA U-20 World Cup
 📺 Channels:
-US | Fox Soccer Plus: https://dabac.link/ch?id=83 | https://glisco.link/ch?id=83
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: River Plate Vs Deportivo Riestra
+🕒 Start: 2025-09-29 00:00 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+ES | ESPN Premium: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Miramar Misiones Vs Defensor Sporting
+🕒 Start: 2025-09-29 00:30 GMT+3
+📍 Tournament: Uruguay Primera Division
+📺 Channels:
+US | GOLTV: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
+
+==================================================
+
+🏟️ Match: Vancouver FC Vs HFX Wanderers
+🕒 Start: 2025-09-29 01:00 GMT+3
+📍 Tournament: Canada Canadian Premier League
+📺 Channels:
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Instituto Vs Lanús
+🕒 Start: 2025-09-29 01:15 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | ESPN Premium: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Independiente Rivadavia Vs Huracán
+🕒 Start: 2025-09-29 01:30 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Cincinnati Vs Orlando City SC
+🕒 Start: 2025-09-29 02:00 GMT+3
+📍 Tournament: USA/Canada Major League Soccer
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+US | MLS Season Pass: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
+
+==================================================
+
+🏟️ Match: Querétaro Vs Tigres UANL
+🕒 Start: 2025-09-29 02:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Brazil U20 Vs Mexico U20
+🕒 Start: 2025-09-29 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 1: https://sansat.link/ch?id=81 | https://glisco.link/ch?id=81
+
+==================================================
+
+🏟️ Match: Cuba U20 Vs Argentina U20
+🕒 Start: 2025-09-29 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Tijuana Vs Cruz Azul
+🕒 Start: 2025-09-29 06:05 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Atromitos Vs Larissa
+🕒 Start: 2025-09-29 18:00 GMT+3
+📍 Tournament: Greece Super League
+📺 Channels:
+GR | Nova Sports Prime: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
+
+==================================================
+
+🏟️ Match: Zagłębie Lubin Vs Arka Gdynia
+🕒 Start: 2025-09-29 19:00 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport 3: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Parma Vs Torino
+🕒 Start: 2025-09-29 19:30 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+ES | CBS Sports Golazo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+IT | DAZN Zona: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Beşiktaş Vs Kocaelispor
+🕒 Start: 2025-09-29 20:00 GMT+3
+📍 Tournament: Turkey Super Lig
+📺 Channels:
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+TR | beIN Sports 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
+
+==================================================
+
+🏟️ Match: Midtjylland Vs Randers
+🕒 Start: 2025-09-29 20:00 GMT+3
+📍 Tournament: Denmark Super Liga
+📺 Channels:
+DK | TV2 Sport X: https://sansat.link/ch?id=67 | https://glisco.link/ch?id=67
+
+==================================================
+
+🏟️ Match: Djurgården Vs Sirius
+🕒 Start: 2025-09-29 20:00 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | HBO MAX: https://sansat.link/ch?id=68 | https://glisco.link/ch?id=68
+
+==================================================
+
+🏟️ Match: Öster Vs IFK Göteborg
+🕒 Start: 2025-09-29 20:10 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | HBO MAX: https://sansat.link/ch?id=69 | https://glisco.link/ch?id=69
+
+==================================================
+
+🏟️ Match: Beroe Vs Dobrudzha 1919
+🕒 Start: 2025-09-29 20:15 GMT+3
+📍 Tournament: Bulgaria Parva Liga
+📺 Channels:
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
+
+==================================================
+
+🏟️ Match: Barracas Central Vs Belgrano
+🕒 Start: 2025-09-29 21:30 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Motor Lublin Vs Radomiak Radom
+🕒 Start: 2025-09-29 21:30 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport 3: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Leganés Vs CD Castellon
+🕒 Start: 2025-09-29 21:30 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LaLiga Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
+
+==================================================
+
+🏟️ Match: Genoa Vs Lazio
+🕒 Start: 2025-09-29 21:45 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+ES | CBS Sports Golazo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+IT | Sky Sport Calcio: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Boulogne Vs Red Star
+🕒 Start: 2025-09-29 21:45 GMT+3
+📍 Tournament: France Ligue 2
+📺 Channels:
+FR | beIN Sports 1: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
+
+==================================================
+
+🏟️ Match: Valencia Vs Real Oviedo
+🕒 Start: 2025-09-29 22:00 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | Now Sport 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Everton Vs West Ham United
+🕒 Start: 2025-09-29 22:00 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+US | USA Network: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+ES | Universo: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
+FR | Canal+ Foot: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
+
+==================================================
+
+🏟️ Match: Arouca Vs Porto
+🕒 Start: 2025-09-29 22:00 GMT+3
+📍 Tournament: Portugal Primeira Liga
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Norway U20 Vs Nigeria U20
+🕒 Start: 2025-09-29 23:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+CA | TSN2: https://sansat.link/ch?id=37 | https://glisco.link/ch?id=37
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: France U20 Vs South Africa U20
+🕒 Start: 2025-09-29 23:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
 
 ==================================================
 
