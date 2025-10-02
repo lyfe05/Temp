@@ -1,4 +1,31 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-02 05:37:07 GMT+3
-# Total streams: 0
+# Generated: 2025-10-02 07:31:09 GMT+3
+# Total streams: 9
+
+name: Aberdeen Vs Shakhtar Donetsk
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aberdeen_vs_shakhtar_donetsk.m3u8
+
+name: Dynamo Kyiv Vs Crystal Palace
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/dynamo_kyiv_vs_crystal_palace.m3u8
+
+name: Dynamo Kyiv Vs Crystal Palace
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/dynamo_kyiv_vs_crystal_palace_2.m3u8
+
+name: Fc Basel Vs Vfb Stuttgart
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fc_basel_vs_vfb_stuttgart.m3u8
+
+name: Feyenoord Vs Aston Villa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/feyenoord_vs_aston_villa.m3u8
+
+name: Feyenoord Vs Aston Villa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/feyenoord_vs_aston_villa_2.m3u8
+
+name: Nottingham Forest Vs Midtjylland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/nottingham_forest_vs_midtjylland.m3u8
+
+name: Roma Vs Lille
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/roma_vs_lille.m3u8
+
+name: Sturm Graz Vs Rangers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_rangers.m3u8
 
