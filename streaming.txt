@@ -1,43 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-01 05:38:27 GMT+3
-# Total streams: 13
-
-name: Arsenal Vs Olympiacos
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/arsenal_vs_olympiacos.m3u8
-
-name: Barcelona Vs Psg
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/barcelona_vs_psg.m3u8
-
-name: Bayer Leverkusen Vs Psv
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/bayer_leverkusen_vs_psv.m3u8
-
-name: Borussia Dortmund Vs Athletic Bilbao
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/borussia_dortmund_vs_athletic_bilbao.m3u8
-
-name: Borussia Dortmund Vs Athletic Bilbao
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/borussia_dortmund_vs_athletic_bilbao_2.m3u8
-
-name: Millwall Vs Coventry City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/millwall_vs_coventry_city.m3u8
-
-name: Monaco Vs Manchester City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/monaco_vs_manchester_city.m3u8
-
-name: Napoli Vs Sporting Cp
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/napoli_vs_sporting_cp.m3u8
-
-name: Norwich City Vs West Bromwich Albion
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/norwich_city_vs_west_bromwich_albion.m3u8
-
-name: Portsmouth Vs Watford
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/portsmouth_vs_watford.m3u8
-
-name: Queens Park Rangers Vs Oxford United
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/queens_park_rangers_vs_oxford_united.m3u8
-
-name: Union Saint Gilloise Vs Newcastle United
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/union_saint_gilloise_vs_newcastle_united.m3u8
-
-name: Villarreal Vs Juventus
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/villarreal_vs_juventus.m3u8
+# Generated: 2025-10-02 05:37:07 GMT+3
+# Total streams: 0
 
