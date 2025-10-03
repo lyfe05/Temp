@@ -1,31 +1,25 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-02 07:31:09 GMT+3
-# Total streams: 9
+# Generated: 2025-10-03 05:37:41 GMT+3
+# Total streams: 7
 
-name: Aberdeen Vs Shakhtar Donetsk
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aberdeen_vs_shakhtar_donetsk.m3u8
+name: Afc Bournemouth Vs Fulham
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/afc_bournemouth_vs_fulham.m3u8
 
-name: Dynamo Kyiv Vs Crystal Palace
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/dynamo_kyiv_vs_crystal_palace.m3u8
+name: Eintracht Braunschweig Vs Paderborn
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/eintracht_braunschweig_vs_paderborn.m3u8
 
-name: Dynamo Kyiv Vs Crystal Palace
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/dynamo_kyiv_vs_crystal_palace_2.m3u8
+name: Fortuna D Sseldorf Vs N Rnberg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fortuna_d_sseldorf_vs_n_rnberg.m3u8
 
-name: Fc Basel Vs Vfb Stuttgart
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fc_basel_vs_vfb_stuttgart.m3u8
+name: Hellas Verona Vs Sassuolo
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hellas_verona_vs_sassuolo.m3u8
 
-name: Feyenoord Vs Aston Villa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/feyenoord_vs_aston_villa.m3u8
+name: Osasuna Vs Getafe
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/osasuna_vs_getafe.m3u8
 
-name: Feyenoord Vs Aston Villa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/feyenoord_vs_aston_villa_2.m3u8
+name: Paris Vs Lorient
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/paris_vs_lorient.m3u8
 
-name: Nottingham Forest Vs Midtjylland
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/nottingham_forest_vs_midtjylland.m3u8
-
-name: Roma Vs Lille
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/roma_vs_lille.m3u8
-
-name: Sturm Graz Vs Rangers
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_rangers.m3u8
+name: Wrexham Vs Birmingham City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/wrexham_vs_birmingham_city.m3u8
 
