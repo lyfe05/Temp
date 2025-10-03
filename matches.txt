@@ -1,397 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Santos Vs Grêmio
-🕒 Start: 2025-10-02 03:30 GMT+3
-📍 Tournament: Brazil Brasileirão
-📺 Channels:
-GB | Premier Sports 1: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
-
-==================================================
-
-🏟️ Match: Vancouver Whitecaps Vs Vancouver FC
-🕒 Start: 2025-10-02 05:00 GMT+3
-📍 Tournament: Canada Canadian Championship
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Celtic Vs Sporting Braga
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GB | TNT Sports 2: https://sansat.link/ch?id=2 | https://glisco.link/ch?id=2
-ES | M. Liga de Campeones 6: https://sansat.link/ch?id=96 | https://glisco.link/ch?id=96
-
-==================================================
-
-🏟️ Match: Dynamo Kyiv Vs Crystal Palace
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-GB | TNT Sports 3: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
-DE | Sky Sport Mix: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
-
-==================================================
-
-🏟️ Match: Roma Vs Lille
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-IT | Sky Sport Uno: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
-FR | Canal+ Foot: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
-
-==================================================
-
-🏟️ Match: Brann Vs Utrecht
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-NO | V sport 1: https://sansat.link/ch?id=20 | https://glisco.link/ch?id=20
-FR | Canal+ Live 9: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-GR | Cosmote Sport 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
-ES | Liga de Campeones 3: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Panathinaikos Vs Go Ahead Eagles
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GR | Cosmote Sport 3: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
-ES | M. Liga de Campeones 7: https://sansat.link/ch?id=97 | https://glisco.link/ch?id=97
-
-==================================================
-
-🏟️ Match: Rayo Vallecano Vs Škendija 79
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-ES | Liga de Campeones 2: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
-FR | Canal+ Live 11: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
-
-==================================================
-
-🏟️ Match: Omonia Nicosia Vs Mainz 05
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 12: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Zrinjski Vs Lincoln Red Imps
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 13: https://sansat.link/ch?id=42 | https://glisco.link/ch?id=42
-
-==================================================
-
-🏟️ Match: Bologna Vs Freiburg
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-IT | Sky Sport 253: https://sansat.link/ch?id=43 | https://glisco.link/ch?id=43
-ES | Liga de Campeones 8: https://sansat.link/ch?id=98 | https://glisco.link/ch?id=98
-
-==================================================
-
-🏟️ Match: KuPS Vs Drita
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 18: https://sansat.link/ch?id=44 | https://glisco.link/ch?id=44
-
-==================================================
-
-🏟️ Match: Jagiellonia Białystok Vs Hamrun Spartans
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 14: https://sansat.link/ch?id=46 | https://glisco.link/ch?id=46
-PL | Polsat Sport 2: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
-
-==================================================
-
-🏟️ Match: Fenerbahçe Vs Nice
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Sport: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
-ES | Liga de Campeones 5: https://sansat.link/ch?id=95 | https://glisco.link/ch?id=95
-
-==================================================
-
-🏟️ Match: Ludogorets Vs Real Betis
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Live 5: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
-ES | M. Liga de Campeones: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
-
-==================================================
-
-🏟️ Match: Lausanne Sport Vs Breidablik
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 16: https://sansat.link/ch?id=56 | https://glisco.link/ch?id=56
-
-==================================================
-
-🏟️ Match: Noah Vs Rijeka
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 17: https://sansat.link/ch?id=57 | https://glisco.link/ch?id=57
-
-==================================================
-
-🏟️ Match: Viktoria Plzeň Vs Malmö FF
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Live 8: https://sansat.link/ch?id=58 | https://glisco.link/ch?id=58
-
-==================================================
-
-🏟️ Match: Lech Poznań Vs Rapid Wien
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-PL | Polsat Sport Premium 1: https://sansat.link/ch?id=61 | https://glisco.link/ch?id=61
-
-==================================================
-
-🏟️ Match: FCSB Vs Young Boys
-🕒 Start: 2025-10-02 19:45 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-RO | Prima Sport 1: https://sansat.link/ch?id=100 | https://glisco.link/ch?id=100
-
-==================================================
-
-🏟️ Match: Nottingham Forest Vs Midtjylland
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GB | TNT Sports 1: https://sansat.link/ch?id=1 | https://glisco.link/ch?id=1
-FR | Canal+ Live 5: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
-ES | M. Liga de Campeones 5: https://sansat.link/ch?id=95 | https://glisco.link/ch?id=95
-
-==================================================
-
-🏟️ Match: Sturm Graz Vs Rangers
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GB | TNT Sports 2: https://sansat.link/ch?id=2 | https://glisco.link/ch?id=2
-FR | Canal+ Live 8: https://sansat.link/ch?id=58 | https://glisco.link/ch?id=58
-ES | M. Liga de Campeones 8: https://sansat.link/ch?id=98 | https://glisco.link/ch?id=98
-
-==================================================
-
-🏟️ Match: Feyenoord Vs Aston Villa
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GB | TNT Sports 3: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Aberdeen Vs Shakhtar Donetsk
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-GB | TNT Sports 4: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
-FR | Canal+ Live 12: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Basel Vs Stuttgart
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-DE | RTL: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
-ES | M. Liga de Campeones 7: https://sansat.link/ch?id=97 | https://glisco.link/ch?id=97
-
-==================================================
-
-🏟️ Match: Shelbourne Vs Häcken
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-NO | V Sport 3: https://sansat.link/ch?id=22 | https://glisco.link/ch?id=22
-FR | Canal+ Live 17: https://sansat.link/ch?id=57 | https://glisco.link/ch?id=57
-
-==================================================
-
-🏟️ Match: Simulcast Vs None
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-GR | Cosmote Sport 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
-ES | Liga de Campeones 3: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Celje Vs AEK Athens
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-GR | Cosmote Sport 5: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
-FR | Canal+ Live 14: https://sansat.link/ch?id=46 | https://glisco.link/ch?id=46
-
-==================================================
-
-🏟️ Match: Celta de Vigo Vs PAOK
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-GR | Cosmote Sport 4: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
-ES | M. Liga de Campeones: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
-
-==================================================
-
-🏟️ Match: Fiorentina Vs Sigma Olomouc
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 11: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
-IT | Sky Sport Uno: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: AEK Larnaca Vs AZ
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 13: https://sansat.link/ch?id=42 | https://glisco.link/ch?id=42
-NL | Ziggo Sport 2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
-
-==================================================
-
-🏟️ Match: Olympique Lyonnais Vs Salzburg
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-IT | Sky Sport 255: https://sansat.link/ch?id=45 | https://glisco.link/ch?id=45
-FR | Canal+: https://sansat.link/ch?id=53 | https://glisco.link/ch?id=53
-ES | M. Liga de Campeones 6: https://sansat.link/ch?id=96 | https://glisco.link/ch?id=96
-
-==================================================
-
-🏟️ Match: Genk Vs Ferencváros
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Live 10: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
-
-==================================================
-
-🏟️ Match: Slovan Bratislava Vs Strasbourg
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Foot: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
-
-==================================================
-
-🏟️ Match: Porto Vs Crvena Zvezda
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Live 4: https://sansat.link/ch?id=54 | https://glisco.link/ch?id=54
-ES | M. Liga de Campeones 4: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
-
-==================================================
-
-🏟️ Match: Raków Częstochowa Vs CSU Craiova
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 16: https://sansat.link/ch?id=56 | https://glisco.link/ch?id=56
-RO | Prima Sport 1: https://sansat.link/ch?id=100 | https://glisco.link/ch?id=100
-
-==================================================
-
-🏟️ Match: Maccabi Tel Aviv Vs Dinamo Zagreb
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Europa League
-📺 Channels:
-FR | Canal+ Live 9: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
-ES | M. Liga de Campeones 9: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
-
-==================================================
-
-🏟️ Match: Sparta Praha Vs Shamrock Rovers
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-FR | Canal+ Live 15: https://sansat.link/ch?id=65 | https://glisco.link/ch?id=65
-
-==================================================
-
-🏟️ Match: Legia Warszawa Vs Samsunspor
-🕒 Start: 2025-10-02 22:00 GMT+3
-📍 Tournament: Europe UEFA Conference League
-📺 Channels:
-TR | TRT 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
-
-==================================================
-
-🏟️ Match: United States U20 Vs France U20
-🕒 Start: 2025-10-02 23:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Colombia U20 Vs Norway U20
-🕒 Start: 2025-10-02 23:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Nigeria U20 Vs Saudi Arabia U20
-🕒 Start: 2025-10-03 02:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: South Africa U20 Vs New Caledonia U20
-🕒 Start: 2025-10-03 02:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Defensor Sporting Vs Central Español
-🕒 Start: 2025-10-03 02:30 GMT+3
-📍 Tournament: Uruguay Copa Uruguay
-📺 Channels:
-US | GOLTV: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
 🏟️ Match: Septemvri Sofia Vs Lokomotiv Plovdiv
 🕒 Start: 2025-10-03 17:30 GMT+3
 📍 Tournament: Bulgaria Parva Liga
@@ -562,15 +170,6 @@ PL | Canal+ Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
 
 ==================================================
 
-🏟️ Match: Paris Vs Lorient
-🕒 Start: 2025-10-03 21:30 GMT+3
-📍 Tournament: France Ligue 1
-📺 Channels:
-US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
-FR | Ligue1+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
-
-==================================================
-
 🏟️ Match: Ceuta Vs Eibar
 🕒 Start: 2025-10-03 21:30 GMT+3
 📍 Tournament: Spain Segunda Division
@@ -585,6 +184,15 @@ ES | LaLiga Hypermotion: https://sansat.link/ch?id=95 | https://glisco.link/ch?i
 📺 Channels:
 DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
 IT | Sky Sport Calcio: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Paris Vs Lorient
+🕒 Start: 2025-10-03 21:45 GMT+3
+📍 Tournament: France Ligue 1
+📺 Channels:
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | Ligue1+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
 
 ==================================================
 
@@ -620,6 +228,7 @@ ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 US | USA Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
 ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
 FR | Canal+ Sport360: https://sansat.link/ch?id=53 | https://glisco.link/ch?id=53
+PL | Canal+ Extra 1: https://sansat.link/ch?id=62 | https://glisco.link/ch?id=62
 
 ==================================================
 
@@ -644,6 +253,816 @@ CA | TSN5: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
 📍 Tournament: FIFA U-20 World Cup
 📺 Channels:
 US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Tigre Vs Defensa y Justicia
+🕒 Start: 2025-10-04 01:00 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | ESPN Premium Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Egypt U20 Vs Chile U20
+🕒 Start: 2025-10-04 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 1: https://sansat.link/ch?id=81 | https://glisco.link/ch?id=81
+
+==================================================
+
+🏟️ Match: New Zealand U20 Vs Japan U20
+🕒 Start: 2025-10-04 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Unión Santa Fe Vs Aldosivi
+🕒 Start: 2025-10-04 03:15 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | TNT Sports Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Argentinos Juniors Vs Central Córdoba SdE
+🕒 Start: 2025-10-04 03:15 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | ESPN Premium Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Necaxa Vs Pachuca
+🕒 Start: 2025-10-04 04:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Mazatlán Vs Atlético San Luis
+🕒 Start: 2025-10-04 06:00 GMT+3
+📍 Tournament: Mexico Liga MX
+📺 Channels:
+ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Kyoto Sanga Vs Kawasaki Frontale
+🕒 Start: 2025-10-04 13:00 GMT+3
+📍 Tournament: Japan J1 League
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Lusitania FC Lourosa Vs Farense
+🕒 Start: 2025-10-04 13:00 GMT+3
+📍 Tournament: Portugal Segunda liga
+📺 Channels:
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Kaiserslautern Vs Bochum
+🕒 Start: 2025-10-04 14:00 GMT+3
+📍 Tournament: Germany Bundesliga 2
+📺 Channels:
+DE | Sky Sport Bundesliga 3: https://sansat.link/ch?id=13 | https://glisco.link/ch?id=13
+CZ | Nova Sport 3: https://sansat.link/ch?id=20 | https://glisco.link/ch?id=20
+
+==================================================
+
+🏟️ Match: Hertha BSC Vs Preußen Münster
+🕒 Start: 2025-10-04 14:00 GMT+3
+📍 Tournament: Germany Bundesliga 2
+📺 Channels:
+DE | Sky Sport Bundesliga 4: https://sansat.link/ch?id=14 | https://glisco.link/ch?id=14
+
+==================================================
+
+🏟️ Match: Holstein Kiel Vs Darmstadt 98
+🕒 Start: 2025-10-04 14:00 GMT+3
+📍 Tournament: Germany Bundesliga 2
+📺 Channels:
+DE | Sky Sport Bundesliga 5: https://sansat.link/ch?id=15 | https://glisco.link/ch?id=15
+
+==================================================
+
+🏟️ Match: Simulcast Vs None
+🕒 Start: 2025-10-04 14:00 GMT+3
+📍 Tournament: Germany Bundesliga 2
+📺 Channels:
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+
+==================================================
+
+🏟️ Match: Blackburn Rovers Vs Stoke City
+🕒 Start: 2025-10-04 14:30 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: Leeds United Vs Tottenham Hotspur
+🕒 Start: 2025-10-04 14:30 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+US | USA Network: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+FR | Canal+: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
+
+==================================================
+
+🏟️ Match: Hull City Vs Sheffield United
+🕒 Start: 2025-10-04 14:30 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
+
+==================================================
+
+🏟️ Match: Sheffield Wednesday Vs Coventry City
+🕒 Start: 2025-10-04 14:30 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
+
+==================================================
+
+🏟️ Match: Gençlerbirliği Vs Alanyaspor
+🕒 Start: 2025-10-04 14:30 GMT+3
+📍 Tournament: Turkey Super Lig
+📺 Channels:
+TR | beIN Sports 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
+
+==================================================
+
+🏟️ Match: Real Oviedo Vs Levante
+🕒 Start: 2025-10-04 15:00 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | NOW Sport 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+CZ | Nova Sport 4: https://sansat.link/ch?id=44 | https://glisco.link/ch?id=44
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Vålerenga Vs Tromsø
+🕒 Start: 2025-10-04 15:00 GMT+3
+📍 Tournament: Norway Eliteserien
+📺 Channels:
+NO | TV 2 Direkte: https://sansat.link/ch?id=45 | https://glisco.link/ch?id=45
+
+==================================================
+
+🏟️ Match: Reims Vs Grenoble Foot 38
+🕒 Start: 2025-10-04 15:00 GMT+3
+📍 Tournament: France Ligue 2
+📺 Channels:
+FR | beIN Sports 1: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
+
+==================================================
+
+🏟️ Match: Red Star Vs Rodez
+🕒 Start: 2025-10-04 15:00 GMT+3
+📍 Tournament: France Ligue 2
+📺 Channels:
+FR | beIN Sports MAX 4: https://sansat.link/ch?id=54 | https://glisco.link/ch?id=54
+
+==================================================
+
+🏟️ Match: CSKA 1948 Vs Spartak Varna
+🕒 Start: 2025-10-04 15:15 GMT+3
+📍 Tournament: Bulgaria Parva Liga
+📺 Channels:
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
+
+==================================================
+
+🏟️ Match: Nieciecza Vs Widzew Łódź
+🕒 Start: 2025-10-04 15:45 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Dukla Praha Vs Teplice
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Czech Republic 1. liga
+📺 Channels:
+CZ | Oneplay Sport 1: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
+
+==================================================
+
+🏟️ Match: FK Pardubice Vs Karviná
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Czech Republic 1. liga
+📺 Channels:
+CZ | Oneplay Sport 2: https://sansat.link/ch?id=42 | https://glisco.link/ch?id=42
+
+==================================================
+
+🏟️ Match: Mladá Boleslav Vs Slovácko
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Czech Republic 1. liga
+📺 Channels:
+CZ | Oneplay Sport 3: https://sansat.link/ch?id=43 | https://glisco.link/ch?id=43
+
+==================================================
+
+🏟️ Match: Parma Vs Lecce
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+IT | DAZN Zona: https://sansat.link/ch?id=46 | https://glisco.link/ch?id=46
+
+==================================================
+
+🏟️ Match: Lazio Vs Torino
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+IT | DAZN Zona: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+ES | FOX Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
+
+==================================================
+
+🏟️ Match: Öster Vs Halmstad
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | TV4 Play: https://sansat.link/ch?id=57 | https://glisco.link/ch?id=57
+
+==================================================
+
+🏟️ Match: Mjällby Vs Elfsborg
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | TV4 Play: https://sansat.link/ch?id=58 | https://glisco.link/ch?id=58
+
+==================================================
+
+🏟️ Match: Degerfors Vs Djurgården
+🕒 Start: 2025-10-04 16:00 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | TV4 Play: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
+
+==================================================
+
+🏟️ Match: Borussia Dortmund Vs RB Leipzig
+🕒 Start: 2025-10-04 16:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | Sky Sport Bundesliga 1: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
+CZ | Nova Sport 3: https://sansat.link/ch?id=20 | https://glisco.link/ch?id=20
+
+==================================================
+
+🏟️ Match: Bayer Leverkusen Vs Union Berlin
+🕒 Start: 2025-10-04 16:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | Sky Sport Bundesliga 2: https://sansat.link/ch?id=12 | https://glisco.link/ch?id=12
+
+==================================================
+
+🏟️ Match: Werder Bremen Vs St. Pauli
+🕒 Start: 2025-10-04 16:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | Sky Sport Bundesliga 3: https://sansat.link/ch?id=13 | https://glisco.link/ch?id=13
+
+==================================================
+
+🏟️ Match: Augsburg Vs Wolfsburg
+🕒 Start: 2025-10-04 16:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | Sky Sport Bundesliga 4: https://sansat.link/ch?id=14 | https://glisco.link/ch?id=14
+
+==================================================
+
+🏟️ Match: Simulcast Vs None
+🕒 Start: 2025-10-04 16:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+
+==================================================
+
+🏟️ Match: Vukovar Vs Hajduk Split
+🕒 Start: 2025-10-04 16:45 GMT+3
+📍 Tournament: Croatia 1. HNL
+📺 Channels:
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
+
+==================================================
+
+🏟️ Match: Simulcast Vs None
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+GB | HUB Premier: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
+
+==================================================
+
+🏟️ Match: Arsenal Vs West Ham United
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+GB | Now Premier League 1: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | Sky Sport Premier League: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
+FR | Canal+ Foot: https://sansat.link/ch?id=56 | https://glisco.link/ch?id=56
+
+==================================================
+
+🏟️ Match: Manchester United Vs Sunderland
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+US | USA Network: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+FR | Canal+ Live 8: https://sansat.link/ch?id=53 | https://glisco.link/ch?id=53
+
+==================================================
+
+🏟️ Match: Preston North End Vs Charlton Athletic
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
+
+==================================================
+
+🏟️ Match: Derby County Vs Southampton
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=32 | https://glisco.link/ch?id=32
+
+==================================================
+
+🏟️ Match: Millwall Vs West Bromwich Albion
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=33 | https://glisco.link/ch?id=33
+
+==================================================
+
+🏟️ Match: Portsmouth Vs Middlesbrough
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=34 | https://glisco.link/ch?id=34
+
+==================================================
+
+🏟️ Match: Bristol City Vs Queens Park Rangers
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
+
+==================================================
+
+🏟️ Match: Watford Vs Oxford United
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+GB | Sky Sports+: https://sansat.link/ch?id=36 | https://glisco.link/ch?id=36
+
+==================================================
+
+🏟️ Match: Swansea City Vs Leicester City
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: England Championship
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
+
+==================================================
+
+🏟️ Match: Mechelen Vs Sint-Truiden
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: Belgium Pro League
+📺 Channels:
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
+
+==================================================
+
+🏟️ Match: Kocaelispor Vs Eyüpspor
+🕒 Start: 2025-10-04 17:00 GMT+3
+📍 Tournament: Turkey Super Lig
+📺 Channels:
+TR | beIN Sports 2: https://sansat.link/ch?id=92 | https://glisco.link/ch?id=92
+
+==================================================
+
+🏟️ Match: Girona Vs Valencia
+🕒 Start: 2025-10-04 17:15 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | NOW Sport 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+CZ | Nova Sport 4: https://sansat.link/ch?id=44 | https://glisco.link/ch?id=44
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Deportivo La Coruña Vs Almería
+🕒 Start: 2025-10-04 17:15 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LaLiga Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
+
+==================================================
+
+🏟️ Match: Sparta Rotterdam Vs Ajax
+🕒 Start: 2025-10-04 17:30 GMT+3
+📍 Tournament: Netherlands Eredivisie
+📺 Channels:
+CA | Sportsnet World: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
+
+==================================================
+
+🏟️ Match: Gil Vicente Vs Estrela
+🕒 Start: 2025-10-04 17:30 GMT+3
+📍 Tournament: Portugal Primeira Liga
+📺 Channels:
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Nacional Vs Moreirense
+🕒 Start: 2025-10-04 17:30 GMT+3
+📍 Tournament: Portugal Primeira Liga
+📺 Channels:
+PT | Sport TV2: https://sansat.link/ch?id=22 | https://glisco.link/ch?id=22
+
+==================================================
+
+🏟️ Match: Montana Vs Cherno More
+🕒 Start: 2025-10-04 17:45 GMT+3
+📍 Tournament: Bulgaria Parva Liga
+📺 Channels:
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
+
+==================================================
+
+🏟️ Match: Panserraikos Vs Asteras Tripolis
+🕒 Start: 2025-10-04 18:00 GMT+3
+📍 Tournament: Greece Super League
+📺 Channels:
+GR | Nova Sports 2: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
+
+==================================================
+
+🏟️ Match: Metz Vs Olympique Marseille
+🕒 Start: 2025-10-04 18:00 GMT+3
+📍 Tournament: France Ligue 1
+📺 Channels:
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | beIN Sports 1: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
+
+==================================================
+
+🏟️ Match: Puskás Vs Újpest
+🕒 Start: 2025-10-04 18:00 GMT+3
+📍 Tournament: Hungary NB1
+📺 Channels:
+HU | M4 Sports: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
+
+==================================================
+
+🏟️ Match: OFI Vs Aris
+🕒 Start: 2025-10-04 18:30 GMT+3
+📍 Tournament: Greece Super League
+📺 Channels:
+GR | Cosmote Sport 2: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
+
+==================================================
+
+🏟️ Match: GAIS Vs Norrköping
+🕒 Start: 2025-10-04 18:30 GMT+3
+📍 Tournament: Sweden Allsvenskan
+📺 Channels:
+SE | TV4 Play: https://sansat.link/ch?id=59 | https://glisco.link/ch?id=59
+
+==================================================
+
+🏟️ Match: Radomiak Radom Vs Zagłębie Lubin
+🕒 Start: 2025-10-04 18:30 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Internazionale Vs Cremonese
+🕒 Start: 2025-10-04 19:00 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
+IT | DAZN Zona: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Slovan Liberec Vs Bohemians 1905
+🕒 Start: 2025-10-04 19:00 GMT+3
+📍 Tournament: Czech Republic 1. liga
+📺 Channels:
+CZ | Oneplay Sport 1: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
+
+==================================================
+
+🏟️ Match: Slaven Koprivnica Vs Osijek
+🕒 Start: 2025-10-04 19:00 GMT+3
+📍 Tournament: Croatia 1. HNL
+📺 Channels:
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
+
+==================================================
+
+🏟️ Match: RAAL La Louvière Vs Zulte-Waregem
+🕒 Start: 2025-10-04 19:15 GMT+3
+📍 Tournament: Belgium Pro League
+📺 Channels:
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
+
+==================================================
+
+🏟️ Match: Athletic Club Vs Mallorca
+🕒 Start: 2025-10-04 19:30 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | NOW Sport 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+CZ | Nova Sport 4: https://sansat.link/ch?id=44 | https://glisco.link/ch?id=44
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Chelsea Vs Liverpool
+🕒 Start: 2025-10-04 19:30 GMT+3
+📍 Tournament: England Premier League
+📺 Channels:
+US | NBC: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+DE | Sky Sport Premier League: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
+ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+FR | Canal+ Foot: https://sansat.link/ch?id=56 | https://glisco.link/ch?id=56
+
+==================================================
+
+🏟️ Match: Eintracht Frankfurt Vs Bayern München
+🕒 Start: 2025-10-04 19:30 GMT+3
+📍 Tournament: Germany Bundesliga
+📺 Channels:
+DE | Sky Sport Bundesliga 1: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
+CZ | Nova Sport 3: https://sansat.link/ch?id=20 | https://glisco.link/ch?id=20
+FR | beIN Sports 2: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
+
+==================================================
+
+🏟️ Match: FC Andorra Vs Leganés
+🕒 Start: 2025-10-04 19:30 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LaLiga Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
+
+==================================================
+
+🏟️ Match: Huesca Vs Burgos
+🕒 Start: 2025-10-04 19:30 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LaLiga Hypermotion: https://sansat.link/ch?id=95 | https://glisco.link/ch?id=95
+
+==================================================
+
+🏟️ Match: Fortuna Sittard Vs Volendam
+🕒 Start: 2025-10-04 19:45 GMT+3
+📍 Tournament: Netherlands Eredivisie
+📺 Channels:
+NL | ESPN3: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
+
+==================================================
+
+🏟️ Match: Brest Vs Nantes
+🕒 Start: 2025-10-04 20:00 GMT+3
+📍 Tournament: France Ligue 1
+📺 Channels:
+CZ | Nova Sport 2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+FR | Ligue1+: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
+
+==================================================
+
+🏟️ Match: AVS Vs Alverca
+🕒 Start: 2025-10-04 20:00 GMT+3
+📍 Tournament: Portugal Primeira Liga
+📺 Channels:
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Galatasaray Vs Beşiktaş
+🕒 Start: 2025-10-04 20:00 GMT+3
+📍 Tournament: Turkey Super Lig
+📺 Channels:
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+TR | beIN Sports 1: https://sansat.link/ch?id=91 | https://glisco.link/ch?id=91
+
+==================================================
+
+🏟️ Match: Levski Sofia Vs Beroe
+🕒 Start: 2025-10-04 20:15 GMT+3
+📍 Tournament: Bulgaria Parva Liga
+📺 Channels:
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
+
+==================================================
+
+🏟️ Match: Larissa Vs Volos NFC
+🕒 Start: 2025-10-04 20:30 GMT+3
+📍 Tournament: Greece Super League
+📺 Channels:
+GR | Cosmote Sport 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
+
+==================================================
+
+🏟️ Match: Sarmiento Vs Gimnasia La Plata
+🕒 Start: 2025-10-04 20:30 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | ESPN Premium Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Debrecen Vs Győri ETO
+🕒 Start: 2025-10-04 20:30 GMT+3
+📍 Tournament: Hungary NB1
+📺 Channels:
+HU | M4 Sports: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
+
+==================================================
+
+🏟️ Match: PEC Zwolle Vs PSV
+🕒 Start: 2025-10-04 21:00 GMT+3
+📍 Tournament: Netherlands Eredivisie
+📺 Channels:
+CA | Sportsnet World: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
+
+==================================================
+
+🏟️ Match: Montpellier Vs Saint-Étienne
+🕒 Start: 2025-10-04 21:00 GMT+3
+📍 Tournament: France Ligue 2
+📺 Channels:
+FR | beIN Sports 1: https://sansat.link/ch?id=51 | https://glisco.link/ch?id=51
+
+==================================================
+
+🏟️ Match: Arka Gdynia Vs Cracovia Kraków
+🕒 Start: 2025-10-04 21:15 GMT+3
+📍 Tournament: Poland Ekstraklasa
+📺 Channels:
+PL | Canal+ Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Dynamo Dresden Vs Karlsruher SC
+🕒 Start: 2025-10-04 21:30 GMT+3
+📍 Tournament: Germany Bundesliga 2
+📺 Channels:
+DE | Sky Sport Bundesliga 2: https://sansat.link/ch?id=12 | https://glisco.link/ch?id=12
+
+==================================================
+
+🏟️ Match: DC United Vs Charlotte
+🕒 Start: 2025-10-04 21:30 GMT+3
+📍 Tournament: USA/Canada Major League Soccer
+📺 Channels:
+US | MLS Season Pass: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
+
+==================================================
+
+🏟️ Match: CF Montréal Vs Nashville SC
+🕒 Start: 2025-10-04 21:30 GMT+3
+📍 Tournament: USA/Canada Major League Soccer
+📺 Channels:
+US | MLS Season Pass: https://sansat.link/ch?id=32 | https://glisco.link/ch?id=32
+
+==================================================
+
+🏟️ Match: HFX Wanderers Vs York United
+🕒 Start: 2025-10-04 21:30 GMT+3
+📍 Tournament: Canada Canadian Premier League
+📺 Channels:
+CA | OneSoccer: https://sansat.link/ch?id=38 | https://glisco.link/ch?id=38
+
+==================================================
+
+🏟️ Match: Atalanta Vs Como
+🕒 Start: 2025-10-04 21:45 GMT+3
+📍 Tournament: Italy Serie A
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
+IT | Sky Sport Calcio: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Antwerp Vs Cercle Brugge
+🕒 Start: 2025-10-04 21:45 GMT+3
+📍 Tournament: Belgium Pro League
+📺 Channels:
+BE | DAZN: https://sansat.link/ch?id=49 | https://glisco.link/ch?id=49
+
+==================================================
+
+🏟️ Match: Real Madrid Vs Villarreal
+🕒 Start: 2025-10-04 22:00 GMT+3
+📍 Tournament: Spain La Liga
+📺 Channels:
+GB | NOW Sport 2: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+CZ | Nova Sport 4: https://sansat.link/ch?id=44 | https://glisco.link/ch?id=44
+FR | beIN Sports 2: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Heerenveen Vs Excelsior
+🕒 Start: 2025-10-04 22:00 GMT+3
+📍 Tournament: Netherlands Eredivisie
+📺 Channels:
+NL | ESPN 2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
+
+==================================================
+
+🏟️ Match: Granada Vs Real Sociedad II
+🕒 Start: 2025-10-04 22:00 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LaLiga Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
+
+==================================================
+
+🏟️ Match: Auxerre Vs Lens
+🕒 Start: 2025-10-04 22:05 GMT+3
+📍 Tournament: France Ligue 1
+📺 Channels:
+CZ | Nova Sport 2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
+FR | Ligue1+: https://sansat.link/ch?id=55 | https://glisco.link/ch?id=55
+
+==================================================
+
+🏟️ Match: Vitória Guimarães Vs Santa Clara
+🕒 Start: 2025-10-04 22:30 GMT+3
+📍 Tournament: Portugal Primeira Liga
+📺 Channels:
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: San Martín San Juan Vs Instituto
+🕒 Start: 2025-10-04 22:45 GMT+3
+📍 Tournament: Argentina Primera División
+📺 Channels:
+ES | TNT Sports Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Spain U20 Vs Brazil U20
+🕒 Start: 2025-10-04 23:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Dallas Vs LA Galaxy
+🕒 Start: 2025-10-04 23:30 GMT+3
+📍 Tournament: USA/Canada Major League Soccer
+📺 Channels:
+US | MLS Season Pass: https://sansat.link/ch?id=33 | https://glisco.link/ch?id=33
+
+==================================================
+
+🏟️ Match: Forge Vs Vancouver FC
+🕒 Start: 2025-10-04 23:30 GMT+3
+📍 Tournament: Canada Canadian Premier League
+📺 Channels:
+CA | OneSoccer: https://sansat.link/ch?id=38 | https://glisco.link/ch?id=38
 
 ==================================================
 
