@@ -26,46 +26,39 @@ def fetch(url, timeout=30):
         c.close()
     return buf.getvalue().decode("utf-8", errors="ignore")
 
-def normalize_url(src):
-    if not src:
-        return None
-    if src.startswith("//"):
-        return "https:" + src
-    if src.startswith("/"):
-        return urljoin(BASE, src)
-    if not src.startswith("http"):
-        return urljoin(BASE, src)
-    return src
-
 def find_matches_from_html(html):
     soup = BeautifulSoup(html, "html.parser")
     matches = []
+    seen = set()
 
-    match_containers = soup.find_all("div", id=lambda x: x and x.startswith("port"))
-
-    for container in match_containers:
-        try:
-            title_element = container.find("h2")
-            if not title_element:
-                continue
-            title = title_element.get_text(strip=True)
-
-            link_element = container.find("a", href=True)
-            if not link_element or "match=" not in link_element["href"]:
-                continue
-            url = normalize_url(link_element["href"])
-
-            img_element = container.find("img", src=True)
-            image_url = normalize_url(img_element["src"]) if img_element else None
-
-            matches.append({
-                "title": title,
-                "url": url,
-                "image": image_url
-            })
-        except Exception:
+    # find all match containers (div id starts with "port")
+    match_divs = soup.find_all("div", id=lambda x: x and x.startswith("port"))
+    for div in match_divs:
+        title_el = div.find("h2")
+        title = title_el.get_text(strip=True) if title_el else None
+        if not title:
             continue
 
+        a = div.find("a", href=True)
+        if not a or "?match=" not in a["href"]:
+            continue
+        url = urljoin(BASE, a["href"])
+
+        # image extraction (same logic as the .html script)
+        img_el = div.find("img", src=True)
+        if img_el:
+            img_url = img_el["src"]
+            if img_url.startswith("//"):
+                img_url = "https:" + img_url
+            elif not img_url.startswith("http"):
+                img_url = urljoin(BASE, img_url)
+        else:
+            img_url = None
+
+        if url in seen:
+            continue
+        seen.add(url)
+        matches.append({"title": title, "url": url, "image": img_url})
     return matches
 
 def extract_embed_url(match_html):
@@ -97,18 +90,18 @@ def extract_m3u8_from_embed(embed_html):
 
 def process_match(match):
     try:
-        m_html = fetch(match['url'])
+        m_html = fetch(match["url"])
         embed = extract_embed_url(m_html)
         if not embed:
-            return {"title": match['title'], "embed": None, "m3u8": None, "image": match.get("image")}
+            return {"title": match["title"], "embed": None, "m3u8": None, "image": match.get("image")}
         embed_html = fetch(embed)
         m3u8 = extract_m3u8_from_embed(embed_html)
-        return {"title": match['title'], "embed": embed, "m3u8": m3u8, "image": match.get("image")}
+        return {"title": match["title"], "embed": embed, "m3u8": m3u8, "image": match.get("image")}
     except Exception:
-        return {"title": match['title'], "embed": None, "m3u8": None, "image": match.get("image")}
+        return {"title": match["title"], "embed": None, "m3u8": None, "image": match.get("image")}
 
 def main():
-    print("📡 Fetching HooFoot homepage...")
+    # fetch homepage
     try:
         home_html = fetch(BASE)
     except Exception as e:
@@ -120,22 +113,22 @@ def main():
         print("❌ No matches found.")
         sys.exit(1)
 
-    print(f"\n🚀 Found {len(matches)} matches. Fetching embed + m3u8 for all...\n")
-
     results = []
-    for i, match in enumerate(matches, 1):
-        print(f"⏳ [{i}/{len(matches)}] Processing: {match['title']}")
+    for match in matches:
         result = process_match(match)
         results.append(result)
-        time.sleep(1)
+        time.sleep(1)  # polite delay
 
-    print("\n✅ FINAL RESULTS\n" + "="*60)
-    for r in results:
-        print(f"⚽ {r['title']}")
-        print(f"📺 Embed: {r['embed'] or '❌ Not found'}")
-        print(f"🖼️ Image: {r['image'] or '❌ Not found'}")
-        print(f"🎥 M3U8:  {r['m3u8'] or '❌ Not found'}")
-        print("-"*60)
+    # save results.txt
+    with open("results.txt", "w", encoding="utf-8") as f:
+        for r in results:
+            f.write(f"⚽ {r['title']}\n")
+            f.write(f"📺 Embed: {r['embed'] or '❌ Not found'}\n")
+            f.write(f"🖼️ Image: {r['image'] or '❌ Not found'}\n")
+            f.write(f"🎥 M3U8:  {r['m3u8'] or '❌ Not found'}\n")
+            f.write("------------------------------------------------------------\n")
+
+    print("✅ results.txt generated successfully!")
 
 if __name__ == "__main__":
     main()
