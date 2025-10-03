@@ -1,0 +1,199 @@
+📡 Fetching HooFoot homepage...
+
+🚀 Found 32 matches. Fetching embed + m3u8 for all...
+
+⏳ [1/32] Processing: Feyenoord v Aston Villa
+⏳ [2/32] Processing: Feyenoord v Aston Villa
+⏳ [3/32] Processing: Nottingham v Midtjylland
+⏳ [4/32] Processing: Nottingham v Midtjylland
+⏳ [5/32] Processing: Porto v Crvena zvezda
+⏳ [6/32] Processing: Porto v Crvena zvezda
+⏳ [7/32] Processing: Lyon v Salzburg
+⏳ [8/32] Processing: Lyon v Salzburg
+⏳ [9/32] Processing: Basel v Stuttgart
+⏳ [10/32] Processing: Basel v Stuttgart
+⏳ [11/32] Processing: Celta v PAOK
+⏳ [12/32] Processing: Celta v PAOK
+⏳ [13/32] Processing: Roma v Lille
+⏳ [14/32] Processing: Roma v Lille
+⏳ [15/32] Processing: Dynamo Kyiv v Crystal Palace
+⏳ [16/32] Processing: Dynamo Kyiv v Crystal Palace
+⏳ [17/32] Processing: Fenerbahce v Nice
+⏳ [18/32] Processing: Fenerbahce v Nice
+⏳ [19/32] Processing: Celtic v Braga
+⏳ [20/32] Processing: Celtic v Braga
+⏳ [21/32] Processing: Ludogorets v Betis
+⏳ [22/32] Processing: Ludogorets v Betis
+⏳ [23/32] Processing: Bologna v Freiburg
+⏳ [24/32] Processing: Bologna v Freiburg
+⏳ [25/32] Processing: Panathinaikos v GA Eagles
+⏳ [26/32] Processing: Panathinaikos v GA Eagles
+⏳ [27/32] Processing: Plzen v Malmo FF
+⏳ [28/32] Processing: Plzen v Malmo FF
+⏳ [29/32] Processing: Sturm Graz v Rangers
+⏳ [30/32] Processing: Sturm Graz v Rangers
+⏳ [31/32] Processing: FCSB v Young Boys
+⏳ [32/32] Processing: FCSB v Young Boys
+
+✅ FINAL RESULTS
+============================================================
+⚽ Feyenoord v Aston Villa
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/8WvXgnFuJzLvr
+🖼️ Image: https://th.hoofoot.com/pics/35535.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306502/0.m3u8?token=03102025133006
+------------------------------------------------------------
+⚽ Feyenoord v Aston Villa
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/8WvXgnFuJzLvr
+🖼️ Image: https://th.hoofoot.com/pics/35535.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306502/0.m3u8?token=03102025133007
+------------------------------------------------------------
+⚽ Nottingham v Midtjylland
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/MPVvj3sQ5HzfL
+🖼️ Image: https://th.hoofoot.com/pics/35537.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306501/0.m3u8?token=03102025133009
+------------------------------------------------------------
+⚽ Nottingham v Midtjylland
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/MPVvj3sQ5HzfL
+🖼️ Image: https://th.hoofoot.com/pics/35537.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306501/0.m3u8?token=03102025133010
+------------------------------------------------------------
+⚽ Porto v Crvena zvezda
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Pu1OVSEpnvZMp
+🖼️ Image: https://th.hoofoot.com/pics/35532.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306492/0.m3u8?token=03102025133011
+------------------------------------------------------------
+⚽ Porto v Crvena zvezda
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Pu1OVSEpnvZMp
+🖼️ Image: https://th.hoofoot.com/pics/35532.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306492/0.m3u8?token=03102025133013
+------------------------------------------------------------
+⚽ Lyon v Salzburg
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/6ucLluU3MRDyA
+🖼️ Image: https://th.hoofoot.com/pics/35533.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306494/0.m3u8?token=03102025133015
+------------------------------------------------------------
+⚽ Lyon v Salzburg
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/6ucLluU3MRDyA
+🖼️ Image: https://th.hoofoot.com/pics/35533.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306494/0.m3u8?token=03102025133016
+------------------------------------------------------------
+⚽ Basel v Stuttgart
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/ATAWyItNIE3wX
+🖼️ Image: https://th.hoofoot.com/pics/35534.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306495/0.m3u8?token=03102025133017
+------------------------------------------------------------
+⚽ Basel v Stuttgart
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/ATAWyItNIE3wX
+🖼️ Image: https://th.hoofoot.com/pics/35534.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306495/0.m3u8?token=03102025133019
+------------------------------------------------------------
+⚽ Celta v PAOK
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/tJitYHeuE9khm
+🖼️ Image: https://th.hoofoot.com/pics/35538.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306500/0.m3u8?token=03102025133020
+------------------------------------------------------------
+⚽ Celta v PAOK
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/tJitYHeuE9khm
+🖼️ Image: https://th.hoofoot.com/pics/35538.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306500/0.m3u8?token=03102025133021
+------------------------------------------------------------
+⚽ Roma v Lille
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Vln7qmWner2Pj
+🖼️ Image: https://th.hoofoot.com/pics/35521.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306483/0.m3u8?token=03102025133023
+------------------------------------------------------------
+⚽ Roma v Lille
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Vln7qmWner2Pj
+🖼️ Image: https://th.hoofoot.com/pics/35521.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306483/0.m3u8?token=03102025133024
+------------------------------------------------------------
+⚽ Dynamo Kyiv v Crystal Palace
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/pB020McLWdCRF
+🖼️ Image: https://th.hoofoot.com/pics/35524.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306482/0.m3u8?token=03102025133026
+------------------------------------------------------------
+⚽ Dynamo Kyiv v Crystal Palace
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/pB020McLWdCRF
+🖼️ Image: https://th.hoofoot.com/pics/35524.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306482/0.m3u8?token=03102025133027
+------------------------------------------------------------
+⚽ Fenerbahce v Nice
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/SQoRNX0z9iLcB
+🖼️ Image: https://th.hoofoot.com/pics/35530.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306490/0.m3u8?token=03102025133028
+------------------------------------------------------------
+⚽ Fenerbahce v Nice
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/SQoRNX0z9iLcB
+🖼️ Image: https://th.hoofoot.com/pics/35530.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306490/0.m3u8?token=03102025133030
+------------------------------------------------------------
+⚽ Celtic v Braga
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/40MJXkVRo8OIO
+🖼️ Image: https://th.hoofoot.com/pics/35522.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306478/0.m3u8?token=03102025133031
+------------------------------------------------------------
+⚽ Celtic v Braga
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/40MJXkVRo8OIO
+🖼️ Image: https://th.hoofoot.com/pics/35522.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306478/0.m3u8?token=03102025133032
+------------------------------------------------------------
+⚽ Ludogorets v Betis
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/H9c5kRPvCWHIe
+🖼️ Image: https://th.hoofoot.com/pics/35523.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306493/0.m3u8?token=03102025133034
+------------------------------------------------------------
+⚽ Ludogorets v Betis
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/H9c5kRPvCWHIe
+🖼️ Image: https://th.hoofoot.com/pics/35523.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306493/0.m3u8?token=03102025133035
+------------------------------------------------------------
+⚽ Bologna v Freiburg
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/dQpt9Udm7K36d
+🖼️ Image: https://th.hoofoot.com/pics/35527.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306486/0.m3u8?token=03102025133037
+------------------------------------------------------------
+⚽ Bologna v Freiburg
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/dQpt9Udm7K36d
+🖼️ Image: https://th.hoofoot.com/pics/35527.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306486/0.m3u8?token=03102025133038
+------------------------------------------------------------
+⚽ Panathinaikos v GA Eagles
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/UiGCvq9hmkBOC
+🖼️ Image: https://th.hoofoot.com/pics/35528.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306487/0.m3u8?token=03102025133039
+------------------------------------------------------------
+⚽ Panathinaikos v GA Eagles
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/UiGCvq9hmkBOC
+🖼️ Image: https://th.hoofoot.com/pics/35528.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306487/0.m3u8?token=03102025133041
+------------------------------------------------------------
+⚽ Plzen v Malmo FF
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/xFmGOswYsPhNc
+🖼️ Image: https://th.hoofoot.com/pics/35529.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/2/51/306488/0.m3u8?token=03102025133042
+------------------------------------------------------------
+⚽ Plzen v Malmo FF
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/xFmGOswYsPhNc
+🖼️ Image: https://th.hoofoot.com/pics/35529.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306488/0.m3u8?token=03102025133044
+------------------------------------------------------------
+⚽ Sturm Graz v Rangers
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/9c287r3rcaCuj
+🖼️ Image: https://th.hoofoot.com/pics/35536.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306497/0.m3u8?token=03102025133045
+------------------------------------------------------------
+⚽ Sturm Graz v Rangers
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/9c287r3rcaCuj
+🖼️ Image: https://th.hoofoot.com/pics/35536.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306497/0.m3u8?token=03102025133046
+------------------------------------------------------------
+⚽ FCSB v Young Boys
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/R8OEAELJPPrEC
+🖼️ Image: https://th.hoofoot.com/pics/35526.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306485/0.m3u8?token=03102025133048
+------------------------------------------------------------
+⚽ FCSB v Young Boys
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/R8OEAELJPPrEC
+🖼️ Image: https://th.hoofoot.com/pics/35526.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/2/51/306485/0.m3u8?token=03102025133049
+------------------------------------------------------------
