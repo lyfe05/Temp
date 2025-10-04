@@ -1,25 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-03 05:37:41 GMT+3
-# Total streams: 7
-
-name: Afc Bournemouth Vs Fulham
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/afc_bournemouth_vs_fulham.m3u8
-
-name: Eintracht Braunschweig Vs Paderborn
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/eintracht_braunschweig_vs_paderborn.m3u8
-
-name: Fortuna D Sseldorf Vs N Rnberg
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fortuna_d_sseldorf_vs_n_rnberg.m3u8
-
-name: Hellas Verona Vs Sassuolo
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hellas_verona_vs_sassuolo.m3u8
-
-name: Osasuna Vs Getafe
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/osasuna_vs_getafe.m3u8
-
-name: Paris Vs Lorient
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/paris_vs_lorient.m3u8
-
-name: Wrexham Vs Birmingham City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/wrexham_vs_birmingham_city.m3u8
+# Generated: 2025-10-04 05:35:59 GMT+3
+# Total streams: 0
 
