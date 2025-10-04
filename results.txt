@@ -8,192 +8,192 @@
 ⏳ [4/32] Processing: Arsenal v West Ham
 ⏳ [5/32] Processing: Leeds v Tottenham
 ⏳ [6/32] Processing: Leeds v Tottenham
-⏳ [7/32] Processing: Lazio v Torino
-⏳ [8/32] Processing: Lazio v Torino
-⏳ [9/32] Processing: Dortmund v RB Leipzig
-⏳ [10/32] Processing: Dortmund v RB Leipzig
-⏳ [11/32] Processing: Oviedo v Levante
-⏳ [12/32] Processing: Oviedo v Levante
-⏳ [13/32] Processing: Bayer Leverkusen v Union Berlin
-⏳ [14/32] Processing: Bayer Leverkusen v Union Berlin
+⏳ [7/32] Processing: Dortmund v RB Leipzig
+⏳ [8/32] Processing: Dortmund v RB Leipzig
+⏳ [9/32] Processing: Lazio v Torino
+⏳ [10/32] Processing: Lazio v Torino
+⏳ [11/32] Processing: Bayer Leverkusen v Union Berlin
+⏳ [12/32] Processing: Bayer Leverkusen v Union Berlin
+⏳ [13/32] Processing: Oviedo v Levante
+⏳ [14/32] Processing: Oviedo v Levante
 ⏳ [15/32] Processing: Augsburg v Wolfsburg
 ⏳ [16/32] Processing: Augsburg v Wolfsburg
-⏳ [17/32] Processing: Parma v Lecce
-⏳ [18/32] Processing: Parma v Lecce
-⏳ [19/32] Processing: Werder Bremen v St Pauli
-⏳ [20/32] Processing: Werder Bremen v St Pauli
-⏳ [21/32] Processing: Bournemouth v Fulham
-⏳ [22/32] Processing: Bournemouth v Fulham
-⏳ [23/32] Processing: Hoffenheim v FC Cologne
-⏳ [24/32] Processing: Hoffenheim v FC Cologne
-⏳ [25/32] Processing: Verona v Sassuolo
-⏳ [26/32] Processing: Verona v Sassuolo
-⏳ [27/32] Processing: Osasuna v Getafe
-⏳ [28/32] Processing: Osasuna v Getafe
-⏳ [29/32] Processing: Feyenoord v Aston Villa
-⏳ [30/32] Processing: Feyenoord v Aston Villa
-⏳ [31/32] Processing: Nottingham v Midtjylland
-⏳ [32/32] Processing: Nottingham v Midtjylland
+⏳ [17/32] Processing: Girona v Valencia
+⏳ [18/32] Processing: Girona v Valencia
+⏳ [19/32] Processing: Parma v Lecce
+⏳ [20/32] Processing: Parma v Lecce
+⏳ [21/32] Processing: Werder Bremen v St Pauli
+⏳ [22/32] Processing: Werder Bremen v St Pauli
+⏳ [23/32] Processing: Bournemouth v Fulham
+⏳ [24/32] Processing: Bournemouth v Fulham
+⏳ [25/32] Processing: Hoffenheim v FC Cologne
+⏳ [26/32] Processing: Hoffenheim v FC Cologne
+⏳ [27/32] Processing: Verona v Sassuolo
+⏳ [28/32] Processing: Verona v Sassuolo
+⏳ [29/32] Processing: Osasuna v Getafe
+⏳ [30/32] Processing: Osasuna v Getafe
+⏳ [31/32] Processing: Feyenoord v Aston Villa
+⏳ [32/32] Processing: Feyenoord v Aston Villa
 
 ✅ FINAL RESULTS
 ============================================================
 ⚽ Manchester United v Sunderland
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/mO2La1ow5y6pv
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/ZPslBrw6m0OSh
 🖼️ Image: https://th.hoofoot.com/pics/35551.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306549/0.m3u8?token=04102025192723
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306552/0.m3u8?token=04102025201847
 ------------------------------------------------------------
 ⚽ Manchester United v Sunderland
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/mO2La1ow5y6pv
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/ZPslBrw6m0OSh
 🖼️ Image: https://th.hoofoot.com/pics/35551.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306549/0.m3u8?token=04102025192725
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306552/0.m3u8?token=04102025201849
 ------------------------------------------------------------
 ⚽ Arsenal v West Ham
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/d2m4iVYZQKUu7
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/V815huCKX0nC8
 🖼️ Image: https://th.hoofoot.com/pics/35552.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306546/0.m3u8?token=04102025192726
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306553/0.m3u8?token=04102025201850
 ------------------------------------------------------------
 ⚽ Arsenal v West Ham
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/d2m4iVYZQKUu7
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/V815huCKX0nC8
 🖼️ Image: https://th.hoofoot.com/pics/35552.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306546/0.m3u8?token=04102025192728
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306553/0.m3u8?token=04102025201852
 ------------------------------------------------------------
 ⚽ Leeds v Tottenham
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/QdnypxeOzSHa4
 🖼️ Image: https://th.hoofoot.com/pics/35544.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306528/0.m3u8?token=04102025192730
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306528/0.m3u8?token=04102025201853
 ------------------------------------------------------------
 ⚽ Leeds v Tottenham
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/QdnypxeOzSHa4
 🖼️ Image: https://th.hoofoot.com/pics/35544.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306528/0.m3u8?token=04102025192731
-------------------------------------------------------------
-⚽ Lazio v Torino
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Om0T1rRM1O0Zk
-🖼️ Image: https://th.hoofoot.com/pics/35547.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306547/0.m3u8?token=04102025192732
-------------------------------------------------------------
-⚽ Lazio v Torino
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Om0T1rRM1O0Zk
-🖼️ Image: https://th.hoofoot.com/pics/35547.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306547/0.m3u8?token=04102025192734
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306528/0.m3u8?token=04102025201855
 ------------------------------------------------------------
 ⚽ Dortmund v RB Leipzig
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/I8DIXDTu0LjGw
 🖼️ Image: https://th.hoofoot.com/pics/35550.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306548/0.m3u8?token=04102025192735
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306548/0.m3u8?token=04102025201856
 ------------------------------------------------------------
 ⚽ Dortmund v RB Leipzig
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/I8DIXDTu0LjGw
 🖼️ Image: https://th.hoofoot.com/pics/35550.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306548/0.m3u8?token=04102025192737
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306548/0.m3u8?token=04102025201857
+------------------------------------------------------------
+⚽ Lazio v Torino
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Om0T1rRM1O0Zk
+🖼️ Image: https://th.hoofoot.com/pics/35547.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306547/0.m3u8?token=04102025201859
+------------------------------------------------------------
+⚽ Lazio v Torino
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/Om0T1rRM1O0Zk
+🖼️ Image: https://th.hoofoot.com/pics/35547.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306547/0.m3u8?token=04102025201900
+------------------------------------------------------------
+⚽ Bayer Leverkusen v Union Berlin
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/FpoAqtfxYR5tv
+🖼️ Image: https://th.hoofoot.com/pics/35553.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306550/0.m3u8?token=04102025201901
+------------------------------------------------------------
+⚽ Bayer Leverkusen v Union Berlin
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/FpoAqtfxYR5tv
+🖼️ Image: https://th.hoofoot.com/pics/35553.jpg
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306550/0.m3u8?token=04102025201903
 ------------------------------------------------------------
 ⚽ Oviedo v Levante
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/kx86HkkmOSRBF
 🖼️ Image: https://th.hoofoot.com/pics/35545.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306525/0.m3u8?token=04102025192738
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306525/0.m3u8?token=04102025201904
 ------------------------------------------------------------
 ⚽ Oviedo v Levante
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/kx86HkkmOSRBF
 🖼️ Image: https://th.hoofoot.com/pics/35545.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306525/0.m3u8?token=04102025192740
-------------------------------------------------------------
-⚽ Bayer Leverkusen v Union Berlin
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/whBIreP7xIvMT
-🖼️ Image: https://th.hoofoot.com/pics/35553.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306545/0.m3u8?token=04102025192741
-------------------------------------------------------------
-⚽ Bayer Leverkusen v Union Berlin
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/whBIreP7xIvMT
-🖼️ Image: https://th.hoofoot.com/pics/35553.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306545/0.m3u8?token=04102025192742
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306525/0.m3u8?token=04102025201905
 ------------------------------------------------------------
 ⚽ Augsburg v Wolfsburg
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/XFmoPU2ovxRKZ
 🖼️ Image: https://th.hoofoot.com/pics/35549.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306542/0.m3u8?token=04102025192744
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306542/0.m3u8?token=04102025201907
 ------------------------------------------------------------
 ⚽ Augsburg v Wolfsburg
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/XFmoPU2ovxRKZ
 🖼️ Image: https://th.hoofoot.com/pics/35549.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306542/0.m3u8?token=04102025192745
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306542/0.m3u8?token=04102025201908
+------------------------------------------------------------
+⚽ Girona v Valencia
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/jeB3rsGiDonqY
+🖼️ Image: https://th.hoofoot.com/pics/35554.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306556/0.m3u8?token=04102025201910
+------------------------------------------------------------
+⚽ Girona v Valencia
+📺 Embed: https://hoofootay4.spotlightmoment.com/embed/jeB3rsGiDonqY
+🖼️ Image: https://th.hoofoot.com/pics/35554.jpg
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306556/0.m3u8?token=04102025201911
 ------------------------------------------------------------
 ⚽ Parma v Lecce
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/557XoYJjQZ2tt
 🖼️ Image: https://th.hoofoot.com/pics/35546.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306534/0.m3u8?token=04102025192747
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306534/0.m3u8?token=04102025201913
 ------------------------------------------------------------
 ⚽ Parma v Lecce
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/557XoYJjQZ2tt
 🖼️ Image: https://th.hoofoot.com/pics/35546.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306534/0.m3u8?token=04102025192748
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306534/0.m3u8?token=04102025201914
 ------------------------------------------------------------
 ⚽ Werder Bremen v St Pauli
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/q6kGgzkkpGFrr
 🖼️ Image: https://th.hoofoot.com/pics/35548.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306539/0.m3u8?token=04102025192750
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306539/0.m3u8?token=04102025201915
 ------------------------------------------------------------
 ⚽ Werder Bremen v St Pauli
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/q6kGgzkkpGFrr
 🖼️ Image: https://th.hoofoot.com/pics/35548.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306539/0.m3u8?token=04102025192751
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306539/0.m3u8?token=04102025201917
 ------------------------------------------------------------
 ⚽ Bournemouth v Fulham
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/9yuAYsQ6fBHeM
 🖼️ Image: https://th.hoofoot.com/pics/35541.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306513/0.m3u8?token=04102025192752
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306513/0.m3u8?token=04102025201918
 ------------------------------------------------------------
 ⚽ Bournemouth v Fulham
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/9yuAYsQ6fBHeM
 🖼️ Image: https://th.hoofoot.com/pics/35541.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306513/0.m3u8?token=04102025192754
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306513/0.m3u8?token=04102025201919
 ------------------------------------------------------------
 ⚽ Hoffenheim v FC Cologne
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/elDlYQLQiuxJm
 🖼️ Image: https://th.hoofoot.com/pics/35540.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306508/0.m3u8?token=04102025192755
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306508/0.m3u8?token=04102025201921
 ------------------------------------------------------------
 ⚽ Hoffenheim v FC Cologne
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/elDlYQLQiuxJm
 🖼️ Image: https://th.hoofoot.com/pics/35540.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306508/0.m3u8?token=04102025192757
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306508/0.m3u8?token=04102025201922
 ------------------------------------------------------------
 ⚽ Verona v Sassuolo
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/zTuxkhCZdqXHf
 🖼️ Image: https://th.hoofoot.com/pics/35542.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306510/0.m3u8?token=04102025192758
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306510/0.m3u8?token=04102025201923
 ------------------------------------------------------------
 ⚽ Verona v Sassuolo
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/zTuxkhCZdqXHf
 🖼️ Image: https://th.hoofoot.com/pics/35542.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306510/0.m3u8?token=04102025192800
+🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306510/0.m3u8?token=04102025201925
 ------------------------------------------------------------
 ⚽ Osasuna v Getafe
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/UZQLzNKfLm1vz
 🖼️ Image: https://th.hoofoot.com/pics/35543.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306512/0.m3u8?token=04102025192801
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306512/0.m3u8?token=04102025201926
 ------------------------------------------------------------
 ⚽ Osasuna v Getafe
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/UZQLzNKfLm1vz
 🖼️ Image: https://th.hoofoot.com/pics/35543.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/4/51/306512/0.m3u8?token=04102025192802
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/4/51/306512/0.m3u8?token=04102025201927
 ------------------------------------------------------------
 ⚽ Feyenoord v Aston Villa
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/8WvXgnFuJzLvr
 🖼️ Image: https://th.hoofoot.com/pics/35535.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306502/0.m3u8?token=04102025192804
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306502/0.m3u8?token=04102025201929
 ------------------------------------------------------------
 ⚽ Feyenoord v Aston Villa
 📺 Embed: https://hoofootay4.spotlightmoment.com/embed/8WvXgnFuJzLvr
 🖼️ Image: https://th.hoofoot.com/pics/35535.jpg
-🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306502/0.m3u8?token=04102025192805
-------------------------------------------------------------
-⚽ Nottingham v Midtjylland
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/MPVvj3sQ5HzfL
-🖼️ Image: https://th.hoofoot.com/pics/35537.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306501/0.m3u8?token=04102025192807
-------------------------------------------------------------
-⚽ Nottingham v Midtjylland
-📺 Embed: https://hoofootay4.spotlightmoment.com/embed/MPVvj3sQ5HzfL
-🖼️ Image: https://th.hoofoot.com/pics/35537.jpg
-🎥 M3U8:  https://bdttt.gooforkoora.com/UpFiles/2025/10/3/51/306501/0.m3u8?token=04102025192808
+🎥 M3U8:  https://vrd.dirgventures.net/UpFiles/2025/10/3/51/306502/0.m3u8?token=04102025201930
 ------------------------------------------------------------
