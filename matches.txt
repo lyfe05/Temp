@@ -1,63 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Pumas UNAM Vs Guadalajara
-🕒 Start: 2025-10-06 04:00 GMT+3
-📍 Tournament: Mexico Liga MX
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Los Angeles FC Vs Atlanta United
-🕒 Start: 2025-10-06 04:00 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
-DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: Tijuana Vs Monterrey
-🕒 Start: 2025-10-06 06:05 GMT+3
-📍 Tournament: Mexico Liga MX
-📺 Channels:
-ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Cultural Leonesa Vs Albacete
-🕒 Start: 2025-10-06 21:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LaLiga Hypermotion: https://sansat.link/ch?id=94 | https://glisco.link/ch?id=94
-
-==================================================
-
-🏟️ Match: Deportivo Riestra Vs Vélez Sarsfield
-🕒 Start: 2025-10-07 01:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Defensor Sporting Vs Wanderers
-🕒 Start: 2025-10-07 01:00 GMT+3
-📍 Tournament: Uruguay Primera Division
-📺 Channels:
-US | GOLTV: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
-
-==================================================
-
-🏟️ Match: Racing Club Vs Independiente Rivadavia
-🕒 Start: 2025-10-07 03:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
 🏟️ Match: Monterrey Vs América
 🕒 Start: 2025-10-07 05:00 GMT+3
 📍 Tournament: Mexico Liga MX Femenil
@@ -79,6 +21,126 @@ US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id
 📍 Tournament: Europe UEFA Women's Champions League
 📺 Channels:
 US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: Chile U20 Vs Mexico U20
+🕒 Start: 2025-10-08 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Ethiopia Vs Guinea-Bissau
+🕒 Start: 2025-10-08 16:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GB | SuperSport Laliga: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+
+==================================================
+
+🏟️ Match: Mauritius Vs Cameroon
+🕒 Start: 2025-10-08 16:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Libya Vs Cape Verde Islands
+🕒 Start: 2025-10-08 16:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Eswatini Vs Angola
+🕒 Start: 2025-10-08 16:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+PT | Sport TV3: https://sansat.link/ch?id=22 | https://glisco.link/ch?id=22
+
+==================================================
+
+🏟️ Match: Oman Vs Qatar
+🕒 Start: 2025-10-08 18:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Djibouti Vs Egypt
+🕒 Start: 2025-10-08 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NL | ESPN3: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
+
+==================================================
+
+🏟️ Match: Real Madrid Vs Roma
+🕒 Start: 2025-10-08 19:45 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: Gibraltar Vs New Caledonia
+🕒 Start: 2025-10-08 20:00 GMT+3
+📍 Tournament: International Friendly
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Indonesia Vs Saudi Arabia
+🕒 Start: 2025-10-08 20:15 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Wolfsburg Vs PSG
+🕒 Start: 2025-10-08 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: Manchester United Vs Vålerenga
+🕒 Start: 2025-10-08 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+GB | MUTV: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+
+==================================================
+
+🏟️ Match: St. Pölten Vs Atletico Madrid
+🕒 Start: 2025-10-08 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: Argentina U20 Vs Nigeria U20
+🕒 Start: 2025-10-08 22:30 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Colombia U20 Vs South Africa U20
+🕒 Start: 2025-10-08 22:30 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
 
 ==================================================
 
