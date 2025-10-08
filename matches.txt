@@ -1,37 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Monterrey Vs América
-🕒 Start: 2025-10-07 05:00 GMT+3
-📍 Tournament: Mexico Liga MX Femenil
-📺 Channels:
-ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Angel City Vs Kansas City Current
-🕒 Start: 2025-10-07 05:30 GMT+3
-📍 Tournament: NWSL
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: Arsenal Vs Olympique Lyonnais
-🕒 Start: 2025-10-07 22:00 GMT+3
-📍 Tournament: Europe UEFA Women's Champions League
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: Chile U20 Vs Mexico U20
-🕒 Start: 2025-10-08 02:00 GMT+3
-📍 Tournament: FIFA U-20 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
 🏟️ Match: Ethiopia Vs Guinea-Bissau
 🕒 Start: 2025-10-08 16:00 GMT+3
 📍 Tournament: World Cup Qualifying
@@ -141,6 +109,160 @@ US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
 📍 Tournament: FIFA U-20 World Cup
 📺 Channels:
 ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
+
+==================================================
+
+🏟️ Match: Paraguay U20 Vs Norway U20
+🕒 Start: 2025-10-09 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+CA | TSN2: https://sansat.link/ch?id=32 | https://glisco.link/ch?id=32
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Japan U20 Vs France U20
+🕒 Start: 2025-10-09 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+CA | TSN5: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
+ES | Fox Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
+
+==================================================
+
+🏟️ Match: Los Angeles FC Vs Toronto FC
+🕒 Start: 2025-10-09 05:30 GMT+3
+📍 Tournament: USA/Canada Major League Soccer
+📺 Channels:
+US | MLS Season Pass: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+
+==================================================
+
+🏟️ Match: Burundi Vs Kenya
+🕒 Start: 2025-10-09 16:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GB | ITV1: https://sansat.link/ch?id=1 | https://glisco.link/ch?id=1
+
+==================================================
+
+🏟️ Match: Finland Vs Lithuania
+🕒 Start: 2025-10-09 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Somalia Vs Algeria
+🕒 Start: 2025-10-09 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Mozambique Vs Guinea
+🕒 Start: 2025-10-09 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+PT | Sport TV2: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Romania Vs Moldova
+🕒 Start: 2025-10-09 21:00 GMT+3
+📍 Tournament: International Friendly
+📺 Channels:
+NZ | Sky Sport 7: https://sansat.link/ch?id=37 | https://glisco.link/ch?id=37
+
+==================================================
+
+🏟️ Match: Austria Vs San Marino
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+AT | ORF eins: https://sansat.link/ch?id=16 | https://glisco.link/ch?id=16
+
+==================================================
+
+🏟️ Match: England Vs Wales
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: Internationsl Friendly
+📺 Channels:
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+NZ | Sky Sport 1: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Cyprus Vs Bosnia and Herzegovina
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GR | Novasports Extra 1: https://sansat.link/ch?id=22 | https://glisco.link/ch?id=22
+
+==================================================
+
+🏟️ Match: Scotland Vs Greece
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GR | Alpha TV: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
+NZ | Sky Sport 5: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Simulcast Vs None
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GR | Nova Sports Prime: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Czech Republic Vs Croatia
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 4: https://sansat.link/ch?id=34 | https://glisco.link/ch?id=34
+CZ | ČT Sport: https://sansat.link/ch?id=62 | https://glisco.link/ch?id=62
+
+==================================================
+
+🏟️ Match: Malta Vs Netherlands
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 6: https://sansat.link/ch?id=36 | https://glisco.link/ch?id=36
+CZ | Sport 2: https://sansat.link/ch?id=63 | https://glisco.link/ch?id=63
+NL | NPO3: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
+
+==================================================
+
+🏟️ Match: Poland Vs New Zealand
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: International Friendly
+📺 Channels:
+PL | TVP Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
+
+==================================================
+
+🏟️ Match: Belarus Vs Denmark
+🕒 Start: 2025-10-09 21:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DK | TV2: https://sansat.link/ch?id=61 | https://glisco.link/ch?id=61
+
+==================================================
+
+🏟️ Match: United States U20 Vs Italy U20
+🕒 Start: 2025-10-09 22:30 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
 
 ==================================================
 
