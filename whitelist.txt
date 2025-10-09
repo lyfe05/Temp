@@ -4,3 +4,4 @@ US
 AU
 MZ
 DE
+NZ
