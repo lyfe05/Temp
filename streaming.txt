@@ -1,16 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-08 07:35:58 GMT+3
-# Total streams: 4
-
-name: Ethiopia Vs Guinea Bissau
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ethiopia_vs_guinea_bissau.m3u8
-
-name: Indonesia Vs Saudi Arabia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/indonesia_vs_saudi_arabia.m3u8
-
-name: Mauritius Vs Cameroon
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/mauritius_vs_cameroon.m3u8
-
-name: Oman Vs Qatar
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/oman_vs_qatar.m3u8
+# Generated: 2025-10-09 05:38:25 GMT+3
+# Total streams: 0
 
