@@ -1,58 +1,7 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-13 07:44:59 GMT+3
-# Total streams: 18
-
-name: Cameroon Vs Angola
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cameroon_vs_angola.m3u8
-
-name: Iceland Vs France
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/iceland_vs_france.m3u8
-
-name: Lesotho Vs Zimbabwe
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lesotho_vs_zimbabwe.m3u8
-
-name: Montenegro Vs Liechtenstein
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/montenegro_vs_liechtenstein.m3u8
-
-name: Montenegro Vs Liechtenstein
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/montenegro_vs_liechtenstein_2.m3u8
-
-name: Montenegro Vs Liechtenstein
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/montenegro_vs_liechtenstein_3.m3u8
-
-name: North Macedonia Vs Kazakhstan
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/north_macedonia_vs_kazakhstan.m3u8
+# Generated: 2025-10-14 05:37:41 GMT+3
+# Total streams: 1
 
 name: Northern Ireland Vs Germany
 url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/northern_ireland_vs_germany.m3u8
-
-name: Northern Ireland Vs Germany
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/northern_ireland_vs_germany_2.m3u8
-
-name: Northern Ireland Vs Germany
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/northern_ireland_vs_germany_3.m3u8
-
-name: Slovakia Vs Luxembourg
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/slovakia_vs_luxembourg.m3u8
-
-name: Slovenia Vs Switzerland
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/slovenia_vs_switzerland.m3u8
-
-name: Slovenia Vs Switzerland
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/slovenia_vs_switzerland_2.m3u8
-
-name: Sweden Vs Kosovo
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sweden_vs_kosovo.m3u8
-
-name: Tunisia Vs Namibia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/tunisia_vs_namibia.m3u8
-
-name: Ukraine Vs Azerbaijan
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ukraine_vs_azerbaijan.m3u8
-
-name: Wales Vs Belgium
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/wales_vs_belgium.m3u8
-
-name: Wales Vs Belgium
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/wales_vs_belgium_2.m3u8
 
