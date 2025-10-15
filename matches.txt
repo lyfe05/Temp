@@ -1,261 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Costa Rica Vs Nicaragua
-🕒 Start: 2025-10-14 05:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: Latvia U21 Vs Greece U21
-🕒 Start: 2025-10-14 17:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-GR | ERT 2: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
-
-==================================================
-
-🏟️ Match: Iceland U21 Vs Luxembourg U21
-🕒 Start: 2025-10-14 18:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-IC | SÝN Sport: https://sansat.link/ch?id=80 | https://glisco.link/ch?id=80
-
-==================================================
-
-🏟️ Match: Norway Vs New Zealand
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
-
-==================================================
-
-🏟️ Match: Nigeria Vs Benin
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: Somalia Vs Mozambique
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
-
-==================================================
-
-🏟️ Match: Bulgaria U21 Vs Czechia U21
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
-CZ | ČT Sport: https://sansat.link/ch?id=62 | https://glisco.link/ch?id=62
-
-==================================================
-
-🏟️ Match: Sweden U21 Vs Poland U21
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-PL | TVP Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
-
-==================================================
-
-🏟️ Match: Slovakia U21 Vs Moldova U21
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-SK | RTVS Sport: https://sansat.link/ch?id=63 | https://glisco.link/ch?id=63
-
-==================================================
-
-🏟️ Match: Austria U21 Vs Wales U21
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-AT | ORF Sport: https://sansat.link/ch?id=64 | https://glisco.link/ch?id=64
-
-==================================================
-
-🏟️ Match: Estonia Vs Moldova
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: South Africa Vs Rwanda
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NL | ESPN2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
-
-==================================================
-
-🏟️ Match: Hungary U21 Vs Türkiye U21
-🕒 Start: 2025-10-14 19:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-HU | M4 Sport: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
-
-==================================================
-
-🏟️ Match: Northern Ireland U21 Vs Germany U21
-🕒 Start: 2025-10-14 19:30 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-DE | ProSieben Maxx: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
-
-==================================================
-
-🏟️ Match: Spain U21 Vs Finland U21
-🕒 Start: 2025-10-14 19:30 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-ES | TDP: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
-
-==================================================
-
-🏟️ Match: Qatar Vs United Arab Emirates
-🕒 Start: 2025-10-14 20:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-GB | Astro Arena Bola 2: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
-
-==================================================
-
-🏟️ Match: Gibraltar U21 Vs Portugal U21
-🕒 Start: 2025-10-14 20:00 GMT+3
-📍 Tournament: Europe Euro U-21 Qualifying
-📺 Channels:
-PT | Canal 11: https://sansat.link/ch?id=22 | https://glisco.link/ch?id=22
-
-==================================================
-
-🏟️ Match: Latvia Vs England
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-GB | ITV1: https://sansat.link/ch?id=1 | https://glisco.link/ch?id=1
-NZ | Sky Sport 1: https://sansat.link/ch?id=31 | https://glisco.link/ch?id=31
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Saudi Arabia Vs Iraq
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-GB | Astro Football: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
-
-==================================================
-
-🏟️ Match: Portugal Vs Hungary
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
-NZ | Sky Sport 2: https://sansat.link/ch?id=32 | https://glisco.link/ch?id=32
-
-==================================================
-
-🏟️ Match: Spain Vs Bulgaria
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-ES | TVE La 1: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
-NZ | Sky Sport 3: https://sansat.link/ch?id=33 | https://glisco.link/ch?id=33
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Italy Vs Israel
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 4: https://sansat.link/ch?id=34 | https://glisco.link/ch?id=34
-IT | RAI 1: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: Turkey Vs Georgia
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 5: https://sansat.link/ch?id=35 | https://glisco.link/ch?id=35
-
-==================================================
-
-🏟️ Match: Ireland Republic Vs Armenia
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 6: https://sansat.link/ch?id=36 | https://glisco.link/ch?id=36
-
-==================================================
-
-🏟️ Match: Andorra Vs Serbia
-🕒 Start: 2025-10-14 21:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-RS | RTS 1: https://sansat.link/ch?id=65 | https://glisco.link/ch?id=65
-
-==================================================
-
-🏟️ Match: Côte d'Ivoire Vs Kenya
-🕒 Start: 2025-10-14 22:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: Morocco Vs Congo
-🕒 Start: 2025-10-14 22:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NL | ESPN2: https://sansat.link/ch?id=89 | https://glisco.link/ch?id=89
-
-==================================================
-
-🏟️ Match: Senegal Vs Mauritania
-🕒 Start: 2025-10-14 22:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NL | ESPN4: https://sansat.link/ch?id=90 | https://glisco.link/ch?id=90
-
-==================================================
-
-🏟️ Match: Curaçao Vs Trinidad and Tobago
-🕒 Start: 2025-10-15 02:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
-
-==================================================
-
-🏟️ Match: Canada Vs Colombia
-🕒 Start: 2025-10-15 03:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-CA | TSN1: https://sansat.link/ch?id=1 | https://glisco.link/ch?id=1
-
-==================================================
-
-🏟️ Match: Puerto Rico Vs Argentina
-🕒 Start: 2025-10-15 03:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-US | beIN Sports: https://sansat.link/ch?id=39 | https://glisco.link/ch?id=39
-ES | beIN Sports en Español: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
 🏟️ Match: USA Vs Australia
 🕒 Start: 2025-10-15 04:00 GMT+3
 📍 Tournament: International Friendly
@@ -286,6 +30,63 @@ ES | TUDN: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
 📺 Channels:
 ES | Universo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
 US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Botafogo Vs Flamengo
+🕒 Start: 2025-10-16 01:30 GMT+3
+📍 Tournament: Brazil Brasileirão
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Argentina U20 Vs Colombia U20
+🕒 Start: 2025-10-16 02:00 GMT+3
+📍 Tournament: FIFA U-20 World Cup
+📺 Channels:
+ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Santos Vs Corinthians
+🕒 Start: 2025-10-16 03:30 GMT+3
+📍 Tournament: Brazil Brasileirão
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Atletico Madrid Vs Manchester United
+🕒 Start: 2025-10-16 19:45 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: SL Benfica Vs Arsenal
+🕒 Start: 2025-10-16 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: Bayern Vs Juventus
+🕒 Start: 2025-10-16 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
+
+==================================================
+
+🏟️ Match: PSG Vs Real Madrid
+🕒 Start: 2025-10-16 22:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
 
 ==================================================
 
