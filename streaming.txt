@@ -1,7 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-14 05:37:41 GMT+3
-# Total streams: 1
-
-name: Northern Ireland Vs Germany
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/northern_ireland_vs_germany.m3u8
+# Generated: 2025-10-15 05:38:46 GMT+3
+# Total streams: 0
 
