@@ -1,4 +1,37 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-17 05:38:27 GMT+3
-# Total streams: 0
+# Generated: 2025-10-17 06:22:23 GMT+3
+# Total streams: 11
+
+name: Adelaide United Vs Sydney Fc
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/adelaide_united_vs_sydney_fc.m3u8
+
+name: Adelaide United Vs Sydney Fc
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/adelaide_united_vs_sydney_fc_2.m3u8
+
+name: Brisbane Roar Vs Macarthur Fc
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/brisbane_roar_vs_macarthur_fc.m3u8
+
+name: Fortuna D Sseldorf Vs Eintracht Braunschweig
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/fortuna_d_sseldorf_vs_eintracht_braunschweig.m3u8
+
+name: Hannover 96 Vs Schalke
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hannover_96_vs_schalke_04.m3u8
+
+name: Middlesbrough Vs Ipswich Town
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/middlesbrough_vs_ipswich_town.m3u8
+
+name: Middlesbrough Vs Ipswich Town
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/middlesbrough_vs_ipswich_town_2.m3u8
+
+name: Psg Vs Strasbourg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psg_vs_strasbourg.m3u8
+
+name: Psg Vs Strasbourg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/psg_vs_strasbourg_2.m3u8
+
+name: Real Oviedo Vs Espanyol
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_oviedo_vs_espanyol.m3u8
+
+name: Union Berlin Vs Borussia M Nchengladbach
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/union_berlin_vs_borussia_m_nchengladbach.m3u8
 
