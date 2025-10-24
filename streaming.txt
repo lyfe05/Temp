@@ -1,4 +1,31 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-24 05:39:05 GMT+3
-# Total streams: 0
+# Generated: 2025-10-24 11:15:50 GMT+3
+# Total streams: 9
+
+name: Al Ittihad Vs Al Hilal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_ittihad_vs_al_hilal.m3u8
+
+name: Greuther F Rth Vs Karlsruher Sc
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/greuther_f_rth_vs_karlsruher_sc.m3u8
+
+name: Leeds United Vs West Ham United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/leeds_united_vs_west_ham_united.m3u8
+
+name: Milan Vs Pisa
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/milan_vs_pisa.m3u8
+
+name: Paris Vs Nantes
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/paris_vs_nantes.m3u8
+
+name: Preston North End Vs Sheffield United
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/preston_north_end_vs_sheffield_united.m3u8
+
+name: Real Sociedad Vs Sevilla
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_sociedad_vs_sevilla.m3u8
+
+name: Schalke 04 Vs Darmstadt
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/schalke_04_vs_darmstadt_98.m3u8
+
+name: Werder Bremen Vs Union Berlin
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/werder_bremen_vs_union_berlin.m3u8
 
