@@ -1,7 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-27 09:12:27 GMT+3
-# Total streams: 1
-
-name: Real Betis Vs Atl Tico De Madrid
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_betis_vs_atl_tico_de_madrid.m3u8
+# Generated: 2025-10-28 09:10:03 GMT+3
+# Total streams: 0
 
