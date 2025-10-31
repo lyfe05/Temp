@@ -1,16 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-10-30 09:09:57 GMT+3
-# Total streams: 4
-
-name: Al Ahli Vs Al Riyadh
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_ahli_vs_al_riyadh.m3u8
-
-name: Al Ahli Vs Al Riyadh
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/al_ahli_vs_al_riyadh_2.m3u8
-
-name: Cagliari Vs Sassuolo
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cagliari_vs_sassuolo.m3u8
-
-name: Pisa Vs Lazio
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/pisa_vs_lazio.m3u8
+# Generated: 2025-10-31 09:09:50 GMT+3
+# Total streams: 0
 
