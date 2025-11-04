@@ -1,16 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-03 09:12:18 GMT+3
-# Total streams: 4
-
-name: Lazio Vs Cagliari
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/lazio_vs_cagliari.m3u8
-
-name: Real Oviedo Vs Osasuna
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/real_oviedo_vs_osasuna.m3u8
-
-name: Sassuolo Vs Genoa
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sassuolo_vs_genoa.m3u8
-
-name: Sunderland Vs Everton
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sunderland_vs_everton.m3u8
+# Generated: 2025-11-04 09:11:12 GMT+3
+# Total streams: 0
 
