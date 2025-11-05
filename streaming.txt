@@ -1,4 +1,43 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-04 09:11:12 GMT+3
-# Total streams: 0
+# Generated: 2025-11-05 09:11:11 GMT+3
+# Total streams: 13
+
+name: Benfica Vs Bayer Leverkusen
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_bayer_leverkusen.m3u8
+
+name: Club Brugge Vs Barcelona
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/club_brugge_vs_barcelona.m3u8
+
+name: Manchester City Vs Borussia Dortmund
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_borussia_dortmund.m3u8
+
+name: Manchester City Vs Borussia Dortmund
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_borussia_dortmund_2.m3u8
+
+name: Marseille Vs Atalanta
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/marseille_vs_atalanta.m3u8
+
+name: Newcastle United Vs Athletic Bilbao
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/newcastle_united_vs_athletic_bilbao.m3u8
+
+name: Pafos Vs Villarreal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/pafos_vs_villarreal.m3u8
+
+name: Portsmouth Vs Wrexham
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/portsmouth_vs_wrexham.m3u8
+
+name: Preston North End Vs Swansea City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/preston_north_end_vs_swansea_city.m3u8
+
+name: Qaraba Vs Chelsea
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/qaraba_vs_chelsea.m3u8
+
+name: Qaraba Vs Chelsea
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/qaraba_vs_chelsea_2.m3u8
+
+name: Queens Park Rangers Vs Southampton
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/queens_park_rangers_vs_southampton.m3u8
+
+name: Sheffield Wednesday Vs Norwich City
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sheffield_wednesday_vs_norwich_city.m3u8
 
