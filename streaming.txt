@@ -1,43 +1,40 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-05 09:11:11 GMT+3
-# Total streams: 13
+# Generated: 2025-11-06 09:10:46 GMT+3
+# Total streams: 12
 
-name: Benfica Vs Bayer Leverkusen
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/benfica_vs_bayer_leverkusen.m3u8
+name: Aek Athens Vs Shamrock Rovers
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aek_athens_vs_shamrock_rovers.m3u8
 
-name: Club Brugge Vs Barcelona
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/club_brugge_vs_barcelona.m3u8
+name: Aek Larnaca Vs Aberdeen
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aek_larnaca_vs_aberdeen.m3u8
 
-name: Manchester City Vs Borussia Dortmund
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_borussia_dortmund.m3u8
+name: Aston Villa Vs Maccabi Tel Aviv
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aston_villa_vs_maccabi_tel_aviv.m3u8
 
-name: Manchester City Vs Borussia Dortmund
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/manchester_city_vs_borussia_dortmund_2.m3u8
+name: Crystal Palace Vs Az
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_az.m3u8
 
-name: Marseille Vs Atalanta
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/marseille_vs_atalanta.m3u8
+name: Midtjylland Vs Celtic
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/midtjylland_vs_celtic.m3u8
 
-name: Newcastle United Vs Athletic Bilbao
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/newcastle_united_vs_athletic_bilbao.m3u8
+name: Rangers Vs Roma
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rangers_vs_roma.m3u8
 
-name: Pafos Vs Villarreal
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/pafos_vs_villarreal.m3u8
+name: Rangers Vs Roma
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rangers_vs_roma_2.m3u8
 
-name: Portsmouth Vs Wrexham
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/portsmouth_vs_wrexham.m3u8
+name: Rb Salzburg Vs Go Ahead Eagles
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rb_salzburg_vs_go_ahead_eagles.m3u8
 
-name: Preston North End Vs Swansea City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/preston_north_end_vs_swansea_city.m3u8
+name: Shelbourne Vs Drita
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/shelbourne_vs_drita.m3u8
 
-name: Qaraba Vs Chelsea
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/qaraba_vs_chelsea.m3u8
+name: Sturm Graz Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_nottingham_forest.m3u8
 
-name: Qaraba Vs Chelsea
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/qaraba_vs_chelsea_2.m3u8
+name: Sturm Graz Vs Nottingham Forest
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_nottingham_forest_2.m3u8
 
-name: Queens Park Rangers Vs Southampton
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/queens_park_rangers_vs_southampton.m3u8
-
-name: Sheffield Wednesday Vs Norwich City
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sheffield_wednesday_vs_norwich_city.m3u8
+name: Vfb Stuttgart Vs Feyenoord
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/vfb_stuttgart_vs_feyenoord.m3u8
 
