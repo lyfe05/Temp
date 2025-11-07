@@ -1,40 +1,4 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-06 09:10:46 GMT+3
-# Total streams: 12
-
-name: Aek Athens Vs Shamrock Rovers
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aek_athens_vs_shamrock_rovers.m3u8
-
-name: Aek Larnaca Vs Aberdeen
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aek_larnaca_vs_aberdeen.m3u8
-
-name: Aston Villa Vs Maccabi Tel Aviv
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/aston_villa_vs_maccabi_tel_aviv.m3u8
-
-name: Crystal Palace Vs Az
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/crystal_palace_vs_az.m3u8
-
-name: Midtjylland Vs Celtic
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/midtjylland_vs_celtic.m3u8
-
-name: Rangers Vs Roma
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rangers_vs_roma.m3u8
-
-name: Rangers Vs Roma
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rangers_vs_roma_2.m3u8
-
-name: Rb Salzburg Vs Go Ahead Eagles
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/rb_salzburg_vs_go_ahead_eagles.m3u8
-
-name: Shelbourne Vs Drita
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/shelbourne_vs_drita.m3u8
-
-name: Sturm Graz Vs Nottingham Forest
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_nottingham_forest.m3u8
-
-name: Sturm Graz Vs Nottingham Forest
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/sturm_graz_vs_nottingham_forest_2.m3u8
-
-name: Vfb Stuttgart Vs Feyenoord
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/vfb_stuttgart_vs_feyenoord.m3u8
+# Generated: 2025-11-07 09:09:47 GMT+3
+# Total streams: 0
 
