@@ -1,101 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: San Diego Vs Portland Timbers
-🕒 Start: 2025-11-10 05:00 GMT+3
-📍 Tournament: USA/Canada Major League Soccer
-📺 Channels:
-US | MLS Season Pass: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
-
-==================================================
-
-🏟️ Match: Switzerland U17 Vs Mexico U17
-🕒 Start: 2025-11-10 15:30 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Korea Republic U17 Vs Cote d'Ivoire U17
-🕒 Start: 2025-11-10 15:30 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: El Salvador U17 Vs Germany U17
-🕒 Start: 2025-11-10 16:30 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Zambia U17 Vs Brazil U17
-🕒 Start: 2025-11-10 17:45 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Venezuela U17 Vs Haiti U17
-🕒 Start: 2025-11-10 18:40 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Egypt U17 Vs England U17
-🕒 Start: 2025-11-10 18:45 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Burgos Vs CD Castellon
-🕒 Start: 2025-11-10 22:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | Laliga Hypermotion: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
-
-==================================================
-
-🏟️ Match: Gimnasia La Plata Vs Velez Sarsfield
-🕒 Start: 2025-11-10 23:00 GMT+3
-📍 Tournament: Argentina Primera Division
-📺 Channels:
-ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Deportivo Riestra Vs Independiente
-🕒 Start: 2025-11-11 01:00 GMT+3
-📍 Tournament: Argentina Primera Division
-📺 Channels:
-ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Independiente Rivadavia Vs Central Cordoba SdE
-🕒 Start: 2025-11-11 03:15 GMT+3
-📍 Tournament: Argentina Primera Division
-📺 Channels:
-ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Argentinos Juniors Vs Belgrano
-🕒 Start: 2025-11-11 03:15 GMT+3
-📍 Tournament: Argentina Primera Division
-📺 Channels:
-ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
 🏟️ Match: Chile U17 Vs Canada U17
 🕒 Start: 2025-11-11 15:30 GMT+3
 📍 Tournament: World FIFA U-17 World Cup
@@ -157,6 +61,62 @@ US | Paramount+: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
 📍 Tournament: Europe UEFA Women's Champions League
 📺 Channels:
 ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Georgia U19 Vs Croatia U19
+🕒 Start: 2025-11-12 13:30 GMT+3
+📍 Tournament: Europe U19 Euro Qualifying
+📺 Channels:
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
+
+==================================================
+
+🏟️ Match: Italy U19 Vs Moldova U19
+🕒 Start: 2025-11-12 17:00 GMT+3
+📍 Tournament: Europe U19 Euro Qualifying
+📺 Channels:
+IT | RAI Sport 1: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Bulgaria U19 Vs Hungary U19
+🕒 Start: 2025-11-12 19:00 GMT+3
+📍 Tournament: Europe U19 Euro Qualifying
+📺 Channels:
+HU | M4 Sports: https://sansat.link/ch?id=99 | https://glisco.link/ch?id=99
+
+==================================================
+
+🏟️ Match: Bayern Vs Arsenal
+🕒 Start: 2025-11-12 20:45 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: Barcelona Vs OH Leuven
+🕒 Start: 2025-11-12 20:45 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: SL Benfica Vs Twente
+🕒 Start: 2025-11-12 23:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+CY | Cablenet Sports 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
+
+==================================================
+
+🏟️ Match: Manchester United Vs PSG
+🕒 Start: 2025-11-12 23:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+CY | Cablenet Sports 2: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
 
 ==================================================
 
