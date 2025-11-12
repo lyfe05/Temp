@@ -1,69 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Chile U17 Vs Canada U17
-🕒 Start: 2025-11-11 15:30 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Czechia U17 Vs United States U17
-🕒 Start: 2025-11-11 17:45 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: New Zealand U17 Vs Austria U17
-🕒 Start: 2025-11-11 18:45 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-CA | TSN3: https://sansat.link/ch?id=33 | https://glisco.link/ch?id=33
-
-==================================================
-
-🏟️ Match: Saudi Arabia U17 Vs Mali U17
-🕒 Start: 2025-11-11 18:45 GMT+3
-📍 Tournament: World FIFA U-17 World Cup
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Roma Vs Valerenga Kvinner
-🕒 Start: 2025-11-11 20:45 GMT+3
-📍 Tournament: Europe UEFA Women's Champions League
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: OL Lyonnes Vs Wolfsburg
-🕒 Start: 2025-11-11 23:00 GMT+3
-📍 Tournament: Europe UEFA Women's Champions League
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-
-==================================================
-
-🏟️ Match: St. Polten Vs Chelsea FC
-🕒 Start: 2025-11-11 23:00 GMT+3
-📍 Tournament: Europe UEFA Women's Champions League
-📺 Channels:
-US | Paramount+: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
-
-==================================================
-
-🏟️ Match: Real Madrid Vs Paris FC
-🕒 Start: 2025-11-11 23:00 GMT+3
-📍 Tournament: Europe UEFA Women's Champions League
-📺 Channels:
-ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
-
-==================================================
-
 🏟️ Match: Georgia U19 Vs Croatia U19
 🕒 Start: 2025-11-12 13:30 GMT+3
 📍 Tournament: Europe U19 Euro Qualifying
@@ -117,6 +53,111 @@ CY | Cablenet Sports 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id
 📍 Tournament: Europe UEFA Women's Champions League
 📺 Channels:
 CY | Cablenet Sports 2: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
+
+==================================================
+
+🏟️ Match: United Arab Emirates Vs Iraq
+🕒 Start: 2025-11-13 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+MA | Astro Arena Bola: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
+
+==================================================
+
+🏟️ Match: Nigeria Vs Gabon
+🕒 Start: 2025-11-13 19:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Armenia Vs Hungary
+🕒 Start: 2025-11-13 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 3: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+
+==================================================
+
+🏟️ Match: Norway Vs Estonia
+🕒 Start: 2025-11-13 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 5: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+
+==================================================
+
+🏟️ Match: Azerbaijan Vs Iceland
+🕒 Start: 2025-11-13 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: North Macedonia Vs Latvia
+🕒 Start: 2025-11-13 20:00 GMT+3
+📍 Tournament: International Friendly
+📺 Channels:
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+ES | FOX Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
+
+==================================================
+
+🏟️ Match: Cameroon Vs Congo DR
+🕒 Start: 2025-11-13 22:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: England Vs Serbia
+🕒 Start: 2025-11-13 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 4: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Ireland Republic Vs Portugal
+🕒 Start: 2025-11-13 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 6: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
+
+==================================================
+
+🏟️ Match: Moldova Vs Italy
+🕒 Start: 2025-11-13 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 7: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+IT | RAI 1: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
+
+==================================================
+
+🏟️ Match: Andorra Vs Albania
+🕒 Start: 2025-11-13 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 9: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+
+==================================================
+
+🏟️ Match: France Vs Ukraine
+🕒 Start: 2025-11-13 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+FR | TF1: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
 
 ==================================================
 
