@@ -1,4 +1,55 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-12 09:11:22 GMT+3
-# Total streams: 0
+# Generated: 2025-11-13 09:11:21 GMT+3
+# Total streams: 17
+
+name: Andorra Vs Albania
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/andorra_vs_albania.m3u8
+
+name: Armenia Vs Hungary
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/armenia_vs_hungary.m3u8
+
+name: Armenia Vs Hungary
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/armenia_vs_hungary_2.m3u8
+
+name: Azerbaijan Vs Iceland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/azerbaijan_vs_iceland.m3u8
+
+name: Cameroon Vs Dr Congo
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/cameroon_vs_dr_congo.m3u8
+
+name: England Vs Serbia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/england_vs_serbia.m3u8
+
+name: England Vs Serbia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/england_vs_serbia_2.m3u8
+
+name: England Vs Serbia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/england_vs_serbia_3.m3u8
+
+name: France Vs Ukraine
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/france_vs_ukraine.m3u8
+
+name: France Vs Ukraine
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/france_vs_ukraine_2.m3u8
+
+name: Haiti Vs Costa Rica
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/haiti_vs_costa_rica.m3u8
+
+name: Ireland Vs Portugal
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ireland_vs_portugal.m3u8
+
+name: Moldova Vs Italy
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/moldova_vs_italy.m3u8
+
+name: Nigeria Vs Gabon
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/nigeria_vs_gabon.m3u8
+
+name: Norway Vs Estonia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/norway_vs_estonia.m3u8
+
+name: Norway Vs Estonia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/norway_vs_estonia_2.m3u8
+
+name: Suriname Vs El Salvador
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/suriname_vs_el_salvador.m3u8
 
