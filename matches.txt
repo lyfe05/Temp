@@ -1,135 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: United Arab Emirates Vs Iraq
-🕒 Start: 2025-11-13 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-MA | Astro Arena Bola: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
-
-==================================================
-
-🏟️ Match: Nigeria Vs Gabon
-🕒 Start: 2025-11-13 19:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: Armenia Vs Hungary
-🕒 Start: 2025-11-13 20:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 3: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
-DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
-
-==================================================
-
-🏟️ Match: Norway Vs Estonia
-🕒 Start: 2025-11-13 20:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 5: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
-DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
-
-==================================================
-
-🏟️ Match: Azerbaijan Vs Iceland
-🕒 Start: 2025-11-13 20:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: North Macedonia Vs Latvia
-🕒 Start: 2025-11-13 20:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-ES | FOX Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
-
-==================================================
-
-🏟️ Match: Cameroon Vs Congo DR
-🕒 Start: 2025-11-13 22:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
-
-==================================================
-
-🏟️ Match: England Vs Serbia
-🕒 Start: 2025-11-13 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 4: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
-DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Ireland Republic Vs Portugal
-🕒 Start: 2025-11-13 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 6: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
-PT | Sport TV1: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
-
-==================================================
-
-🏟️ Match: Moldova Vs Italy
-🕒 Start: 2025-11-13 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 7: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
-IT | RAI 1: https://sansat.link/ch?id=47 | https://glisco.link/ch?id=47
-
-==================================================
-
-🏟️ Match: Andorra Vs Albania
-🕒 Start: 2025-11-13 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 9: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
-
-==================================================
-
-🏟️ Match: France Vs Ukraine
-🕒 Start: 2025-11-13 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
-FR | TF1: https://sansat.link/ch?id=50 | https://glisco.link/ch?id=50
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Suriname Vs El Salvador
-🕒 Start: 2025-11-14 01:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
-ES | Universo: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
-
-==================================================
-
-🏟️ Match: Bermuda Vs Curacao
-🕒 Start: 2025-11-14 03:00 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
-
-==================================================
-
-🏟️ Match: Canada Vs Ecuador
-🕒 Start: 2025-11-14 03:30 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-CA | TSN4: https://sansat.link/ch?id=10 | https://glisco.link/ch?id=10
-
-==================================================
-
 🏟️ Match: Haiti Vs Costa Rica
 🕒 Start: 2025-11-14 05:00 GMT+3
 📍 Tournament: World Cup Qualifying
@@ -246,6 +116,226 @@ US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=8
 📍 Tournament: Europe Euro U-21 Qualifying
 📺 Channels:
 ES | TDP: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Lanus Vs Atletico Tucuman
+🕒 Start: 2025-11-15 02:00 GMT+3
+📍 Tournament: Argentina Primera Division
+📺 Channels:
+ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Venezuela Vs Australia
+🕒 Start: 2025-11-15 04:00 GMT+3
+📍 Tournament: International Friendly
+📺 Channels:
+ES | FOX Deportes: https://sansat.link/ch?id=87 | https://glisco.link/ch?id=87
+
+==================================================
+
+🏟️ Match: Croatia U19 Vs Gibraltar U19
+🕒 Start: 2025-11-15 13:30 GMT+3
+📍 Tournament: Europe U19 Euro Qualifying
+📺 Channels:
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
+
+==================================================
+
+🏟️ Match: Korea Republic U17 Vs England U17
+🕒 Start: 2025-11-15 15:30 GMT+3
+📍 Tournament: World FIFA U-17 World Cup
+📺 Channels:
+GB | ITV 4: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
+
+==================================================
+
+🏟️ Match: Rudes Vs Jarun
+🕒 Start: 2025-11-15 16:00 GMT+3
+📍 Tournament: Croatia Prva NL
+📺 Channels:
+HR | MAX Sport 1: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
+
+==================================================
+
+🏟️ Match: Kazakhstan Vs Belgium
+🕒 Start: 2025-11-15 17:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 4: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+US | Fox Sports 1: https://sansat.link/ch?id=81 | https://glisco.link/ch?id=81
+
+==================================================
+
+🏟️ Match: Yantra Vs Dunav 2010
+🕒 Start: 2025-11-15 17:30 GMT+3
+📍 Tournament: Bulgaria Second League
+📺 Channels:
+BG | Diema Sport: https://sansat.link/ch?id=48 | https://glisco.link/ch?id=48
+
+==================================================
+
+🏟️ Match: Albacete Vs FC Andorra
+🕒 Start: 2025-11-15 18:00 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LALIGA TV Hypermotion: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
+
+==================================================
+
+🏟️ Match: CD Castellon Vs Real Sociedad II
+🕒 Start: 2025-11-15 18:00 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LALIGA TV Hypermotion 2: https://sansat.link/ch?id=30 | https://glisco.link/ch?id=30
+
+==================================================
+
+🏟️ Match: Brann Vs Bodø / Glimt Kvinner
+🕒 Start: 2025-11-15 18:00 GMT+3
+📍 Tournament: Norway Toppserien
+📺 Channels:
+NO | TV2 Sport: https://sansat.link/ch?id=63 | https://glisco.link/ch?id=63
+
+==================================================
+
+🏟️ Match: Washington Spirit Vs Portland Thorns
+🕒 Start: 2025-11-15 20:00 GMT+3
+📍 Tournament: United States NWSL
+📺 Channels:
+EN | TNT Sports 2: https://sansat.link/ch?id=2 | https://glisco.link/ch?id=2
+
+==================================================
+
+🏟️ Match: Liechtenstein Vs Wales
+🕒 Start: 2025-11-15 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 6: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
+
+==================================================
+
+🏟️ Match: Georgia Vs Spain
+🕒 Start: 2025-11-15 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 7: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+
+==================================================
+
+🏟️ Match: Turkey Vs Bulgaria
+🕒 Start: 2025-11-15 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 9: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Cyprus Vs Austria
+🕒 Start: 2025-11-15 20:00 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+GR | Nova Sports Start: https://sansat.link/ch?id=24 | https://glisco.link/ch?id=24
+
+==================================================
+
+🏟️ Match: Eindhoven Vs Cambuur
+🕒 Start: 2025-11-15 20:45 GMT+3
+📍 Tournament: Netherlands Eerste Divisie
+📺 Channels:
+NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
+
+==================================================
+
+🏟️ Match: Quetigny Vs Saint-Etienne
+🕒 Start: 2025-11-15 22:30 GMT+3
+📍 Tournament: France Coupe de France
+📺 Channels:
+FR | beIN Sports 2: https://sansat.link/ch?id=52 | https://glisco.link/ch?id=52
+
+==================================================
+
+🏟️ Match: Greece Vs Scotland
+🕒 Start: 2025-11-15 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 7: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
+DE | DAZN1: https://sansat.link/ch?id=17 | https://glisco.link/ch?id=17
+GR | Alpha TV: https://sansat.link/ch?id=23 | https://glisco.link/ch?id=23
+US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
+
+==================================================
+
+🏟️ Match: Switzerland Vs Sweden
+🕒 Start: 2025-11-15 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+NZ | Sky Sport 9: https://sansat.link/ch?id=9 | https://glisco.link/ch?id=9
+US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
+
+==================================================
+
+🏟️ Match: Slovenia Vs Kosovo
+🕒 Start: 2025-11-15 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+DE | DAZN2: https://sansat.link/ch?id=18 | https://glisco.link/ch?id=18
+SI | Sport TV1: https://sansat.link/ch?id=65 | https://glisco.link/ch?id=65
+
+==================================================
+
+🏟️ Match: Denmark Vs Belarus
+🕒 Start: 2025-11-15 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+PL | Polsat Sport Premium 1: https://sansat.link/ch?id=61 | https://glisco.link/ch?id=61
+DK | TV2: https://sansat.link/ch?id=64 | https://glisco.link/ch?id=64
+
+==================================================
+
+🏟️ Match: Bosnia and Herzegovina Vs Romania
+🕒 Start: 2025-11-15 22:45 GMT+3
+📍 Tournament: World Cup Qualifying
+📺 Channels:
+PL | Polsat Sport Premium 2: https://sansat.link/ch?id=62 | https://glisco.link/ch?id=62
+RO | Antena 1: https://sansat.link/ch?id=100 | https://glisco.link/ch?id=100
+
+==================================================
+
+🏟️ Match: San Martin San Juan Vs Aldosivi
+🕒 Start: 2025-11-15 23:00 GMT+3
+📍 Tournament: Argentina Primera Division
+📺 Channels:
+ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
+
+==================================================
+
+🏟️ Match: Godoy Cruz Vs Deportivo Riestra
+🕒 Start: 2025-11-15 23:00 GMT+3
+📍 Tournament: Argentina Primera Division
+📺 Channels:
+ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
+
+==================================================
+
+🏟️ Match: Racing Santander Vs Granada
+🕒 Start: 2025-11-15 23:00 GMT+3
+📍 Tournament: Spain Segunda Division
+📺 Channels:
+ES | LALIGA TV Hypermotion: https://sansat.link/ch?id=28 | https://glisco.link/ch?id=28
+
+==================================================
+
+🏟️ Match: Willem II Vs Emmen
+🕒 Start: 2025-11-15 23:00 GMT+3
+📍 Tournament: Netherlands Eerste Divisie
+📺 Channels:
+NL | ESPN: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
 
 ==================================================
 
