@@ -1,4 +1,31 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-15 09:08:24 GMT+3
-# Total streams: 0
+# Generated: 2025-11-16 09:08:34 GMT+3
+# Total streams: 9
+
+name: Albania Vs England
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/albania_vs_england.m3u8
+
+name: Azerbaijan Vs France
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/azerbaijan_vs_france.m3u8
+
+name: Hungary Vs Ireland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hungary_vs_ireland.m3u8
+
+name: Israel Vs Moldova
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/israel_vs_moldova.m3u8
+
+name: Italy Vs Norway
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/italy_vs_norway.m3u8
+
+name: Italy Vs Norway
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/italy_vs_norway_2.m3u8
+
+name: Portugal Vs Armenia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/portugal_vs_armenia.m3u8
+
+name: Serbia Vs Latvia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/serbia_vs_latvia.m3u8
+
+name: Ukraine Vs Iceland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ukraine_vs_iceland.m3u8
 
