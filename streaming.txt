@@ -1,31 +1,31 @@
 # 🎯 Available Live Streams
-# Generated: 2025-11-16 09:08:34 GMT+3
+# Generated: 2025-11-17 09:13:43 GMT+3
 # Total streams: 9
 
-name: Albania Vs England
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/albania_vs_england.m3u8
+name: Czech Republic Vs Gibraltar
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/czech_republic_vs_gibraltar.m3u8
 
-name: Azerbaijan Vs France
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/azerbaijan_vs_france.m3u8
+name: Germany Vs Slovakia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/germany_vs_slovakia.m3u8
 
-name: Hungary Vs Ireland
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/hungary_vs_ireland.m3u8
+name: Germany Vs Slovakia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/germany_vs_slovakia_2.m3u8
 
-name: Israel Vs Moldova
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/israel_vs_moldova.m3u8
+name: Germany Vs Slovakia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/germany_vs_slovakia_3.m3u8
 
-name: Italy Vs Norway
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/italy_vs_norway.m3u8
+name: Malta Vs Poland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/malta_vs_poland.m3u8
 
-name: Italy Vs Norway
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/italy_vs_norway_2.m3u8
+name: Malta Vs Poland
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/malta_vs_poland_2.m3u8
 
-name: Portugal Vs Armenia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/portugal_vs_armenia.m3u8
+name: Montenegro Vs Croatia
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/montenegro_vs_croatia.m3u8
 
-name: Serbia Vs Latvia
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/serbia_vs_latvia.m3u8
+name: Netherlands Vs Lithuania
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/netherlands_vs_lithuania.m3u8
 
-name: Ukraine Vs Iceland
-url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/ukraine_vs_iceland.m3u8
+name: Northern Ireland Vs Luxembourg
+url: https://raw.githubusercontent.com/lyfe05/Temp/refs/heads/main/streams/northern_ireland_vs_luxembourg.m3u8
 
