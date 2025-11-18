@@ -1,101 +1,5 @@
 ✅ Extracted matches successfully!
 
-🏟️ Match: Finland Vs Andorra
-🕒 Start: 2025-11-17 20:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-FI | YLE TV2: https://sansat.link/ch?id=80 | https://glisco.link/ch?id=80
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Cultural Leonesa Vs Málaga
-🕒 Start: 2025-11-17 22:30 GMT+3
-📍 Tournament: Spain Segunda Division
-📺 Channels:
-ES | LaLiga Hypermotion: https://sansat.link/ch?id=29 | https://glisco.link/ch?id=29
-
-==================================================
-
-🏟️ Match: Germany Vs Slovakia
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 2: https://sansat.link/ch?id=2 | https://glisco.link/ch?id=2
-DE | ZDF: https://sansat.link/ch?id=11 | https://glisco.link/ch?id=11
-US | Fox Sports 2: https://sansat.link/ch?id=82 | https://glisco.link/ch?id=82
-
-==================================================
-
-🏟️ Match: Netherlands Vs Lithuania
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 3: https://sansat.link/ch?id=3 | https://glisco.link/ch?id=3
-NL | NPO 1: https://sansat.link/ch?id=88 | https://glisco.link/ch?id=88
-
-==================================================
-
-🏟️ Match: Montenegro Vs Croatia
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 4: https://sansat.link/ch?id=4 | https://glisco.link/ch?id=4
-HR | NOVA: https://sansat.link/ch?id=70 | https://glisco.link/ch?id=70
-
-==================================================
-
-🏟️ Match: Malta Vs Poland
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 5: https://sansat.link/ch?id=5 | https://glisco.link/ch?id=5
-PL | TVP Sport: https://sansat.link/ch?id=60 | https://glisco.link/ch?id=60
-US | Fox Soccer Plus: https://sansat.link/ch?id=83 | https://glisco.link/ch?id=83
-
-==================================================
-
-🏟️ Match: Czech Republic Vs Gibraltar
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 6: https://sansat.link/ch?id=6 | https://glisco.link/ch?id=6
-CZ | ČT Sport: https://sansat.link/ch?id=41 | https://glisco.link/ch?id=41
-
-==================================================
-
-🏟️ Match: Northern Ireland Vs Luxembourg
-🕒 Start: 2025-11-17 22:45 GMT+3
-📍 Tournament: World Cup Qualifying
-📺 Channels:
-NZ | Sky Sport 7: https://sansat.link/ch?id=7 | https://glisco.link/ch?id=7
-
-==================================================
-
-🏟️ Match: Barracas Central Vs Huracán
-🕒 Start: 2025-11-17 23:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | ESPN Premium Argentina: https://sansat.link/ch?id=26 | https://glisco.link/ch?id=26
-
-==================================================
-
-🏟️ Match: Belgrano Vs Unión Santa Fe
-🕒 Start: 2025-11-17 23:00 GMT+3
-📍 Tournament: Argentina Primera División
-📺 Channels:
-ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
-🏟️ Match: Platense Vs Gimnasia La Plata
-🕒 Start: 2025-11-18 01:30 GMT+3
-📍 Tournament: Argentina Primera Division
-📺 Channels:
-ES | TNT Sports Argentina: https://sansat.link/ch?id=27 | https://glisco.link/ch?id=27
-
-==================================================
-
 🏟️ Match: Iraq Vs United Arab Emirates
 🕒 Start: 2025-11-18 19:00 GMT+3
 📍 Tournament: World Cup Qualifying
@@ -266,14 +170,6 @@ RO | Prima TV: https://sansat.link/ch?id=100 | https://glisco.link/ch?id=100
 
 ==================================================
 
-🏟️ Match: Colombia Vs Australia
-🕒 Start: 2025-11-19 03:00 GMT+3
-📍 Tournament: International Friendly
-📺 Channels:
-PT | Sport TV2: https://sansat.link/ch?id=21 | https://glisco.link/ch?id=21
-
-==================================================
-
 🏟️ Match: USA Vs Uruguay
 🕒 Start: 2025-11-19 03:00 GMT+3
 📍 Tournament: International Friendly
@@ -352,6 +248,56 @@ CY | Cablenet Sports 1: https://sansat.link/ch?id=23 | https://glisco.link/ch?id
 📍 Tournament: Europe UEFA Women's Champions League
 📺 Channels:
 CY | Cablenet Sports 3: https://sansat.link/ch?id=25 | https://glisco.link/ch?id=25
+
+==================================================
+
+🏟️ Match: Palmeiras Vs Vitoria
+🕒 Start: 2025-11-20 01:30 GMT+3
+📍 Tournament: Brazil Brasileirao
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Fluminense Vs Flamengo
+🕒 Start: 2025-11-20 03:30 GMT+3
+📍 Tournament: Brazil Brasileirao
+📺 Channels:
+DE | Sportdigital FUSSBALL: https://sansat.link/ch?id=19 | https://glisco.link/ch?id=19
+
+==================================================
+
+🏟️ Match: Twente Vs Atletico Madrid
+🕒 Start: 2025-11-20 20:45 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: Chelsea FC Vs Barcelona
+🕒 Start: 2025-11-20 23:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+GB | BBC Two: https://sansat.link/ch?id=2 | https://glisco.link/ch?id=2
+ES | ESPN Deportes: https://sansat.link/ch?id=86 | https://glisco.link/ch?id=86
+
+==================================================
+
+🏟️ Match: PSG Vs Bayern
+🕒 Start: 2025-11-20 23:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+US | CBS Sports Network: https://sansat.link/ch?id=8 | https://glisco.link/ch?id=8
+
+==================================================
+
+🏟️ Match: OH Leuven Vs Roma
+🕒 Start: 2025-11-20 23:00 GMT+3
+📍 Tournament: Europe UEFA Women's Champions League
+📺 Channels:
+ES | CBS Sports Golazo: https://sansat.link/ch?id=40 | https://glisco.link/ch?id=40
 
 ==================================================
 
